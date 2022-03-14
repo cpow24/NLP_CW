@@ -1,0 +1,135 @@
+MENTION	T1	1	28	1	30	the adverse hosts	PER	NOM
+MENTION	T5	3	0	3	2	The hardy colonist	PER	NOM
+MENTION	T6	3	5	3	12	the trained European who fought at his side	PER	NOM
+MENTION	T8	4	75	4	79	the distant monarchs of Europe	PER	NOM
+MENTION	T9	4	8	4	11	the practiced native warriors	PER	NOM
+MENTION	T11	6	3	6	3	nature	PER	NOM
+MENTION	T12	6	11	6	12	the combatants	PER	NOM
+MENTION	T13	7	44	7	45	their enemies	PER	NOM
+MENTION	T17	8	25	8	27	the Jesuit missionaries	PER	NOM
+MENTION	T18	9	0	9	3	The less zealous English	PER	NOM
+MENTION	T19	9	21	9	23	their reigning prince	PER	NOM
+MENTION	T25	16	26	16	27	the adventurer	PER	NOM
+MENTION	T28	20	1	20	2	the husbandman	PER	NOM
+MENTION	T29	21	17	21	17	men	PER	NOM
+MENTION	T35	23	43	23	45	her former warriors	PER	NOM
+MENTION	T36	23	3	23	6	her military leaders abroad	PER	NOM
+MENTION	T37	24	4	24	5	her enemies	PER	NOM
+MENTION	T38	24	7	24	8	her servants	PER	NOM
+MENTION	T39	25	5	25	6	the colonists	PER	NOM
+MENTION	T40	26	55	26	55	Indians	PER	NOM
+MENTION	T41	26	15	26	16	a mother	PER	NOM
+MENTION	T42	26	38	26	39	trained warriors	PER	NOM
+MENTION	T43	28	0	28	2	The alarmed colonists	PER	NOM
+MENTION	T44	29	4	29	6	their merciless enemies	PER	NOM
+MENTION	T45	30	40	30	44	the natives of the forests	PER	NOM
+MENTION	T47	31	24	31	24	mothers	PER	NOM
+MENTION	T48	32	29	32	34	the slaves of the basest passions	PER	NOM
+MENTION	T49	33	45	33	47	their Christian foes	PER	NOM
+MENTION	T51	35	4	35	4	Washington	PER	PROP
+MENTION	T53	36	33	36	34	the author	PER	NOM
+MENTION	T56	38	66	38	67	a warrior	PER	NOM
+MENTION	T57	38	26	38	26	Montcalm	PER	PROP
+MENTION	T59	41	30	41	34	the son of the forest	PER	NOM
+MENTION	T61	42	32	42	38	a favorite prince of the reigning family	PER	NOM
+MENTION	T63	42	0	42	6	The loyal servants of the British crown	PER	NOM
+MENTION	T65	43	15	43	17	a few provincials	PER	NOM
+MENTION	T67	43	34	43	34	Montcalm	PER	PROP
+MENTION	T68	43	13	43	13	regulars	PER	NOM
+MENTION	T69	44	26	44	30	more than five thousand men	PER	NOM
+MENTION	T70	44	15	44	16	the king	PER	NOM
+MENTION	T71	45	9	45	10	this officer	PER	NOM
+MENTION	T72	45	19	45	19	combatants	PER	NOM
+MENTION	T74	46	9	46	10	both officers	PER	NOM
+MENTION	T75	46	21	46	23	their formidable antagonists	PER	NOM
+MENTION	T77	46	12	46	12	men	PER	NOM
+MENTION	T78	47	48	47	50	fifteen hundred men	PER	NOM
+MENTION	T79	49	7	49	7	Webb	PER	PROP
+MENTION	T80	50	28	50	31	the more practiced veteran	PER	NOM
+MENTION	T81	50	0	50	5	The novice in the military art	PER	NOM
+MENTION	T84	51	43	51	44	some officer	PER	NOM
+MENTION	T86	1	1	1	1	Shakespeare	PER	PROP
+MENTION	T95	4	55	4	79	those who had pledged their blood to satiate their vengeance , or to uphold the cold and selfish policy of the distant monarchs of Europe	PER	NOM
+MENTION	T111	9	25	9	31	the second of the house of Hanover	PER	NOM
+MENTION	T112	10	5	10	11	the untutored possessors of its wooded scenery	PER	NOM
+MENTION	T107	8	1	8	3	its southern termination	PER	NOM
+MENTION	T27	20	51	20	62	skeleton bands , that were haggard with care or dejected by defeat	PER	NOM
+MENTION	T155	21	49	21	54	many a gallant and reckless youth	PER	NOM
+MENTION	T156	23	15	23	18	her councils at home	PER	NOM
+MENTION	T157	23	47	23	47	statesmen	PER	NOM
+MENTION	T158	25	27	25	29	the natural participators	PER	NOM
+MENTION	T162	26	28	26	93	a chief who had been selected from a crowd of trained warriors , for his rare military endowments , disgracefully routed by a handful of French and Indians , and only saved from annihilation by the coolness and spirit of a Virginian boy , whose riper fame has since diffused itself , with the steady influence of moral truth , to the uttermost confines of Christendom	PER	NOM
+MENTION	T163	26	35	26	39	a crowd of trained warriors	PER	NOM
+MENTION	T164	26	50	26	55	a handful of French and Indians	PER	NOM
+MENTION	T165	26	53	26	53	French	PER	NOM
+MENTION	T166	26	68	26	93	a Virginian boy , whose riper fame has since diffused itself , with the steady influence of moral truth , to the uttermost confines of Christendom	PER	NOM
+MENTION	T168	28	8	28	9	the savages	PER	NOM
+MENTION	T46	31	1	31	5	the credulous and excited traveler	PER	NOM
+MENTION	T173	31	17	31	18	the timid	PER	NOM
+MENTION	T174	31	30	31	40	those children which slumbered within the security of the largest towns	PER	NOM
+MENTION	T176	32	21	32	34	those who should have remembered their manhood , the slaves of the basest passions	PER	NOM
+MENTION	T177	33	21	33	23	that abject class	PER	NOM
+MENTION	T179	33	56	33	58	their relentless allies	PER	NOM
+MENTION	T180	34	1	34	1	Washington	PER	PROP
+MENTION	T181	34	8	34	10	the European general	PER	NOM
+MENTION	T58	38	73	38	79	an enemy within reach of his blow	PER	NOM
+MENTION	T190	39	16	39	49	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the " holy lake , " for a speedy and powerful reinforcement	PER	NOM
+MENTION	T191	39	27	39	27	Munro	PER	PROP
+MENTION	T197	41	44	41	52	a detachment of troops , with their necessary baggage	PER	NOM
+MENTION	T200	42	36	42	38	the reigning family	PER	NOM
+MENTION	T201	43	0	43	4	The veteran Scotchman just named	PER	NOM
+MENTION	T207	44	7	44	20	General Webb , who commanded the armies of the king in the northern provinces	PER	NOM
+MENTION	T208	44	23	44	30	a body of more than five thousand men	PER	NOM
+MENTION	T73	45	21	45	41	the enterprising Frenchman , who had ventured so far from his reinforcements , with an army but little superior in numbers	PER	NOM
+MENTION	T224	48	19	48	20	the commander-in-chief	PER	NOM
+MENTION	T192	39	29	39	43	the commander of a work on the shore of the " holy lake , "	PER	NOM
+MENTION	T22	11	6	11	7	the Indians	PER	NOM
+MENTION	T232	0	9	0	9	my	PER	PRON
+MENTION	T233	0	26	0	26	my	PER	PRON
+MENTION	T234	3	11	3	11	his	PER	PRON
+MENTION	T235	3	43	3	43	their	PER	PRON
+MENTION	T236	4	13	4	13	they	PER	PRON
+MENTION	T237	4	59	4	59	their	PER	PRON
+MENTION	T238	4	63	4	63	their	PER	PRON
+MENTION	T240	9	5	9	5	they	PER	PRON
+MENTION	T241	9	16	9	16	they	PER	PRON
+MENTION	T242	9	21	9	21	their	PER	PRON
+MENTION	T243	10	13	10	13	their	PER	PRON
+MENTION	T249	17	47	17	47	we	PER	PRON
+MENTION	T252	21	57	21	57	he	PER	PRON
+MENTION	T253	21	60	21	60	them	PER	PRON
+MENTION	T254	21	66	21	66	his	PER	PRON
+MENTION	T255	22	12	22	12	we	PER	PRON
+MENTION	T263	26	0	26	0	They	PER	PRON
+MENTION	T264	26	18	26	18	they	PER	PRON
+MENTION	T265	26	42	26	42	his	PER	PRON
+MENTION	T266	29	4	29	4	their	PER	PRON
+MENTION	T267	30	7	30	7	their	PER	PRON
+MENTION	T268	32	26	32	26	their	PER	PRON
+MENTION	T269	33	32	33	32	they	PER	PRON
+MENTION	T270	33	45	33	45	their	PER	PRON
+MENTION	T271	33	56	33	56	their	PER	PRON
+MENTION	T272	34	16	34	16	he	PER	PRON
+MENTION	T273	34	34	34	34	his	PER	PRON
+MENTION	T274	35	13	35	13	his	PER	PRON
+MENTION	T275	36	14	36	14	his	PER	PRON
+MENTION	T276	36	18	36	18	his	PER	PRON
+MENTION	T277	38	78	38	78	his	PER	PRON
+MENTION	T279	41	50	41	50	their	PER	PRON
+MENTION	T280	43	41	43	41	his	PER	PRON
+MENTION	T281	45	6	45	6	his	PER	PRON
+MENTION	T282	45	31	45	31	his	PER	PRON
+MENTION	T283	46	5	46	5	their	PER	PRON
+MENTION	T284	46	21	46	21	their	PER	PRON
+MENTION	T285	46	26	46	26	their	PER	PRON
+MENTION	T286	46	35	46	35	their	PER	PRON
+MENTION	T287	46	56	46	56	their	PER	PRON
+MENTION	T288	48	25	48	25	he	PER	PRON
+MENTION	T290	50	13	50	13	his	PER	PRON
+MENTION	T291	50	20	50	20	his	PER	PRON
+MENTION	T292	50	33	50	33	his	PER	PRON
+MENTION	T293	50	46	50	46	his	PER	PRON
+MENTION	T294	50	55	50	55	he	PER	PRON
+MENTION	T295	51	49	51	49	their	PER	PRON
+MENTION	T296	0	3	0	3	Mine	PER	PRON
+MENTION	T138	0	18	0	18	thou	PER	PRON

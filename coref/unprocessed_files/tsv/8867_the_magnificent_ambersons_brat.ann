@@ -24,7 +24,7 @@ MENTION	T40	27	7	27	8	three rooms	FAC	NOM
 MENTION	T42	27	28	27	29	the library	FAC	NOM
 MENTION	T44	28	18	28	18	callers	PER	NOM
 MENTION	T46	28	7	28	8	the library	FAC	NOM
-MENTION	T48	29	18	29	20	the “ parlour	FAC	NOM
+MENTION	T48	29	18	29	20	the " parlour	FAC	NOM
 MENTION	T51	31	6	31	8	mother-and-father 's room	FAC	NOM
 MENTION	T52	31	23	31	26	one or two daughters	PER	NOM
 MENTION	T53	31	68	31	68	downstairs	FAC	NOM
@@ -74,9 +74,9 @@ MENTION	T105	10	9	10	9	dressmakers	PER	NOM
 MENTION	T106	10	11	10	11	shoemakers	PER	NOM
 MENTION	T107	10	13	10	13	hatmakers	PER	NOM
 MENTION	T21	12	42	12	43	racing shells	VEH	NOM
-MENTION	T108	14	17	14	26	that variation of dandy known as the “ dude ”	PER	NOM
+MENTION	T108	14	17	14	26	that variation of dandy known as the " dude "	PER	NOM
 MENTION	T109	14	20	14	20	dandy	PER	NOM
-MENTION	T110	14	23	14	26	the “ dude ”	PER	NOM
+MENTION	T110	14	23	14	26	the " dude "	PER	NOM
 MENTION	T22	19	36	19	38	the United States	GPE	NOM
 MENTION	T24	19	55	19	56	the land	GPE	NOM
 MENTION	T111	21	9	21	16	most of the houses of the Midland town	FAC	NOM
@@ -84,7 +84,7 @@ MENTION	T112	23	3	23	39	commodious yards , well shaded by leftover forest trees 
 MENTION	T30	23	29	23	30	the land	LOC	NOM
 MENTION	T113	23	36	23	36	bayous	LOC	NOM
 MENTION	T114	23	38	23	39	the creek	LOC	NOM
-MENTION	T115	24	0	24	19	The house of a “ prominent resident , ” facing Military Square , or National Avenue , or Tennessee Street	FAC	NOM
+MENTION	T115	24	0	24	19	The house of a " prominent resident , " facing Military Square , or National Avenue , or Tennessee Street	FAC	NOM
 MENTION	T116	24	10	24	11	Military Square	FAC	PROP
 MENTION	T117	24	14	24	15	National Avenue	FAC	PROP
 MENTION	T119	27	40	27	41	these people	PER	NOM
@@ -97,9 +97,9 @@ MENTION	T124	31	6	31	6	mother-and-father	PER	NOM
 MENTION	T126	31	13	31	20	a smaller room for one or two sons	FAC	NOM
 MENTION	T54	31	17	31	20	one or two sons	PER	NOM
 MENTION	T127	31	21	31	26	another for one or two daughters	FAC	NOM
-MENTION	T50	31	28	31	85	each of these rooms containing a double bed , a “ washstand , ” a “ bureau , ” a wardrobe , a little table , a rocking-chair , and often a chair or two that had been slightly damaged downstairs , but not enough to justify either the expense of repair or decisive abandonment in the attic	FAC	NOM
+MENTION	T50	31	28	31	85	each of these rooms containing a double bed , a " washstand , " a " bureau , " a wardrobe , a little table , a rocking-chair , and often a chair or two that had been slightly damaged downstairs , but not enough to justify either the expense of repair or decisive abandonment in the attic	FAC	NOM
 MENTION	T128	31	84	31	85	the attic	FAC	NOM
-MENTION	T129	32	4	32	10	a “ spare-room , ” for visitors	FAC	NOM
+MENTION	T129	32	4	32	10	a " spare-room , " for visitors	FAC	NOM
 MENTION	T130	33	4	33	4	bathrooms	FAC	NOM
 MENTION	T58	34	2	34	2	American	GPE	NOM
 MENTION	T131	35	9	35	12	a bleak little chamber	FAC	NOM
@@ -122,8 +122,8 @@ MENTION	T148	41	0	41	0	Darkies	PER	NOM
 MENTION	T149	42	11	42	12	older people	PER	NOM
 MENTION	T150	43	4	43	10	those darky hired-men of the Midland town	PER	NOM
 MENTION	T81	45	0	45	1	The stables	FAC	NOM
-MENTION	T151	45	24	45	27	the “ girl ”	PER	NOM
-MENTION	T152	45	29	45	32	the “ hired-man ”	PER	NOM
+MENTION	T151	45	24	45	27	the " girl "	PER	NOM
+MENTION	T152	45	29	45	32	the " hired-man "	PER	NOM
 MENTION	T153	46	2	46	2	stable	FAC	NOM
 MENTION	T154	46	4	46	4	woodshed	FAC	NOM
 MENTION	T157	49	2	49	5	the little bunty street-cars	VEH	NOM
@@ -135,33 +135,33 @@ MENTION	T162	52	4	52	5	the car	VEH	NOM
 MENTION	T163	53	9	53	10	the car	VEH	NOM
 MENTION	T164	53	27	53	28	the car	VEH	NOM
 MENTION	T165	53	51	53	51	downstairs	FAC	NOM
-MENTION	T166	53	58	53	61	the “ girl ”	PER	NOM
+MENTION	T166	53	58	53	61	the " girl "	PER	NOM
 MENTION	T167	54	13	54	14	the car	VEH	NOM
 MENTION	T168	55	6	55	7	the car	VEH	NOM
 MENTION	T169	55	27	55	28	the trolley-car	VEH	NOM
 MENTION	T25	18	3	18	4	the wearers	PER	NOM
 MENTION	T82	44	27	44	29	the careless drivers	PER	NOM
 MENTION	T27	21	4	21	5	the Ambersons	PER	PROP
-MENTION	T70	37	5	37	10	“ the girl 's room ”	FAC	NOM
-MENTION	T69	37	2	37	10	the inhabitant of “ the girl 's room ”	PER	NOM
-MENTION	T36	26	18	26	23	a “ back hall . ”	FAC	NOM
-MENTION	T38	26	10	26	14	a “ side hall ”	FAC	NOM
-MENTION	T37	26	2	26	6	a “ front hall ”	FAC	NOM
-MENTION	T41	27	2	27	5	“ front hall ”	FAC	NOM
-MENTION	T33	25	9	25	13	a “ back porch ”	FAC	NOM
-MENTION	T35	25	16	25	21	a “ side porch , ”	FAC	NOM
-MENTION	T34	25	3	25	7	a “ front porch ”	FAC	NOM
-MENTION	T118	27	10	27	14	the “ parlour , ”	FAC	NOM
-MENTION	T43	27	15	27	20	the “ sitting room , ”	FAC	NOM
-MENTION	T39	27	22	27	25	the “ library ”	FAC	NOM
-MENTION	T31	24	3	24	8	a “ prominent resident , ”	PER	NOM
-MENTION	T47	28	11	28	16	the “ sitting room , ”	FAC	NOM
-MENTION	T45	28	28	28	32	the “ parlour , ”	FAC	NOM
+MENTION	T70	37	5	37	10	" the girl 's room "	FAC	NOM
+MENTION	T69	37	2	37	10	the inhabitant of " the girl 's room "	PER	NOM
+MENTION	T36	26	18	26	23	a " back hall . "	FAC	NOM
+MENTION	T38	26	10	26	14	a " side hall "	FAC	NOM
+MENTION	T37	26	2	26	6	a " front hall "	FAC	NOM
+MENTION	T41	27	2	27	5	" front hall "	FAC	NOM
+MENTION	T33	25	9	25	13	a " back porch "	FAC	NOM
+MENTION	T35	25	16	25	21	a " side porch , "	FAC	NOM
+MENTION	T34	25	3	25	7	a " front porch "	FAC	NOM
+MENTION	T118	27	10	27	14	the " parlour , "	FAC	NOM
+MENTION	T43	27	15	27	20	the " sitting room , "	FAC	NOM
+MENTION	T39	27	22	27	25	the " library "	FAC	NOM
+MENTION	T31	24	3	24	8	a " prominent resident , "	PER	NOM
+MENTION	T47	28	11	28	16	the " sitting room , "	FAC	NOM
+MENTION	T45	28	28	28	32	the " parlour , "	FAC	NOM
 MENTION	T134	35	16	35	17	the girl	PER	NOM
 MENTION	T63	35	16	35	19	the girl 's room	FAC	NOM
-MENTION	T156	46	11	46	15	the “ hired-man , ”	PER	NOM
-MENTION	T155	46	7	46	15	the whole tribe of the “ hired-man , ”	PER	NOM
-MENTION	T14	8	23	8	47	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a “ stove-pipe . ”	PER	NOM
+MENTION	T156	46	11	46	15	the " hired-man , "	PER	NOM
+MENTION	T155	46	7	46	15	the whole tribe of the " hired-man , "	PER	NOM
+MENTION	T14	8	23	8	47	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a " stove-pipe . "	PER	NOM
 MENTION	T171	0	14	0	15	other people	PER	NOM
 MENTION	T172	4	19	4	19	everybody	PER	NOM
 MENTION	T173	5	6	5	7	everybody else	PER	NOM
@@ -330,7 +330,7 @@ COREF	T126	a_smaller_room_for_one_or_two_sons-69
 COREF	T54	one_or_two_sons-70
 COREF	T127	another_for_one_or_two_daughters-71
 COREF	T52	one_or_two_daughters-72
-COREF	T50	each_of_these_rooms_containing_a_double_bed_,_a_“_washstand_,_”_a_“_bureau_,_”_a_wardrobe_,_a_little_table_,_a_rocking-chair_,_and_often_a_chair_or_two_that_had_been_slightly_damaged_downstairs_,_but_not_enough_to_justify_either_the_expense_of_repair_or_decisive_abandonment_in_the_attic-100003
+COREF	T50	each_of_these_rooms_containing_a_double_bed_,_a_"_washstand_,_"_a_"_bureau_,_"_a_wardrobe_,_a_little_table_,_a_rocking-chair_,_and_often_a_chair_or_two_that_had_been_slightly_damaged_downstairs_,_but_not_enough_to_justify_either_the_expense_of_repair_or_decisive_abandonment_in_the_attic-100003
 COREF	T53	downstairs-74
 COREF	T128	the_attic-75
 COREF	T129	a___spare-room_____for_visitors-76

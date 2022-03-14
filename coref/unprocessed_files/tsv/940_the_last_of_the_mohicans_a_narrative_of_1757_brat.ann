@@ -107,7 +107,7 @@ MENTION	T119	13	0	13	1	Lake George	LOC	PROP
 MENTION	T120	13	18	13	24	a sort of tail to Lake Champlain	LOC	NOM
 MENTION	T121	15	4	15	5	countless islands	LOC	NOM
 MENTION	T122	15	10	15	10	mountains	LOC	NOM
-MENTION	T123	15	12	15	15	the “ holy lake	LOC	NOM
+MENTION	T123	15	12	15	15	the " holy lake	LOC	NOM
 MENTION	T124	16	1	16	14	the high plain that there interposed itself to the further passage of the water	LOC	NOM
 MENTION	T125	16	13	16	14	the water	LOC	NOM
 MENTION	T126	16	29	16	33	the banks of the Hudson	LOC	NOM
@@ -179,7 +179,7 @@ MENTION	T66	38	8	38	23	the fort which covered the southern termination of the po
 MENTION	T187	38	12	38	23	the southern termination of the portage between the Hudson and the lakes	LOC	NOM
 MENTION	T188	38	22	38	23	the lakes	LOC	NOM
 MENTION	T58	38	73	38	79	an enemy within reach of his blow	PER	NOM
-MENTION	T190	39	16	39	49	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the “ holy lake , ” for a speedy and powerful reinforcement	PER	NOM
+MENTION	T190	39	16	39	49	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the " holy lake , " for a speedy and powerful reinforcement	PER	NOM
 MENTION	T191	39	27	39	27	Munro	PER	PROP
 MENTION	T195	40	9	40	11	these two posts	FAC	NOM
 MENTION	T196	41	0	41	2	The rude path	FAC	NOM
@@ -218,12 +218,12 @@ MENTION	T227	51	12	51	15	the distant western hills	LOC	NOM
 MENTION	T228	51	24	51	26	the secluded spot	LOC	NOM
 MENTION	T229	51	65	51	66	the camp	FAC	NOM
 MENTION	T104	7	18	7	23	the neighboring province of New York	GPE	NOM
-MENTION	T189	38	36	38	47	an army “ numerous as the leaves on the trees , ”	ORG	NOM
-MENTION	T109	8	44	8	50	lake “ du Saint Sacrement . ”	LOC	NOM
-MENTION	T108	8	10	8	50	another lake , whose waters were so limpid as to have been exclusively selected by the Jesuit missionaries to perform the typical purification of baptism , and to obtain for it the title of lake “ du Saint Sacrement . ”	LOC	NOM
-MENTION	T194	39	38	39	43	the “ holy lake , ”	LOC	NOM
-MENTION	T193	39	35	39	43	the shore of the “ holy lake , ”	LOC	NOM
-MENTION	T192	39	29	39	43	the commander of a work on the shore of the “ holy lake , ”	PER	NOM
+MENTION	T189	38	36	38	47	an army " numerous as the leaves on the trees , "	ORG	NOM
+MENTION	T109	8	44	8	50	lake " du Saint Sacrement . "	LOC	NOM
+MENTION	T108	8	10	8	50	another lake , whose waters were so limpid as to have been exclusively selected by the Jesuit missionaries to perform the typical purification of baptism , and to obtain for it the title of lake " du Saint Sacrement . "	LOC	NOM
+MENTION	T194	39	38	39	43	the " holy lake , "	LOC	NOM
+MENTION	T193	39	35	39	43	the shore of the " holy lake , "	LOC	NOM
+MENTION	T192	39	29	39	43	the commander of a work on the shore of the " holy lake , "	PER	NOM
 MENTION	T231	6	5	6	5	there	LOC	NOM
 MENTION	T22	11	6	11	7	the Indians	PER	NOM
 MENTION	T232	0	9	0	9	my	PER	PRON

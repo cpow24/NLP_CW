@@ -61,7 +61,7 @@ MENTION	T109	107	8	107	9	Mr. Pontellier	PER	PROP
 MENTION	T110	107	12	107	12	Klein	PER	PROP
 MENTION	T1	5	0	5	1	Mr. Pontellier	PER	PROP
 MENTION	T113	6	3	6	4	the gallery	FAC	NOM
-MENTION	T114	6	7	6	20	the narrow “ bridges ” which connected the Lebrun cottages one with the other	FAC	NOM
+MENTION	T114	6	7	6	20	the narrow " bridges " which connected the Lebrun cottages one with the other	FAC	NOM
 MENTION	T115	6	14	6	16	the Lebrun cottages	FAC	NOM
 MENTION	T116	7	8	7	10	the main house	FAC	NOM
 MENTION	T3	10	6	10	8	his own cottage	FAC	NOM
@@ -123,8 +123,8 @@ MENTION	T58	105	12	105	14	New Orleans club	ORG	NOM
 MENTION	T87	109	3	109	4	his wife	PER	NOM
 MENTION	T92	101	5	101	22	her sister , who was away in the East , and who had engaged herself to be married	PER	NOM
 MENTION	T44	57	15	57	15	Klein	PER	PROP
-MENTION	T112	98	18	98	23	the “ Quartier Francais , ”	LOC	NOM
-MENTION	T83	98	15	98	23	exclusive visitors from the “ Quartier Francais , ”	PER	NOM
+MENTION	T112	98	18	98	23	the " Quartier Francais , "	LOC	NOM
+MENTION	T83	98	15	98	23	exclusive visitors from the " Quartier Francais , "	PER	NOM
 MENTION	T155	4	12	4	12	nobody	PER	NOM
 MENTION	T123	11	8	11	8	there	FAC	NOM
 MENTION	T130	30	6	30	6	there	FAC	NOM

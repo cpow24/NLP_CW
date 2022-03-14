@@ -48,7 +48,7 @@ MENTION	T40	45	5	45	9	this part of the country	LOC	NOM
 MENTION	T41	48	5	48	5	here	LOC	NOM
 MENTION	T42	55	5	55	7	the travelling canvasser	PER	NOM
 MENTION	T43	56	41	56	43	susceptible young women	PER	NOM
-MENTION	T7	56	45	56	49	a “ masher . ”	PER	NOM
+MENTION	T7	56	45	56	49	a " masher . "	PER	NOM
 MENTION	T44	62	28	62	28	Carrie	PER	PROP
 MENTION	T46	69	4	69	6	a young woman	PER	NOM
 MENTION	T47	71	3	71	5	a department store	FAC	NOM

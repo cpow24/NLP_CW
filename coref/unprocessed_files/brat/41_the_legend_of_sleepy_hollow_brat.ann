@@ -107,7 +107,7 @@ T116	NOM_LOC 5546 5767	those little nooks of still water , which border a rapid 
 T117	PROP_LOC 5835 5848	Sleepy Hollow
 T118	PROP_LOC 6201 6214	Sleepy Hollow
 T119	NOM_LOC 6264 6276	the vicinity
-T120	NOM_PER 6096 6276	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , “ tarried , ” in Sleepy Hollow , for the purpose of instructing the children of the vicinity
+T120	NOM_PER 6096 6276	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , " tarried , " in Sleepy Hollow , for the purpose of instructing the children of the vicinity
 T121	PROP_PER 6126 6139	Ichabod Crane
 T122	PROP_GPE 6298 6309	Connecticut
 T123	NOM_GPE 6335 6344	the Union
@@ -349,7 +349,7 @@ T426	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 5807 5808	I
 T358	Sleepy_Hollow-19 5835 5848	Sleepy Hollow
 T427	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 5855 5856	I
 T428	NARRATOR__DIEDRICH_KNICKERBOCKER_-18 5874 5875	I
-T361	ICHABOD_CRANE-58 6096 6276	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , “ tarried , ” in Sleepy Hollow , for the purpose of instructing the children of the vicinity
+T361	ICHABOD_CRANE-58 6096 6276	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , " tarried , " in Sleepy Hollow , for the purpose of instructing the children of the vicinity
 T362	ICHABOD_CRANE-58 6126 6139	Ichabod Crane
 T429	ICHABOD_CRANE-58 6166 6168	he
 T359	Sleepy_Hollow-19 6201 6214	Sleepy Hollow

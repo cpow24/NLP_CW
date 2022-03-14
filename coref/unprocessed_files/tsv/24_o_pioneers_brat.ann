@@ -67,8 +67,8 @@ MENTION	T83	1	0	1	2	The Wild Land	LOC	NOM
 MENTION	T84	2	18	2	20	the gray prairie	LOC	NOM
 MENTION	T85	3	0	3	1	The dwelling-houses	FAC	NOM
 MENTION	T4	3	39	3	41	the open plain	LOC	NOM
-MENTION	T86	5	4	5	45	a deeply rutted road , now frozen hard , which ran from the squat red railway station and the grain “ elevator ” at the north end of the town to the lumber yard and the horse pond at the south end	FAC	NOM
-MENTION	T87	5	22	5	26	the grain “ elevator ”	FAC	NOM
+MENTION	T86	5	4	5	45	a deeply rutted road , now frozen hard , which ran from the squat red railway station and the grain " elevator " at the north end of the town to the lumber yard and the horse pond at the south end	FAC	NOM
+MENTION	T87	5	22	5	26	the grain " elevator "	FAC	NOM
 MENTION	T88	5	28	5	33	the north end of the town	LOC	NOM
 MENTION	T89	5	39	5	41	the horse pond	LOC	NOM
 MENTION	T90	5	43	5	45	the south end	LOC	NOM

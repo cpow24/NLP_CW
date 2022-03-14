@@ -87,21 +87,21 @@ MENTION	T117	1	31	1	37	the edge of a remarkably blue lake	LOC	NOM
 MENTION	T118	1	39	1	47	a lake that it behooves every tourist to visit	LOC	NOM
 MENTION	T119	2	0	2	4	The shore of the lake	LOC	NOM
 MENTION	T120	2	6	2	13	an unbroken array of establishments of this order	FAC	NOM
-MENTION	T7	2	20	2	46	the “ grand hotel ” of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof	FAC	NOM
+MENTION	T7	2	20	2	46	the " grand hotel " of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof	FAC	NOM
 MENTION	T6	2	49	2	80	the little Swiss pension of an elder day , with its name inscribed in German-looking lettering upon a pink or yellow wall and an awkward summerhouse in the angle of the garden	FAC	NOM
 MENTION	T8	3	0	3	5	One of the hotels at Vevey	FAC	NOM
 MENTION	T9	4	10	4	11	American travelers	PER	NOM
 MENTION	T121	5	16	5	16	Saratoga	GPE	PROP
-MENTION	T122	6	8	6	12	“ stylish ” young girls	PER	NOM
-MENTION	T123	7	8	7	16	the excellent inn of the “ Trois Couronnes ”	FAC	NOM
+MENTION	T122	6	8	6	12	" stylish " young girls	PER	NOM
+MENTION	T123	7	8	7	16	the excellent inn of the " Trois Couronnes "	FAC	NOM
 MENTION	T124	7	23	7	25	the Ocean House	FAC	NOM
 MENTION	T125	7	28	7	29	Congress Hall	FAC	PROP
-MENTION	T126	8	2	8	7	the “ Trois Couronnes , ”	FAC	NOM
+MENTION	T126	8	2	8	7	the " Trois Couronnes , "	FAC	NOM
 MENTION	T127	8	26	8	35	neat German waiters , who look like secretaries of legation	PER	NOM
 MENTION	T19	8	37	8	42	Russian princesses sitting in the garden	PER	NOM
 MENTION	T128	8	44	8	56	little Polish boys walking about held by the hand , with their governors	PER	NOM
 MENTION	T17	8	70	8	77	the picturesque towers of the Castle of Chillon	FAC	NOM
-MENTION	T129	9	18	9	56	a young American , who , two or three years ago , sat in the garden of the “ Trois Couronnes , ” looking about him , rather idly , at some of the graceful objects I have mentioned	PER	NOM
+MENTION	T129	9	18	9	56	a young American , who , two or three years ago , sat in the garden of the " Trois Couronnes , " looking about him , rather idly , at some of the graceful objects I have mentioned	PER	NOM
 MENTION	T131	10	11	10	13	the young American	PER	NOM
 MENTION	T132	11	9	11	11	the little steamer	VEH	NOM
 MENTION	T133	11	15	11	16	his aunt	PER	NOM
@@ -143,8 +143,8 @@ MENTION	T144	93	33	93	35	the opposite mountains	LOC	NOM
 MENTION	T145	97	7	97	7	Randolph	PER	PROP
 MENTION	T146	17	30	17	30	college	ORG	NOM
 MENTION	T38	16	0	16	2	Very few Americans	PER	NOM
-MENTION	T130	9	35	9	40	the “ Trois Couronnes , ”	FAC	NOM
-MENTION	T21	9	32	9	40	the garden of the “ Trois Couronnes , ”	FAC	NOM
+MENTION	T130	9	35	9	40	the " Trois Couronnes , "	FAC	NOM
+MENTION	T21	9	32	9	40	the garden of the " Trois Couronnes , "	FAC	NOM
 MENTION	T147	15	39	15	39	there	GPE	NOM
 MENTION	T148	17	31	17	31	there	GPE	NOM
 MENTION	T149	17	19	17	19	there	GPE	NOM

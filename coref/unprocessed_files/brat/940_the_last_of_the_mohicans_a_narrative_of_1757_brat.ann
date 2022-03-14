@@ -107,7 +107,7 @@ T119	PROP_LOC 2777 2788	Lake George
 T120	NOM_LOC 2855 2887	a sort of tail to Lake Champlain
 T121	NOM_LOC 2956 2973	countless islands
 T122	NOM_LOC 2992 3001	mountains
-T123	NOM_LOC 3004 3019	the “ holy lake
+T123	NOM_LOC 3004 3019	the " holy lake
 T124	NOM_LOC 3081 3160	the high plain that there interposed itself to the further passage of the water
 T125	NOM_LOC 3151 3160	the water
 T126	NOM_LOC 3236 3259	the banks of the Hudson
@@ -179,7 +179,7 @@ T66	NOM_FAC 8301 8396	the fort which covered the southern termination of the por
 T187	NOM_LOC 8324 8396	the southern termination of the portage between the Hudson and the lakes
 T188	NOM_LOC 8387 8396	the lakes
 T58	NOM_PER 8638 8671	an enemy within reach of his blow
-T190	NOM_PER 8748 8911	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the “ holy lake , ” for a speedy and powerful reinforcement
+T190	NOM_PER 8748 8911	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the " holy lake , " for a speedy and powerful reinforcement
 T191	PROP_PER 8804 8809	Munro
 T195	NOM_FAC 8970 8985	these two posts
 T196	NOM_FAC 9015 9028	The rude path
@@ -218,12 +218,12 @@ T227	NOM_LOC 11759 11784	the distant western hills
 T228	NOM_LOC 11824 11841	the secluded spot
 T229	NOM_FAC 12059 12067	the camp
 T104	NOM_GPE 1641 1677	the neighboring province of New York
-T189	NOM_ORG 8458 8507	an army “ numerous as the leaves on the trees , ”
-T109	NOM_LOC 2062 2091	lake “ du Saint Sacrement . ”
-T108	NOM_LOC 1872 2091	another lake , whose waters were so limpid as to have been exclusively selected by the Jesuit missionaries to perform the typical purification of baptism , and to obtain for it the title of lake “ du Saint Sacrement . ”
-T194	NOM_LOC 8852 8871	the “ holy lake , ”
-T193	NOM_LOC 8839 8871	the shore of the “ holy lake , ”
-T192	NOM_PER 8812 8871	the commander of a work on the shore of the “ holy lake , ”
+T189	NOM_ORG 8458 8507	an army " numerous as the leaves on the trees , "
+T109	NOM_LOC 2062 2091	lake " du Saint Sacrement . "
+T108	NOM_LOC 1872 2091	another lake , whose waters were so limpid as to have been exclusively selected by the Jesuit missionaries to perform the typical purification of baptism , and to obtain for it the title of lake " du Saint Sacrement . "
+T194	NOM_LOC 8852 8871	the " holy lake , "
+T193	NOM_LOC 8839 8871	the shore of the " holy lake , "
+T192	NOM_PER 8812 8871	the commander of a work on the shore of the " holy lake , "
 T231	NOM_LOC 1455 1460	there
 T22	NOM_PER 2449 2460	the Indians
 T232	PRON_PER 35 37	my
@@ -350,9 +350,9 @@ T415	the_French-40 1736 1746	the French
 T322	their_enemies-41 1791 1804	their enemies
 T548	the_French-40 1791 1796	their
 T416	its_southern_termination-42 1812 1836	its southern termination
-T417	Lake_George-43 1872 2091	another lake , whose waters were so limpid as to have been exclusively selected by the Jesuit missionaries to perform the typical purification of baptism , and to obtain for it the title of lake “ du Saint Sacrement . ”
+T417	Lake_George-43 1872 2091	another lake , whose waters were so limpid as to have been exclusively selected by the Jesuit missionaries to perform the typical purification of baptism , and to obtain for it the title of lake " du Saint Sacrement . "
 T326	the_Jesuit_missionaries-44 1955 1978	the Jesuit missionaries
-T418	Lake_George-43 2062 2091	lake “ du Saint Sacrement . ”
+T418	Lake_George-43 2062 2091	lake " du Saint Sacrement . "
 T327	The_less_zealous_English-45 2092 2116	The less zealous English
 T549	The_less_zealous_English-45 2125 2129	they
 T419	its_unsullied_fountains-46 2162 2185	its unsullied fountains
@@ -386,7 +386,7 @@ T332	Lake_Champlain-33 2873 2887	Lake Champlain
 T610	Lake_George-43 2942 2945	its
 T430	countless_islands-62 2956 2973	countless islands
 T431	mountains-63 2992 3001	mountains
-T432	Lake_George-43 3004 3019	the “ holy lake
+T432	Lake_George-43 3004 3019	the " holy lake
 T433	the_high_plain_that_there_interposed_itself_to_the_further_passage_of_the_water-64 3081 3160	the high plain that there interposed itself to the further passage of the water
 T434	the_water-65 3151 3160	the water
 T334	the_adventurer-66 3218 3232	the adventurer
@@ -510,16 +510,16 @@ T496	the_southern_termination_of_the_portage_between_the_Hudson_and_the_lakes-13
 T364	the_Hudson-28 8372 8382	the Hudson
 T497	the_adjacent_lakes-29 8387 8396	the lakes
 T366	Montcalm-138 8404 8412	Montcalm
-T498	an_army___numerous_as_the_leaves_on_the_trees____-139 8458 8507	an army “ numerous as the leaves on the trees , ”
+T498	an_army___numerous_as_the_leaves_on_the_trees____-139 8458 8507	an army " numerous as the leaves on the trees , "
 T365	a_warrior-140 8603 8612	a warrior
 T367	an_enemy_within_reach_of_his_blow-141 8638 8671	an enemy within reach of his blow
 T586	a_warrior-140 8663 8666	his
-T499	an_Indian_runner___who_also_bore_an_urgent_request_from_Munro___the_commander_of_a_work_on_the_shore_of_the___holy_lake_____for_a_speedy_and_powerful_reinforcement-142 8748 8911	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the “ holy lake , ” for a speedy and powerful reinforcement
+T499	an_Indian_runner___who_also_bore_an_urgent_request_from_Munro___the_commander_of_a_work_on_the_shore_of_the___holy_lake_____for_a_speedy_and_powerful_reinforcement-142 8748 8911	an Indian runner , who also bore an urgent request from Munro , the commander of a work on the shore of the " holy lake , " for a speedy and powerful reinforcement
 T363	Lake_Champlain-33 8437 8450	the Champlain
 T428	Lake_George-43 2777 2788	Lake George
 T500	Munro-143 8804 8809	Munro
-T502	the_shore_of_the___holy_lake____-144 8839 8871	the shore of the “ holy lake , ”
-T503	Lake_George-43 8852 8871	the “ holy lake , ”
+T502	the_shore_of_the___holy_lake____-144 8839 8871	the shore of the " holy lake , "
+T503	Lake_George-43 8852 8871	the " holy lake , "
 T504	these_two_posts-145 8970 8985	these two posts
 T505	The_rude_path-146 9015 9028	The rude path
 T587	these_two_posts-145 9055 9060	their

@@ -1,0 +1,284 @@
+T0	NOM_PER 108 117	mulattoes
+T2	NOM_PER 232 242	the mother
+T3	NOM_PER 190 210	his half-white child
+T4	NOM_PER 252 259	a slave
+T6	NOM_PER 338 352	the real negro
+T8	NOM_PER 537 543	master
+T9	NOM_PER 548 553	slave
+T10	NOM_PER 683 695	their owners
+T14	NOM_PER 1020 1032	their owners
+T15	NOM_PER 908 919	these women
+T17	NOM_PER 1505 1519	some white man
+T18	NOM_PER 1474 1519	the finely-dressed mistress of some white man
+T21	NOM_PER 1807 1820	their masters
+T23	NOM_PER 1936 1955	an American Senator
+T25	NOM_PER 1854 1872	John Graves , Esq.
+T26	PROP_PER 2025 2030	Agnes
+T27	NOM_PER 2367 2380	two daughters
+T28	NOM_PER 2288 2307	a young slaveholder
+T29	PROP_PER 2255 2260	Agnes
+T31	NOM_PER 2476 2487	a laundress
+T32	NOM_PER 2409 2423	this young man
+T34	NOM_PER 2591 2617	the two daughters of Agnes
+T35	NOM_PER 2633 2645	their mother
+T36	NOM_PER 2741 2754	her daughters
+T37	NOM_PER 2699 2709	The mother
+T38	NOM_PER 2905 2911	ladies
+T39	NOM_PER 2888 2901	her daughters
+T40	NOM_PER 2936 2945	the girls
+T41	NOM_PER 2959 2969	the mother
+T42	NOM_PER 3038 3068	a laundress of the first class
+T43	NOM_PER 3199 3212	her daughters
+T46	NOM_PER 3476 3482	whites
+T48	NOM_PER 3647 3662	white gentlemen
+T50	NOM_PER 3594 3608	quadroon women
+T51	NOM_PER 3611 3626	a few negro men
+T54	NOM_PER 3767 3779	their clerks
+T55	NOM_PER 3784 3792	students
+T56	NOM_PER 3884 3887	son
+T57	NOM_PER 3869 3879	The father
+T61	NOM_PER 4088 4116	the oldest daughter of Agnes
+T62	NOM_PER 4007 4050	a wealthy and retired gentleman of Richmond
+T63	NOM_PER 4119 4132	The young man
+T65	NOM_PER 4782 4792	her sister
+T66	PROP_PER 4795 4808	Henry Linwood
+T67	NOM_PER 4886 4896	her mother
+T70	NOM_PER 5051 5093	the favorite visitor at the house of Agnes
+T72	NOM_PER 4974 4987	the young man
+T74	PROP_PER 5252 5265	Henry Linwood
+T76	NOM_PER 5324 5342	the young quadroon
+T79	PROP_PER 5583 5603	the late John Graves
+T80	NOM_PER 5468 5488	Seventy-nine negroes
+T81	NOM_PER 5896 5904	servants
+T82	NOM_PER 5767 5775	children
+T83	NOM_PER 5756 5775	women with children
+T84	NOM_PER 6019 6055	the above slaves advertised for sale
+T85	PROP_PER 6061 6066	Agnes
+T86	NOM_PER 6071 6088	her two daughters
+T87	NOM_PER 6217 6233	her own mistress
+T91	PROP_PER 6236 6246	Mr. Graves
+T92	NOM_PER 6359 6374	even the slaves
+T93	NOM_PER 6413 6420	masters
+T94	NOM_PER 6342 6352	the whites
+T95	NOM_PER 6440 6450	his slaves
+T96	NOM_PER 6587 6593	slaves
+T97	NOM_PER 6671 6704	oppressive and tyrannical masters
+T99	NOM_PER 6764 6796	this planter of the Old Dominion
+T101	NOM_PER 6707 6726	No slave speculator
+T102	NOM_PER 6806 6849	a constant attendant upon religious worship
+T103	NOM_PER 7003 7019	a liberal friend
+T105	NOM_PER 7049 7059	his slaves
+T106	NOM_PER 7346 7352	slaves
+T107	NOM_PER 7543 7548	women
+T109	NOM_PER 7746 7760	the bystanders
+T110	PROP_PER 7772 7785	young Linwood
+T111	NOM_PER 7909 7941	a bidder for the beautiful slave
+T112	NOM_PER 7922 7941	the beautiful slave
+T114	PROP_PER 8084 8094	Mr. Graves
+T115	NOM_PER 8145 8159	that gentleman
+T116	NOM_PER 8239 8249	companions
+T117	NOM_PER 8288 8297	the slave
+T118	NOM_PER 8315 8328	a good master
+T119	NOM_PER 8386 8410	The less valuable slaves
+T120	NOM_PER 8486 8504	the highest bidder
+T121	NOM_PER 8520 8525	wives
+T123	NOM_PER 8632 8639	sisters
+T124	NOM_PER 8671 8678	mothers
+T126	NOM_PER 8683 8697	their children
+T127	NOM_PER 8784 8791	persons
+T128	NOM_PER 8836 8849	her daughters
+T129	PROP_PER 8826 8831	Agnes
+T130	NOM_PER 8890 8900	The mother
+T131	PROP_PER 8979 8987	Jennings
+T132	NOM_PER 8952 8987	a noted negro trader named Jennings
+T133	NOM_PER 8960 8965	negro
+T134	PROP_PER 9128 9136	Isabella
+T135	NOM_PER 9165 9179	the auctioneer
+T136	NOM_PER 9200 9221	the handsome quadroon
+T139	PROP_PER 9595 9608	Miss Isabella
+T140	NOM_PER 9707 9723	this real Albino
+T141	NOM_PER 9883 9902	such a girl as this
+T143	NOM_PER 10 19	THE SLAVE
+T144	NOM_PER 168 278	the man who sits with his half-white child upon his knee whilst the mother stands , a slave , behind his chair
+T146	NOM_PER 358 369	clear black
+T7	NOM_PER 416 436	the slave population
+T13	NOM_PER 762 779	the mulatto women
+T149	NOM_PER 900 919	Many of these women
+T150	NOM_PER 941 1032	men of property and standing , who furnish them with the means of compensating their owners
+T151	NOM_PER 1209 1220	slave-women
+T154	NOM_PER 1410 1425	the slave-women
+T155	NOM_PER 1402 1425	many of the slave-women
+T157	NOM_PER 1737 1820	the many slave-women in Richmond , Virginia , who hired their time of their masters
+T158	PROP_PER 1827 1832	Agnes
+T159	NOM_PER 1835 1872	a mulatto owned by John Graves , Esq.
+T24	NOM_PER 1920 1955	the daughter of an American Senator
+T160	PROP_PER 2215 2230	the Anglo-Saxon
+T161	NOM_PER 2270 2307	a housekeeper for a young slaveholder
+T162	NOM_PER 2353 2380	the mother of two daughters
+T163	NOM_PER 2426 2441	the slave-woman
+T164	PROP_PER 2569 2577	Isabella
+T165	PROP_PER 2582 2588	Marion
+T166	PROP_PER 2855 2860	Agnes
+T44	NOM_PER 3270 3283	her daughters
+T45	NOM_PER 3448 3471	the men who attend them
+T49	NOM_PER 3721 3728	Bankers
+T53	NOM_PER 3731 3740	merchants
+T167	NOM_PER 3743 3750	lawyers
+T168	NOM_PER 3753 3760	doctors
+T58	PROP_PER 3980 3993	Henry Linwood
+T169	NOM_PER 3996 4050	the son of a wealthy and retired gentleman of Richmond
+T60	PROP_PER 4111 4116	Agnes
+T170	PROP_PER 4077 4085	Isabella
+T172	PROP_PER 4219 4227	Isabella
+T174	NOM_PER 4300 4352	the handsomest girl , colored or white , in the city
+T64	PROP_PER 4737 4743	Marion
+T175	PROP_PER 4833 4841	Isabella
+T68	NOM_PER 4997 5019	the beautiful quadroon
+T176	PROP_PER 5088 5093	Agnes
+T75	NOM_PER 5162 5197	all who reside in tropical climates
+T177	NOM_PER 5692 5709	several mechanics
+T178	NOM_PER 5712 5735	able-bodied field-hands
+T179	NOM_PER 5738 5749	plough-boys
+T180	NOM_PER 5930 5978	several mulatto girls of rare personal qualities
+T88	PROP_PER 6095 6108	young Linwood
+T90	NOM_PER 6114 6126	the quadroon
+T89	NOM_PER 6179 6192	her purchaser
+T181	NOM_PER 6281 6352	an excellent and upright citizen of the first standing among the whites
+T182	NOM_PER 6391 6420	one of the kindest of masters
+T184	PROP_PER 7143 7146	God
+T185	NOM_PER 7305 7367	Farmers , who make a business of raising slaves for the market
+T188	NOM_PER 7387 7506	slave-traders , who make a business of buying human beings in the slave-raising States and taking them to the far South
+T189	NOM_PER 7535 7538	Men
+T108	NOM_PER 7733 7760	any other of the bystanders
+T190	NOM_PER 7671 7760	one who felt a deeper interest in the result of the sale than any other of the bystanders
+T113	NOM_PER 8011 8177	these slaves , all of whom had grown up together on the old homestead of Mr. Graves , and who had been treated with great kindness by that gentleman , during his life
+T191	NOM_PER 8507 8515	Husbands
+T192	PROP_PER 8619 8627	Brothers
+T125	PROP_PER 8990 8996	Marion
+T193	NOM_PER 9555 9569	The auctioneer
+T195	NOM_PER 9691 9700	gentlemen
+T196	NOM_PER 9729 9743	fit fancy-girl
+T197	NOM_PER 9905 9914	Gentlemen
+T198	NOM_PER 10037 10046	gentlemen
+T199	NOM_PER 10153 10162	gentlemen
+T142	NOM_PER 10337 10356	a devoted Christian
+T30	NOM_PER 2515 2550	the most tasteful woman in Richmond
+T73	PROP_PER 5301 5306	Agnes
+T203	NOM_PER 9748 9755	any one
+T204	NOM_PER 5840 5847	any one
+T205	NOM_PER 2129 2135	no one
+T207	PRON_PER 190 193	his
+T208	PRON_PER 216 219	his
+T209	PRON_PER 269 272	his
+T210	PRON_PER 667 672	their
+T211	PRON_PER 683 688	their
+T212	PRON_PER 800 805	their
+T213	PRON_PER 887 892	their
+T214	PRON_PER 984 988	them
+T215	PRON_PER 1020 1025	their
+T216	PRON_PER 1099 1101	we
+T217	PRON_PER 1245 1247	we
+T218	PRON_PER 1793 1798	their
+T219	PRON_PER 1807 1812	their
+T220	PRON_PER 1912 1915	she
+T221	PRON_PER 2014 2016	we
+T222	PRON_PER 2161 2164	her
+T223	PRON_PER 2170 2173	she
+T224	PRON_PER 2180 2183	her
+T225	PRON_PER 2193 2196	her
+T226	PRON_PER 2236 2239	her
+T227	PRON_PER 2449 2456	herself
+T228	PRON_PER 2554 2557	her
+T229	PRON_PER 2633 2638	their
+T230	PRON_PER 2657 2660	her
+T231	PRON_PER 2670 2674	they
+T232	PRON_PER 2684 2687	her
+T233	PRON_PER 2741 2744	her
+T234	PRON_PER 2773 2777	them
+T235	PRON_PER 2826 2831	their
+T236	PRON_PER 2888 2891	her
+T237	PRON_PER 2917 2920	she
+T238	PRON_PER 3004 3008	them
+T239	PRON_PER 3021 3024	Her
+T240	PRON_PER 3077 3080	her
+T241	PRON_PER 3139 3142	her
+T242	PRON_PER 3164 3167	she
+T243	PRON_PER 3199 3202	her
+T244	PRON_PER 3215 3218	she
+T245	PRON_PER 3270 3273	her
+T247	PRON_PER 3767 3772	their
+T248	PRON_PER 4180 4182	he
+T249	PRON_PER 4235 4238	her
+T250	PRON_PER 4290 4293	her
+T251	PRON_PER 4374 4377	she
+T252	PRON_PER 4477 4480	her
+T253	PRON_PER 4499 4502	she
+T254	PRON_PER 4539 4542	her
+T255	PRON_PER 4704 4707	her
+T256	PRON_PER 4782 4785	her
+T257	PRON_PER 4886 4889	her
+T258	PRON_PER 5346 5349	his
+T259	PRON_PER 5357 5359	He
+T260	PRON_PER 5370 5373	his
+T261	PRON_PER 5683 5687	them
+T262	PRON_PER 5786 5790	them
+T263	PRON_PER 5909 5914	their
+T264	PRON_PER 6071 6074	her
+T265	PRON_PER 6142 6144	he
+T266	PRON_PER 6154 6157	her
+T267	PRON_PER 6163 6165	he
+T268	PRON_PER 6179 6182	her
+T269	PRON_PER 6204 6207	her
+T270	PRON_PER 6217 6220	her
+T271	PRON_PER 6384 6387	him
+T272	PRON_PER 6440 6443	his
+T273	PRON_PER 6468 6471	his
+T274	PRON_PER 6483 6485	he
+T275	PRON_PER 6506 6510	them
+T276	PRON_PER 6547 6550	his
+T277	PRON_PER 6557 6559	He
+T278	PRON_PER 6637 6641	them
+T279	PRON_PER 6653 6657	they
+T280	PRON_PER 6799 6801	He
+T281	PRON_PER 6870 6873	his
+T282	PRON_PER 6999 7002	him
+T283	PRON_PER 7022 7024	He
+T284	PRON_PER 7049 7052	his
+T285	PRON_PER 7485 7489	them
+T286	PRON_PER 7584 7589	their
+T287	PRON_PER 7610 7615	their
+T288	PRON_PER 7796 7799	his
+T289	PRON_PER 7810 7812	he
+T290	PRON_PER 7850 7853	his
+T291	PRON_PER 8169 8172	his
+T292	PRON_PER 8184 8188	they
+T293	PRON_PER 8356 8359	his
+T294	PRON_PER 8683 8688	their
+T295	PRON_PER 8836 8839	her
+T296	PRON_PER 9042 9045	she
+T297	PRON_PER 9142 9145	she
+T298	PRON_PER 9270 9273	she
+T299	PRON_PER 9324 9327	her
+T300	PRON_PER 9370 9373	her
+T301	PRON_PER 9406 9409	her
+T302	PRON_PER 9458 9461	her
+T303	PRON_PER 9491 9494	her
+T304	PRON_PER 9539 9542	her
+T305	PRON_PER 9758 9761	She
+T306	PRON_PER 9820 9823	you
+T307	PRON_PER 9917 9920	she
+T308	PRON_PER 9958 9961	You
+T309	PRON_PER 10009 10012	you
+T310	PRON_PER 10049 10050	I
+T311	PRON_PER 10059 10061	my
+T312	PRON_PER 10091 10094	she
+T313	PRON_PER 10218 10221	she
+T314	PRON_PER 10268 10271	She
+T315	NOM_PER 600 615	class of slaves
+T316	NOM_PER 748 758	This class
+T317	NOM_PER 924 1032	the favorites of men of property and standing , who furnish them with the means of compensating their owners
+T318	NOM_PER 1551 1570	this class of women
+T319	NOM_PER 2569 2588	Isabella and Marion
+T320	NOM_PER 7433 7445	human beings
+T321	NOM_PER 7535 7548	Men and women
+T19	NOM_PER 5778 5790	some of them

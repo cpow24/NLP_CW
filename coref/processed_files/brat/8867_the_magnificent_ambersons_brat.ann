@@ -1,0 +1,122 @@
+T0	PROP_PER 123 136	the Ambersons
+T1	PROP_PER 10 24	Major Amberson
+T2	PROP_PER 316 329	the Ambersons
+T5	NOM_PER 556 564	children
+T8	NOM_PER 962 973	the drivers
+T15	NOM_PER 1659 1668	governors
+T16	NOM_PER 1647 1654	Old men
+T17	NOM_PER 1896 1905	these men
+T19	NOM_PER 2103 2110	tailors
+T23	NOM_PER 2864 2869	women
+T26	NOM_PER 4051 4081	a Senator of the United States
+T44	NOM_PER 5413 5420	callers
+T52	NOM_PER 5857 5877	one or two daughters
+T56	NOM_PER 6214 6222	visitors
+T61	NOM_PER 6374 6388	the architects
+T62	NOM_PER 6596 6603	plumber
+T73	NOM_PER 7344 7351	The man
+T75	NOM_PER 7355 7384	youth who lived in the stable
+T76	NOM_PER 7730 7741	the darkies
+T78	NOM_PER 8068 8095	less investigative children
+T79	NOM_PER 7960 7981	early rising children
+T83	NOM_PER 9344 9354	passengers
+T84	NOM_PER 9542 9552	the driver
+T85	NOM_PER 9499 9511	no conductor
+T86	NOM_PER 9664 9678	the passengers
+T87	NOM_PER 9788 9802	the passengers
+T90	NOM_PER 9924 9930	a lady
+T91	NOM_PER 10194 10217	The previous passengers
+T92	NOM_PER 10582 10596	its passengers
+T93	NOM_PER 10957 10963	a lady
+T3	PROP_PER 226 245	Magnificent Lorenzo
+T96	NOM_PER 527 564	every prosperous family with children
+T98	NOM_PER 622 659	all the women who wore silk or velvet
+T7	NOM_PER 665 708	all the other women who wore silk or velvet
+T99	NOM_PER 759 770	sick people
+T105	NOM_PER 2060 2071	dressmakers
+T106	NOM_PER 2074 2084	shoemakers
+T107	NOM_PER 2087 2096	hatmakers
+T108	NOM_PER 2872 2917	that variation of dandy known as the " dude "
+T109	NOM_PER 2890 2895	dandy
+T110	NOM_PER 2905 2917	the " dude "
+T119	NOM_PER 5302 5314	these people
+T120	NOM_PER 5341 5351	the family
+T124	NOM_PER 5768 5785	mother-and-father
+T54	NOM_PER 5829 5844	one or two sons
+T135	NOM_PER 6847 6860	the hired man
+T137	NOM_PER 6942 6996	people with that much money to invest in such comforts
+T138	NOM_PER 7016 7024	the Rich
+T139	NOM_PER 7057 7065	the girl
+T143	NOM_PER 7323 7341	a person of colour
+T74	NOM_PER 7438 7456	a steerage voyager
+T148	NOM_PER 7785 7792	Darkies
+T149	NOM_PER 7997 8009	older people
+T150	NOM_PER 8284 8325	those darky hired-men of the Midland town
+T151	NOM_PER 8843 8855	the " girl "
+T152	NOM_PER 8860 8877	the " hired-man "
+T161	NOM_PER 9422 9433	The patrons
+T166	NOM_PER 10123 10135	the " girl "
+T25	NOM_PER 3737 3748	the wearers
+T82	NOM_PER 8624 8644	the careless drivers
+T27	PROP_PER 4341 4354	the Ambersons
+T69	NOM_PER 7037 7075	the inhabitant of " the girl 's room "
+T31	NOM_PER 4774 4800	a " prominent resident , "
+T134	NOM_PER 6743 6751	the girl
+T156	NOM_PER 8980 8999	the " hired-man , "
+T155	NOM_PER 8961 8999	the whole tribe of the " hired-man , "
+T14	NOM_PER 1765 1875	men of all ages to whom a hat meant only that rigid , tall silk thing known to impudence as a " stove-pipe . "
+T171	NOM_PER 63 75	other people
+T172	NOM_PER 919 928	everybody
+T173	NOM_PER 1126 1140	everybody else
+T174	NOM_PER 1111 1120	everybody
+T175	NOM_PER 10563 10569	nobody
+T177	PRON_PER 268 270	he
+T178	PRON_PER 350 355	their
+T179	PRON_PER 372 377	Their
+T180	PRON_PER 429 434	their
+T181	PRON_PER 991 995	them
+T183	PRON_PER 1967 1971	they
+T186	PRON_PER 2933 2935	he
+T187	PRON_PER 3181 3184	his
+T188	PRON_PER 3293 3295	he
+T189	PRON_PER 3330 3333	his
+T190	PRON_PER 3426 3428	he
+T191	PRON_PER 3440 3443	his
+T192	PRON_PER 3469 3472	his
+T193	PRON_PER 3485 3487	he
+T194	PRON_PER 3502 3505	his
+T195	PRON_PER 3572 3574	he
+T196	PRON_PER 3635 3638	him
+T197	PRON_PER 4119 4122	his
+T198	PRON_PER 4289 4291	we
+T201	PRON_PER 5428 5432	they
+T204	PRON_PER 7027 7031	They
+T205	PRON_PER 7199 7202	She
+T206	PRON_PER 7304 7307	she
+T207	PRON_PER 7416 7418	he
+T208	PRON_PER 7476 7478	he
+T210	PRON_PER 7757 7762	their
+T211	PRON_PER 7853 7857	they
+T212	PRON_PER 8265 8269	They
+T213	PRON_PER 8357 8361	they
+T216	PRON_PER 8509 8513	they
+T217	PRON_PER 9015 9019	They
+T218	PRON_PER 9056 9058	we
+T219	PRON_PER 9064 9068	they
+T220	PRON_PER 9109 9113	they
+T221	PRON_PER 9469 9474	their
+T222	PRON_PER 9580 9583	his
+T223	PRON_PER 9620 9623	his
+T224	PRON_PER 9840 9844	They
+T225	PRON_PER 10021 10024	her
+T226	PRON_PER 10031 10034	she
+T227	PRON_PER 10060 10063	her
+T228	PRON_PER 10283 10287	they
+T229	PRON_PER 10320 10330	themselves
+T230	PRON_PER 10644 10648	they
+T231	PRON_PER 10676 10680	they
+T232	PRON_PER 10744 10748	them
+T233	PRON_PER 10757 10762	their
+T234	PRON_PER 10780 10784	they
+T235	PRON_PER 10868 10872	they
+T236	NOM_PER 7348 7360	man or youth

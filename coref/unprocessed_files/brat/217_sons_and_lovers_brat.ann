@@ -29,7 +29,7 @@ T47	NOM_FAC 3481 3492	the Bottoms
 T48	PROP_PER 3668 3678	Mrs. Morel
 T50	NOM_FAC 3708 3756	the Bottoms , which was already twelve years old
 T51	NOM_PER 3932 3950	only one neighbour
-T54	NOM_PER 4066 4107	the other women of the “ between ” houses
+T54	NOM_PER 4066 4107	the other women of the " between " houses
 T55	PROP_PER 4254 4264	Mrs. Morel
 T57	NOM_PER 4445 4462	the Bottoms women
 T59	NOM_PER 4523 4537	her third baby
@@ -132,7 +132,7 @@ T17	PROP_GPE 3814 3822	Bestwood
 T156	NOM_FAC 3879 3916	an end house in one of the top blocks
 T52	NOM_FAC 3902 3916	the top blocks
 T53	NOM_FAC 4011 4023	an end house
-T157	NOM_FAC 4085 4107	the “ between ” houses
+T157	NOM_FAC 4085 4107	the " between " houses
 T56	NOM_PER 4333 4394	A rather small woman , of delicate mould but resolute bearing
 T58	NOM_FAC 4445 4456	the Bottoms
 T158	NOM_PER 4556 4563	a miner
@@ -400,8 +400,8 @@ T358	only_one_neighbour-74 3932 3950	only one neighbour
 T480	garden-75 3989 3995	garden
 T360	an_end_house-76 4011 4023	an end house
 T488	Mrs__Morel-71 4026 4029	she
-T361	the_other_women_of_the___between___houses-77 4066 4107	the other women of the “ between ” houses
-T464	the___between___houses-78 4085 4107	the “ between ” houses
+T361	the_other_women_of_the___between___houses-77 4066 4107	the other women of the " between " houses
+T464	the___between___houses-78 4085 4107	the " between " houses
 T489	Mrs__Morel-71 4118 4121	her
 T362	Mrs__Morel-71 4254 4264	Mrs. Morel
 T490	Mrs__Morel-71 4267 4270	She

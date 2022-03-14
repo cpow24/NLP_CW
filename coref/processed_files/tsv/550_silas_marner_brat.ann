@@ -1,0 +1,196 @@
+MENTION	T1	1	9	1	11	these alien-looking men	PER	NOM
+MENTION	T2	2	2	2	4	these pale men	PER	NOM
+MENTION	T3	4	29	4	30	the pedlar	PER	NOM
+MENTION	T4	5	29	5	30	his father	PER	NOM
+MENTION	T5	5	4	5	5	wandering men	PER	NOM
+MENTION	T6	5	16	5	17	a man	PER	NOM
+MENTION	T7	5	32	5	32	mother	PER	NOM
+MENTION	T8	6	50	6	52	even a settler	PER	NOM
+MENTION	T9	6	1	6	5	the peasants of old times	PER	NOM
+MENTION	T11	7	22	7	22	villagers	PER	NOM
+MENTION	T13	8	26	8	26	aliens	PER	NOM
+MENTION	T14	8	28	8	30	their rustic neighbours	PER	NOM
+MENTION	T15	8	12	8	18	emigrants from the town into the country	PER	NOM
+MENTION	T16	9	13	9	14	Silas Marner	PER	PROP
+MENTION	T18	10	95	10	96	the weaver	PER	NOM
+MENTION	T22	11	19	11	21	the small scoundrels	PER	NOM
+MENTION	T23	12	50	12	58	any boy who happened to be in the rear	PER	NOM
+MENTION	T24	13	9	13	9	mothers	PER	NOM
+MENTION	T26	13	50	13	51	the doctor	PER	NOM
+MENTION	T27	13	12	13	13	Silas Marner	PER	PROP
+MENTION	T28	13	6	13	7	their fathers	PER	NOM
+MENTION	T29	14	15	14	17	the diligent listener	PER	NOM
+MENTION	T32	18	23	18	24	his wife	PER	NOM
+MENTION	T36	22	21	22	22	thinly-scattered shepherds	PER	NOM
+MENTION	T41	25	5	25	6	Silas Marner	PER	PROP
+MENTION	T42	26	10	26	11	no comer	PER	NOM
+MENTION	T43	26	46	26	46	woman	PER	NOM
+MENTION	T44	26	102	26	104	a dead man	PER	NOM
+MENTION	T45	26	43	26	44	no man	PER	NOM
+MENTION	T47	27	38	27	39	Silas Marner	PER	PROP
+MENTION	T48	27	61	27	65	a man in his senses	PER	NOM
+MENTION	T49	27	134	27	135	the weaver	PER	NOM
+MENTION	T50	29	2	29	2	Marner	PER	PROP
+MENTION	T52	29	28	29	31	clerk of the parish	PER	NOM
+MENTION	T53	31	31	31	32	no children	PER	NOM
+MENTION	T54	32	11	32	12	a man	PER	NOM
+MENTION	T55	33	68	33	69	the parson	PER	NOM
+MENTION	T57	33	59	33	60	their neighbours	PER	NOM
+MENTION	T58	34	3	34	4	Master Marner	PER	PROP
+MENTION	T59	35	30	35	31	a baby	PER	NOM
+MENTION	T60	35	19	35	19	Marner	PER	PROP
+MENTION	T62	0	16	0	23	great ladies , clothed in silk and thread-lace	PER	NOM
+MENTION	T66	0	65	0	67	the brawny country-folk	PER	NOM
+MENTION	T67	0	74	0	76	a disinherited race	PER	NOM
+MENTION	T68	0	54	0	76	certain pallid undersized men , who , by the side of the brawny country-folk , looked like the remnants of a disinherited race	PER	NOM
+MENTION	T69	1	0	1	1	The shepherd	PER	NOM
+MENTION	T70	1	7	1	11	one of these alien-looking men	PER	NOM
+MENTION	T72	1	28	1	34	a figure bent under a heavy bag	PER	NOM
+MENTION	T73	3	0	3	1	The shepherd	PER	NOM
+MENTION	T74	3	57	3	59	the Evil One	PER	NOM
+MENTION	T75	4	8	4	9	every person	PER	NOM
+MENTION	T76	4	32	4	33	the knife-grinder	PER	NOM
+MENTION	T78	5	26	5	32	somebody who knew his father and mother	PER	NOM
+MENTION	T81	7	29	7	38	honest folk , born and bred in a visible manner	PER	NOM
+MENTION	T82	8	8	8	10	those scattered linen-weavers	PER	NOM
+MENTION	T84	8	22	8	23	the last	PER	NOM
+MENTION	T85	9	8	9	10	such a linen-weaver	PER	NOM
+MENTION	T89	10	4	10	4	Silas	PER	PROP
+MENTION	T20	10	31	10	96	the Raveloe boys , who would often leave off their nutting or birds ' - nesting to peep in at the window of the stone cottage , counterbalancing a certain awe at the mysterious action of the loom , by a pleasant sense of scornful superiority , drawn from the mockery of its alternating noises , along with the bent , tread-mill attitude of the weaver	PER	NOM
+MENTION	T21	11	5	11	5	Marner	PER	PROP
+MENTION	T90	12	14	12	15	Silas Marner	PER	PROP
+MENTION	T91	13	16	13	16	folks	PER	NOM
+MENTION	T25	13	38	13	39	the devil	PER	NOM
+MENTION	T30	14	19	14	21	the grey-haired peasantry	PER	NOM
+MENTION	T31	15	34	15	61	men who have always been pressed close by primitive wants , and to whom a life of hard toil has never been illuminated by any enthusiastic religious faith	PER	NOM
+MENTION	T92	18	4	18	27	an old labouring man , who was in his last illness , and who had refused all the food his wife had offered him	PER	NOM
+MENTION	T106	24	99	24	142	several chiefs in Raveloe who could farm badly quite at their ease , drawing enough money from their bad farming , in those war times , to live in a rollicking fashion , and keep a jolly Christmas , Whitsun , and Easter tide	PER	NOM
+MENTION	T109	25	36	25	41	people of average culture and experience	PER	NOM
+MENTION	T40	25	45	25	53	the villagers near whom he had come to settle	PER	NOM
+MENTION	T112	25	17	25	80	a pallid young man , with prominent short-sighted brown eyes , whose appearance would have had nothing strange for people of average culture and experience , but for the villagers near whom he had come to settle it had mysterious peculiarities which corresponded with the exceptional nature of his occupation , and his advent from an unknown region called " North ' ard "	PER	NOM
+MENTION	T114	26	37	26	38	the wheelwright	PER	NOM
+MENTION	T115	26	71	26	73	the Raveloe lasses	PER	NOM
+MENTION	T117	27	3	27	3	Marner	PER	PROP
+MENTION	T118	27	20	27	21	Jem Rodney	PER	PROP
+MENTION	T119	27	23	27	24	the mole-catcher	PER	NOM
+MENTION	T120	27	82	27	82	Marner	PER	PROP
+MENTION	T121	27	88	27	90	a dead man	PER	NOM
+MENTION	T122	28	2	28	2	Jem	PER	PROP
+MENTION	T123	28	22	28	23	Squire Cass	PER	PROP
+MENTION	T51	29	23	29	26	the argumentative Mr. Macey	PER	PROP
+MENTION	T126	31	16	31	17	a man	PER	NOM
+MENTION	T56	33	8	33	9	a man	PER	NOM
+MENTION	T128	33	38	33	38	folks	PER	NOM
+MENTION	T130	35	0	35	1	Jem Rodney	PER	PROP
+MENTION	T131	35	22	35	23	Sally Oates	PER	PROP
+MENTION	T132	35	56	35	57	the doctor	PER	NOM
+MENTION	T133	36	4	36	4	folks	PER	NOM
+MENTION	T134	35	14	35	59	anybody who had seen how Marner had cured Sally Oates , and made her sleep like a baby , when her heart had been beating enough to burst her body , for two months and more , while she had been under the doctor 's care	PER	NOM
+MENTION	T136	29	40	29	40	anybody	PER	NOM
+MENTION	T137	5	0	5	1	No one	PER	NOM
+MENTION	T142	0	26	0	26	their	PER	PRON
+MENTION	T143	3	2	3	2	himself	PER	PRON
+MENTION	T144	3	5	3	5	he	PER	PRON
+MENTION	T145	5	7	5	7	their	PER	PRON
+MENTION	T146	5	10	5	10	their	PER	PRON
+MENTION	T147	5	22	5	22	you	PER	PRON
+MENTION	T148	5	29	5	29	his	PER	PRON
+MENTION	T149	6	10	6	10	their	PER	PRON
+MENTION	T150	6	23	6	23	their	PER	PRON
+MENTION	T151	6	55	6	55	he	PER	PRON
+MENTION	T152	6	87	6	87	his	PER	PRON
+MENTION	T153	6	100	6	100	he	PER	PRON
+MENTION	T154	7	82	7	82	they	PER	PRON
+MENTION	T155	8	28	8	28	their	PER	PRON
+MENTION	T156	9	18	9	18	his	PER	PRON
+MENTION	T157	10	40	10	40	their	PER	PRON
+MENTION	T158	11	13	11	13	his	PER	PRON
+MENTION	T159	11	28	11	28	his	PER	PRON
+MENTION	T160	11	31	11	31	he	PER	PRON
+MENTION	T161	11	33	11	33	their	PER	PRON
+MENTION	T162	11	38	11	38	he	PER	PRON
+MENTION	T163	11	42	11	42	his	PER	PRON
+MENTION	T164	11	54	11	54	them	PER	PRON
+MENTION	T165	11	63	11	63	them	PER	PRON
+MENTION	T166	11	66	11	66	their	PER	PRON
+MENTION	T167	12	29	12	29	them	PER	PRON
+MENTION	T168	12	35	12	35	their	PER	PRON
+MENTION	T169	13	0	13	0	They	PER	PRON
+MENTION	T170	13	6	13	6	their	PER	PRON
+MENTION	T171	13	20	13	20	he	PER	PRON
+MENTION	T172	13	34	13	34	you	PER	PRON
+MENTION	T173	13	43	13	43	he	PER	PRON
+MENTION	T174	13	46	13	46	you	PER	PRON
+MENTION	T175	16	1	16	1	them	PER	PRON
+MENTION	T176	16	17	16	17	their	PER	PRON
+MENTION	T177	17	4	17	4	you	PER	PRON
+MENTION	T178	17	8	17	8	you	PER	PRON
+MENTION	T179	18	0	18	0	I	PER	PRON
+MENTION	T180	18	12	18	12	his	PER	PRON
+MENTION	T181	18	23	18	23	his	PER	PRON
+MENTION	T182	18	27	18	27	him	PER	PRON
+MENTION	T183	19	4	19	4	he	PER	PRON
+MENTION	T184	19	8	19	8	I	PER	PRON
+MENTION	T185	19	20	19	20	I	PER	PRON
+MENTION	T186	20	6	20	6	him	PER	PRON
+MENTION	T187	22	37	22	37	we	PER	PRON
+MENTION	T188	24	109	24	109	their	PER	PRON
+MENTION	T189	24	116	24	116	their	PER	PRON
+MENTION	T190	25	13	25	13	he	PER	PRON
+MENTION	T191	25	49	25	49	he	PER	PRON
+MENTION	T192	25	65	25	65	his	PER	PRON
+MENTION	T193	25	69	25	69	his	PER	PRON
+MENTION	T194	26	2	26	2	his	PER	PRON
+MENTION	T195	26	8	26	8	he	PER	PRON
+MENTION	T196	26	15	26	15	his	PER	PRON
+MENTION	T197	26	19	26	19	he	PER	PRON
+MENTION	T198	26	41	26	41	he	PER	PRON
+MENTION	T199	26	53	26	53	his	PER	PRON
+MENTION	T200	26	61	26	61	himself	PER	PRON
+MENTION	T201	26	75	26	75	he	PER	PRON
+MENTION	T202	26	81	26	81	them	PER	PRON
+MENTION	T203	26	84	26	84	him	PER	PRON
+MENTION	T204	26	86	26	86	her	PER	PRON
+MENTION	T205	26	92	26	92	he	PER	PRON
+MENTION	T206	26	95	26	95	them	PER	PRON
+MENTION	T207	26	98	26	98	they	PER	PRON
+MENTION	T208	27	12	27	12	his	PER	PRON
+MENTION	T209	27	31	27	31	he	PER	PRON
+MENTION	T210	27	36	27	36	he	PER	PRON
+MENTION	T211	27	49	27	49	his	PER	PRON
+MENTION	T212	27	64	27	64	his	PER	PRON
+MENTION	T213	27	77	27	77	him	PER	PRON
+MENTION	T214	27	79	27	79	he	PER	PRON
+MENTION	T215	27	94	27	94	he	PER	PRON
+MENTION	T216	27	97	27	97	him	PER	PRON
+MENTION	T217	27	101	27	101	him	PER	PRON
+MENTION	T218	27	104	27	104	his	PER	PRON
+MENTION	T219	27	110	27	110	his	PER	PRON
+MENTION	T221	27	127	27	127	he	PER	PRON
+MENTION	T222	27	131	27	131	his	PER	PRON
+MENTION	T223	27	139	27	139	he	PER	PRON
+MENTION	T224	27	148	27	148	you	PER	PRON
+MENTION	T225	28	4	28	4	he	PER	PRON
+MENTION	T226	28	17	28	17	he	PER	PRON
+MENTION	T227	29	34	29	34	his	PER	PRON
+MENTION	T228	31	22	31	22	him	PER	PRON
+MENTION	T229	31	28	31	28	he	PER	PRON
+MENTION	T230	32	15	32	15	his	PER	PRON
+MENTION	T231	32	32	32	32	you	PER	PRON
+MENTION	T232	33	15	33	15	his	PER	PRON
+MENTION	T233	33	43	33	43	they	PER	PRON
+MENTION	T234	33	56	33	56	them	PER	PRON
+MENTION	T235	33	59	33	59	their	PER	PRON
+MENTION	T236	33	64	33	64	their	PER	PRON
+MENTION	T237	34	6	34	6	his	PER	PRON
+MENTION	T238	34	17	34	17	he	PER	PRON
+MENTION	T240	35	27	35	27	her	PER	PRON
+MENTION	T241	35	34	35	34	her	PER	PRON
+MENTION	T242	35	42	35	42	her	PER	PRON
+MENTION	T243	35	52	35	52	she	PER	PRON
+MENTION	T244	36	0	36	0	He	PER	PRON
+MENTION	T245	36	6	36	6	he	PER	PRON
+MENTION	T246	36	10	36	10	he	PER	PRON
+MENTION	T247	36	22	36	22	him	PER	PRON
+MENTION	T248	36	25	36	25	you	PER	PRON
+MENTION	T141	29	0	29	0	Some	PER	NOM

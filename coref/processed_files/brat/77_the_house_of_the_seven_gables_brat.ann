@@ -1,0 +1,159 @@
+T6	NOM_PER 393 414	every town-born child
+T18	NOM_PER 2146 2156	personages
+T20	NOM_PER 2880 2893	civilized man
+T23	NOM_PER 3023 3056	the original occupant of the soil
+T24	PROP_PER 3253 3266	Matthew Maule
+T31	NOM_PER 3757 3769	the claimant
+T32	PROP_PER 3878 3891	Matthew Maule
+T34	NOM_PER 3921 3935	an obscure man
+T35	PROP_PER 4609 4622	Matthew Maule
+T36	PROP_PER 4499 4515	Colonel Pyncheon
+T41	NOM_PER 5140 5166	the dweller in the cottage
+T43	NOM_PER 5317 5320	men
+T44	PROP_PER 5323 5340	Old Matthew Maule
+T47	NOM_PER 6330 6340	the martyr
+T50	NOM_PER 6409 6429	his fellow sufferers
+T51	PROP_PER 6536 6552	Colonel Pyncheon
+T52	PROP_PER 6749 6762	Matthew Maule
+T53	NOM_PER 6788 6798	the victim
+T54	NOM_PER 6851 6865	his persecutor
+T57	PROP_PER 7025 7041	Colonel Pyncheon
+T58	PROP_PER 7088 7093	Maule
+T59	PROP_PER 7488 7504	Colonel Pyncheon
+T60	NOM_PER 7407 7425	the reputed wizard
+T61	NOM_PER 7556 7567	the Colonel
+T62	PROP_PER 7766 7779	Matthew Maule
+T65	NOM_PER 7891 7911	the stalwart Puritan
+T68	NOM_PER 8348 8378	children of the Pyncheon blood
+T69	NOM_PER 8323 8335	their brides
+T71	NOM_PER 8291 8309	future bridegrooms
+T72	NOM_PER 8138 8164	the dead and buried wizard
+T75	PROP_PER 8424 8429	Maule
+T76	PROP_PER 8707 8723	Colonel Pyncheon
+T78	NOM_PER 8774 8793	the Puritan soldier
+T79	NOM_PER 8895 8905	the wizard
+T80	NOM_PER 8798 8808	magistrate
+T83	NOM_PER 9449 9460	the Colonel
+T88	PROP_PER 10086 10091	Maule
+T89	NOM_PER 10189 10222	any old woman of the neighborhood
+T90	NOM_PER 10322 10332	The reader
+T91	NOM_PER 10359 10396	the head carpenter of the new edifice
+T92	NOM_PER 10573 10584	the Colonel
+T93	NOM_PER 10709 10730	his fallen antagonist
+T94	NOM_PER 10956 10966	his father
+T95	NOM_PER 10834 10841	the son
+T96	PROP_PER 11001 11013	Thomas Maule
+T97	NOM_PER 11021 11067	the architect of the House of the Seven Gables
+T2	NOM_PER 2 25	The Old Pyncheon Family
+T15	NOM_PER 2479 2501	the passing generation
+T16	NOM_PER 2651 2658	mortals
+T103	NOM_PER 2764 2779	their posterity
+T25	NOM_PER 3200 3222	the Puritan settlement
+T113	NOM_PER 3554 3588	a prominent and powerful personage
+T115	PROP_PER 3738 3754	Colonel Pyncheon
+T118	NOM_PER 4709 4736	two ill-matched antagonists
+T119	NOM_PER 4915 4952	the party occupying the disputed soil
+T121	NOM_PER 5412 5449	the martyrs to that terrible delusion
+T122	NOM_PER 5506 5529	the influential classes
+T123	NOM_PER 5536 5594	those who take upon themselves to be leaders of the people
+T45	NOM_PER 5573 5594	leaders of the people
+T124	NOM_PER 5584 5594	the people
+T125	NOM_PER 5670 5685	the maddest mob
+T126	NOM_PER 5688 5697	Clergymen
+T127	NOM_PER 5700 5706	judges
+T128	NOM_PER 5709 5718	statesmen
+T129	NOM_PER 5724 5775	the wisest , calmest , holiest persons of their day
+T131	NOM_PER 6080 6097	the poor and aged
+T132	NOM_PER 6138 6157	people of all ranks
+T133	NOM_PER 6160 6199	their own equals , brethren , and wives
+T46	NOM_PER 6266 6294	a man of inconsiderable note
+T48	PROP_PER 6302 6307	Maule
+T49	NOM_PER 6395 6429	the throng of his fellow sufferers
+T55	NOM_PER 7254 7267	the dying man
+T56	NOM_PER 7347 7356	his enemy
+T137	NOM_PER 7680 7713	many generations of his posterity
+T140	NOM_PER 7823 7842	the village gossips
+T64	NOM_PER 7925 7958	a man of conscience and integrity
+T143	NOM_PER 8817 8873	a man to be turned aside from his well-considered scheme
+T85	PROP_PER 9629 9642	Matthew Maule
+T145	NOM_PER 9735 9746	some people
+T146	NOM_PER 9798 9809	the workmen
+T150	NOM_PER 10284 10319	those who quench their thirst there
+T152	NOM_PER 10415 10502	the son of the very man from whose dead gripe the property of the soil had been wrested
+T153	NOM_PER 10426 10502	the very man from whose dead gripe the property of the soil had been wrested
+T156	NOM_PER 10527 10555	the best workman of his time
+T157	NOM_PER 10956 10982	his father 's deadly enemy
+T161	PRON_PER 61 64	our
+T162	PRON_PER 453 455	my
+T163	PRON_PER 498 499	I
+T164	PRON_PER 726 728	me
+T166	PRON_PER 1956 1958	we
+T167	PRON_PER 1993 1996	our
+T168	PRON_PER 2677 2681	they
+T169	PRON_PER 2764 2769	their
+T170	PRON_PER 3775 3777	we
+T171	PRON_PER 3809 3812	him
+T172	PRON_PER 3974 3976	he
+T173	PRON_PER 3988 3991	his
+T174	PRON_PER 4026 4028	he
+T175	PRON_PER 4091 4094	his
+T176	PRON_PER 4106 4108	he
+T177	PRON_PER 4153 4156	his
+T178	PRON_PER 4251 4254	Our
+T179	PRON_PER 4776 4778	we
+T180	PRON_PER 4967 4970	his
+T181	PRON_PER 5019 5022	our
+T182	PRON_PER 5253 5256	his
+T183	PRON_PER 5285 5288	his
+T184	PRON_PER 5398 5400	He
+T185	PRON_PER 5471 5473	us
+T186	PRON_PER 5556 5566	themselves
+T187	PRON_PER 5766 5771	their
+T188	PRON_PER 5885 5895	themselves
+T189	PRON_PER 5936 5941	their
+T190	PRON_PER 6051 6055	they
+T191	PRON_PER 6160 6165	their
+T192	PRON_PER 6409 6412	his
+T193	PRON_PER 6715 6717	he
+T194	PRON_PER 6851 6854	his
+T195	PRON_PER 6885 6888	him
+T196	PRON_PER 6900 6902	he
+T197	PRON_PER 6912 6919	himself
+T198	PRON_PER 6940 6943	his
+T199	PRON_PER 7004 7007	his
+T200	PRON_PER 7108 7111	him
+T201	PRON_PER 7279 7282	his
+T202	PRON_PER 7347 7350	his
+T203	PRON_PER 7378 7381	him
+T204	PRON_PER 7437 7440	his
+T205	PRON_PER 7700 7703	his
+T206	PRON_PER 8013 8017	they
+T207	PRON_PER 8047 8049	he
+T208	PRON_PER 8069 8072	his
+T209	PRON_PER 8103 8106	His
+T210	PRON_PER 8323 8328	their
+T211	PRON_PER 8465 8468	his
+T212	PRON_PER 8536 8540	them
+T213	PRON_PER 8644 8647	him
+T214	PRON_PER 8847 8850	his
+T215	PRON_PER 8984 8986	he
+T216	PRON_PER 9032 9035	him
+T217	PRON_PER 9051 9053	he
+T218	PRON_PER 9095 9098	his
+T219	PRON_PER 9253 9255	he
+T220	PRON_PER 9269 9272	his
+T221	PRON_PER 9443 9446	him
+T222	PRON_PER 9476 9479	his
+T223	PRON_PER 9522 9524	He
+T224	PRON_PER 9539 9542	his
+T225	PRON_PER 9585 9588	his
+T226	PRON_PER 9816 9821	their
+T227	PRON_PER 10168 10170	we
+T228	PRON_PER 10301 10306	their
+T229	PRON_PER 10520 10522	he
+T230	PRON_PER 10547 10550	his
+T231	PRON_PER 10709 10712	his
+T232	PRON_PER 10956 10959	his
+T233	PRON_PER 11084 11087	his
+T234	PRON_PER 11145 11148	his
+T235	NOM_PER 5688 5718	Clergymen , judges , statesmen

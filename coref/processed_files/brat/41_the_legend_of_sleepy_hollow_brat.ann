@@ -1,0 +1,153 @@
+T4	PROP_PER 519 531	St. Nicholas
+T5	NOM_PER 768 811	the good housewives of the adjacent country
+T7	NOM_PER 848 862	their husbands
+T10	NOM_PER 1462 1473	a stripling
+T13	NOM_PER 2126 2153	the original Dutch settlers
+T14	NOM_PER 2109 2153	descendants from the original Dutch settlers
+T15	NOM_PER 2233 2248	its rustic lads
+T16	PROP_PER 2260 2282	the Sleepy Hollow Boys
+T17	PROP_PER 2658 2680	Master Hendrick Hudson
+T18	NOM_PER 2561 2595	the prophet or wizard of his tribe
+T20	NOM_PER 2460 2480	a High German doctor
+T25	NOM_PER 4104 4116	this spectre
+T27	NOM_PER 4678 4716	the Headless Horseman of Sleepy Hollow
+T29	NOM_PER 4611 4622	the spectre
+T30	NOM_PER 4802 4838	the native inhabitants of the valley
+T33	NOM_PER 6248 6276	the children of the vicinity
+T35	NOM_PER 6459 6480	country schoolmasters
+T36	NOM_PER 6350 6371	pioneers for the mind
+T37	PROP_PER 6499 6504	Crane
+T38	NOM_PER 6529 6539	his person
+T41	NOM_PER 7659 7672	the architect
+T42	NOM_PER 7531 7538	a thief
+T45	NOM_PER 8119 8129	the master
+T47	NOM_PER 8237 8256	some tardy loiterer
+T48	NOM_PER 8406 8415	the child
+T49	NOM_PER 8317 8336	a conscientious man
+T50	NOM_PER 8420 8445	Ichabod Crane ’s scholars
+T52	NOM_PER 9135 9148	their parents
+T53	NOM_PER 9249 9268	the smarting urchin
+T54	NOM_PER 9557 9572	good housewives
+T55	NOM_PER 9427 9442	the larger boys
+T58	NOM_PER 9577 9584	mothers
+T60	NOM_PER 9680 9690	his pupils
+T61	NOM_PER 10027 10067	the farmers whose children he instructed
+T65	NOM_PER 10490 10501	the farmers
+T66	NOM_PER 10891 10902	the mothers
+T68	NOM_PER 10914 10926	the children
+T2	NOM_PER 395 423	the ancient Dutch navigators
+T86	NOM_PER 2083 2153	its inhabitants , who are descendants from the original Dutch settlers
+T91	NOM_PER 2539 2558	an old Indian chief
+T19	NOM_PER 2586 2595	his tribe
+T94	NOM_PER 2802 2817	the good people
+T99	NOM_PER 3475 3513	a figure on horseback , without a head
+T22	NOM_PER 3714 3730	the country folk
+T100	NOM_PER 3554 3800	a Hessian trooper , whose head had been carried away by a cannon-ball , in some nameless battle during the Revolutionary War , and who is ever and anon seen by the country folk hurrying along in the gloom of night , as if on the wings of the wind
+T103	NOM_PER 3966 4116	certain of the most authentic historians of those parts , who have been careful in collecting and collating the floating facts concerning this spectre
+T26	NOM_PER 4143 4154	the trooper
+T105	NOM_PER 4194 4203	the ghost
+T110	NOM_PER 4873 4911	every one who resides there for a time
+T120	NOM_PER 6096 6276	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , " tarried , " in Sleepy Hollow , for the purpose of instructing the children of the vicinity
+T121	PROP_PER 6126 6139	Ichabod Crane
+T124	NOM_PER 6438 6454	frontier woodmen
+T130	PROP_PER 7675 7690	Yost Van Houten
+T43	NOM_PER 7942 7952	his pupils
+T46	PROP_PER 8420 8433	Ichabod Crane
+T134	NOM_PER 8596 8610	their subjects
+T135	NOM_PER 8535 8610	those cruel potentates of the school who joy in the smart of their subjects
+T136	NOM_PER 8733 8741	the weak
+T137	NOM_PER 8770 8780	the strong
+T138	NOM_PER 8783 8854	Your mere puny stripling , that winced at the least flourish of the rod
+T51	NOM_PER 8964 9093	some little tough wrong-headed , broad-skirted Dutch urchin , who sulked and swelled and grew dogged and sullen beneath the birch
+T59	NOM_PER 9397 9442	the companion and playmate of the larger boys
+T56	NOM_PER 9492 9508	the smaller ones
+T57	NOM_PER 9537 9551	pretty sisters
+T63	NOM_PER 10045 10053	children
+T64	NOM_PER 10378 10391	schoolmasters
+T142	NOM_PER 10395 10406	mere drones
+T143	NOM_PER 10286 10406	his rustic patrons , who are apt to consider the costs of schooling a grievous burden , and schoolmasters as mere drones
+T67	NOM_PER 11050 11057	a child
+T147	NOM_PER 35 57	DIEDRICH KNICKERBOCKER
+T154	PRON_PER 451 455	they
+T155	PRON_PER 537 541	they
+T156	PRON_PER 734 736	we
+T157	PRON_PER 848 853	their
+T158	PRON_PER 935 936	I
+T159	PRON_PER 1438 1439	I
+T160	PRON_PER 1476 1478	my
+T161	PRON_PER 1587 1588	I
+T162	PRON_PER 1694 1696	my
+T163	PRON_PER 1813 1814	I
+T164	PRON_PER 1849 1850	I
+T165	PRON_PER 1957 1958	I
+T166	PRON_PER 2586 2589	his
+T167	PRON_PER 2603 2606	his
+T168	PRON_PER 2828 2832	them
+T169	PRON_PER 2866 2870	They
+T172	PRON_PER 3803 3806	His
+T173	PRON_PER 4259 4262	his
+T174	PRON_PER 4308 4310	he
+T175	PRON_PER 4383 4386	his
+T176	PRON_PER 4766 4767	I
+T177	PRON_PER 4933 4937	they
+T178	PRON_PER 4959 4963	they
+T179	PRON_PER 4993 4997	they
+T180	PRON_PER 5146 5147	I
+T183	PRON_PER 5618 5620	we
+T185	PRON_PER 5807 5808	I
+T186	PRON_PER 5855 5856	I
+T187	PRON_PER 5874 5875	I
+T188	PRON_PER 6166 6168	he
+T189	PRON_PER 6279 6281	He
+T190	PRON_PER 6529 6532	his
+T191	PRON_PER 6542 6544	He
+T192	PRON_PER 6657 6660	his
+T193	PRON_PER 6717 6720	his
+T194	PRON_PER 6762 6765	His
+T195	PRON_PER 6919 6922	his
+T196	PRON_PER 6977 6980	him
+T197	PRON_PER 7040 7043	his
+T198	PRON_PER 7081 7084	him
+T199	PRON_PER 7111 7114	him
+T200	PRON_PER 7212 7215	His
+T201	PRON_PER 7572 7574	he
+T202	PRON_PER 7942 7945	his
+T203	PRON_PER 7977 7982	their
+T204	PRON_PER 8228 8230	he
+T205	PRON_PER 8310 8312	he
+T206	PRON_PER 8475 8476	I
+T207	PRON_PER 8521 8523	he
+T208	PRON_PER 8596 8601	their
+T209	PRON_PER 8631 8633	he
+T210	PRON_PER 8783 8787	Your
+T211	PRON_PER 9105 9107	he
+T212	PRON_PER 9123 9126	his
+T213	PRON_PER 9135 9140	their
+T214	PRON_PER 9157 9159	he
+T215	PRON_PER 9278 9280	he
+T216	PRON_PER 9309 9312	him
+T217	PRON_PER 9336 9338	he
+T218	PRON_PER 9385 9387	he
+T219	PRON_PER 9649 9652	him
+T220	PRON_PER 9680 9683	his
+T221	PRON_PER 9718 9721	his
+T222	PRON_PER 9792 9795	him
+T223	PRON_PER 9819 9821	he
+T224	PRON_PER 9919 9922	his
+T225	PRON_PER 9937 9939	he
+T226	PRON_PER 10054 10056	he
+T227	PRON_PER 10081 10083	he
+T228	PRON_PER 10175 10178	his
+T229	PRON_PER 10286 10289	his
+T230	PRON_PER 10409 10411	he
+T231	PRON_PER 10442 10449	himself
+T232	PRON_PER 10478 10480	He
+T233	PRON_PER 10540 10545	their
+T234	PRON_PER 10687 10689	He
+T235	PRON_PER 10763 10765	he
+T236	PRON_PER 10779 10782	his
+T237	PRON_PER 10861 10863	He
+T238	PRON_PER 11032 11034	he
+T239	PRON_PER 11095 11098	his
+T149	NOM_PER 2419 2423	Some
+T171	NOM_PER 9484 9508	some of the smaller ones

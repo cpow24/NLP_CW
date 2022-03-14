@@ -61,7 +61,7 @@ T109	PROP_PER 9588 9602	Mr. Pontellier
 T110	PROP_PER 9617 9622	Klein
 T1	PROP_PER 396 410	Mr. Pontellier
 T113	NOM_FAC 543 554	the gallery
-T114	NOM_FAC 566 643	the narrow “ bridges ” which connected the Lebrun cottages one with the other
+T114	NOM_FAC 566 643	the narrow " bridges " which connected the Lebrun cottages one with the other
 T115	NOM_FAC 605 624	the Lebrun cottages
 T116	NOM_FAC 684 698	the main house
 T3	NOM_FAC 955 970	his own cottage
@@ -123,8 +123,8 @@ T58	NOM_ORG 9246 9262	New Orleans club
 T87	NOM_PER 9723 9731	his wife
 T92	NOM_PER 8749 8830	her sister , who was away in the East , and who had engaged herself to be married
 T44	PROP_PER 4788 4793	Klein
-T112	NOM_LOC 8355 8382	the “ Quartier Francais , ”
-T83	NOM_PER 8331 8382	exclusive visitors from the “ Quartier Francais , ”
+T112	NOM_LOC 8355 8382	the " Quartier Francais , "
+T83	NOM_PER 8331 8382	exclusive visitors from the " Quartier Francais , "
 T155	NOM_PER 228 234	nobody
 T123	NOM_FAC 1089 1094	there
 T130	NOM_FAC 2703 2708	there
@@ -301,7 +301,7 @@ T339	Mr__Pontellier-1 396 410	Mr. Pontellier
 T497	Mr__Pontellier-1 428 431	his
 T498	Mr__Pontellier-1 528 530	He
 T451	the_gallery-2 543 554	the gallery
-T452	the_narrow___bridges___which_connected_the_Lebrun_cottages_one_with_the_other-3 566 643	the narrow “ bridges ” which connected the Lebrun cottages one with the other
+T452	the_narrow___bridges___which_connected_the_Lebrun_cottages_one_with_the_other-3 566 643	the narrow " bridges " which connected the Lebrun cottages one with the other
 T453	the_Lebrun_cottages-4 605 624	the Lebrun cottages
 T499	Mr__Pontellier-1 646 648	He
 T454	the_main_house-5 684 698	the main house
@@ -524,8 +524,8 @@ T415	the_main_house-5 8201 8210	the house
 T413	Madame_Lebrun-6 8123 8133	his mother
 T417	the_Lebruns-40 8241 8252	the Lebruns
 T467	the_Lebrun_cottages-4 8276 8298	dozen or more cottages
-T421	exclusive_visitors_from_the___Quartier_Francais____-41 8331 8382	exclusive visitors from the “ Quartier Francais , ”
-T450	the___Quartier_Francais____-42 8355 8382	the “ Quartier Francais , ”
+T421	exclusive_visitors_from_the___Quartier_Francais____-41 8331 8382	exclusive visitors from the " Quartier Francais , "
+T450	the___Quartier_Francais____-42 8355 8382	the " Quartier Francais , "
 T419	Madame_Lebrun-6 8394 8407	Madame Lebrun
 T643	Madame_Lebrun-6 8476 8479	her
 T422	Mrs__Pontellier-25 8493 8508	Mrs. Pontellier

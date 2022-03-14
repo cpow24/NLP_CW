@@ -70,7 +70,7 @@ T107	NOM_LOC 3360 3369	the earth
 T109	NOM_PER 3244 3275	the race that peopled its banks
 T110	NOM_LOC 3316 3369	a waterway leading to the uttermost ends of the earth
 T111	NOM_LOC 3385 3405	the venerable stream
-T17	NOM_PER 3557 3643	a man who has , as the phrase goes , “ followed the sea ” with reverence and affection
+T17	NOM_PER 3557 3643	a man who has , as the phrase goes , " followed the sea " with reverence and affection
 T112	PROP_LOC 3715 3725	the Thames
 T19	NOM_LOC 3694 3725	the lower reaches of the Thames
 T113	NOM_VEH 3822 3827	ships
@@ -96,8 +96,8 @@ T39	NOM_PER 4578 4593	men on ' Change
 T121	NOM_VEH 4565 4593	the ships of men on ' Change
 T122	NOM_PER 4596 4604	captains
 T123	NOM_PER 4607 4615	admirals
-T124	NOM_PER 4618 4663	the dark “ interlopers ” of the Eastern trade
-T125	NOM_PER 4670 4720	the commissioned “ generals ” of East India fleets
+T124	NOM_PER 4618 4663	the dark " interlopers " of the Eastern trade
+T125	NOM_PER 4670 4720	the commissioned " generals " of East India fleets
 T35	PROP_VEH 4703 4720	East India fleets
 T40	PROP_LOC 4703 4713	East India
 T126	NOM_LOC 4787 4798	that stream
@@ -155,7 +155,7 @@ T171	NOM_LOC 9305 9314	the woods
 T172	NOM_FAC 9324 9340	some inland post
 T173	NOM_LOC 9463 9473	the forest
 T175	NOM_VEH 7860 7871	these craft
-T63	NOM_PER 5635 5686	the only man of us who still “ followed the sea . ”
+T63	NOM_PER 5635 5686	the only man of us who still " followed the sea . "
 T85	NOM_LOC 2382 2387	water
 T86	NOM_LOC 851 856	earth
 T178	NOM_PER 7198 7204	No one
@@ -290,7 +290,7 @@ T359	Thames-1 3316 3369	a waterway leading to the uttermost ends of the earth
 T356	earth-8 3360 3369	the earth
 T451	group-2 3372 3374	We
 T360	Thames-1 3385 3405	the venerable stream
-T266	a_man_who_has___as_the_phrase_goes_____followed_the_sea___with_reverence_and_affection-28 3557 3643	a man who has , as the phrase goes , “ followed the sea ” with reverence and affection
+T266	a_man_who_has___as_the_phrase_goes_____followed_the_sea___with_reverence_and_affection-28 3557 3643	a man who has , as the phrase goes , " followed the sea " with reverence and affection
 T271	the_sea-4 3605 3612	the sea
 T267	the_great_spirit_of_the_past-29 3660 3688	the great spirit of the past
 T268	the_low_shores-24 3694 3725	the lower reaches of the Thames
@@ -324,8 +324,8 @@ T370	the_ships_of_men_on___Change-51 4565 4593	the ships of men on ' Change
 T288	men_on___Change-52 4578 4593	men on ' Change
 T371	captains-53 4596 4604	captains
 T372	admirals-54 4607 4615	admirals
-T373	the_dark___interlopers___of_the_Eastern_trade-55 4618 4663	the dark “ interlopers ” of the Eastern trade
-T374	the_commissioned___generals___of_East_India_fleets-56 4670 4720	the commissioned “ generals ” of East India fleets
+T373	the_dark___interlopers___of_the_Eastern_trade-55 4618 4663	the dark " interlopers " of the Eastern trade
+T374	the_commissioned___generals___of_East_India_fleets-56 4670 4720	the commissioned " generals " of East India fleets
 T284	East_India_fleets-57 4703 4720	East India fleets
 T289	East_India-58 4703 4713	East India
 T293	Hunters-59 4723 4730	Hunters

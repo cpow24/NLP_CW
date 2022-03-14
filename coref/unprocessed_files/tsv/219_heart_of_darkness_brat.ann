@@ -70,7 +70,7 @@ MENTION	T107	27	44	27	45	the earth	LOC	NOM
 MENTION	T109	27	22	27	27	the race that peopled its banks	PER	NOM
 MENTION	T110	27	36	27	45	a waterway leading to the uttermost ends of the earth	LOC	NOM
 MENTION	T111	28	3	28	5	the venerable stream	LOC	NOM
-MENTION	T17	29	6	29	24	a man who has , as the phrase goes , “ followed the sea ” with reverence and affection	PER	NOM
+MENTION	T17	29	6	29	24	a man who has , as the phrase goes , " followed the sea " with reverence and affection	PER	NOM
 MENTION	T112	29	40	29	41	the Thames	LOC	PROP
 MENTION	T19	29	36	29	41	the lower reaches of the Thames	LOC	NOM
 MENTION	T113	30	18	30	18	ships	VEH	NOM
@@ -96,8 +96,8 @@ MENTION	T39	34	25	34	28	men on ' Change	PER	NOM
 MENTION	T121	34	22	34	28	the ships of men on ' Change	VEH	NOM
 MENTION	T122	34	30	34	30	captains	PER	NOM
 MENTION	T123	34	32	34	32	admirals	PER	NOM
-MENTION	T124	34	34	34	42	the dark “ interlopers ” of the Eastern trade	PER	NOM
-MENTION	T125	34	45	34	53	the commissioned “ generals ” of East India fleets	PER	NOM
+MENTION	T124	34	34	34	42	the dark " interlopers " of the Eastern trade	PER	NOM
+MENTION	T125	34	45	34	53	the commissioned " generals " of East India fleets	PER	NOM
 MENTION	T35	34	51	34	53	East India fleets	VEH	PROP
 MENTION	T40	34	51	34	52	East India	LOC	PROP
 MENTION	T126	35	14	35	15	that stream	LOC	NOM
@@ -155,7 +155,7 @@ MENTION	T171	72	7	72	8	the woods	LOC	NOM
 MENTION	T172	72	12	72	14	some inland post	FAC	NOM
 MENTION	T173	72	38	72	39	the forest	LOC	NOM
 MENTION	T175	61	27	61	28	these craft	VEH	NOM
-MENTION	T63	43	2	43	14	the only man of us who still “ followed the sea . ”	PER	NOM
+MENTION	T63	43	2	43	14	the only man of us who still " followed the sea . "	PER	NOM
 MENTION	T85	23	1	23	1	water	LOC	NOM
 MENTION	T86	5	30	5	30	earth	LOC	NOM
 MENTION	T178	55	0	55	1	No one	PER	NOM

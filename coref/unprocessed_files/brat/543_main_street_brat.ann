@@ -98,8 +98,8 @@ T28	PROP_ORG 2442 2450	Blodgett
 T29	NOM_FAC 2639 2652	her dormitory
 T32	NOM_PER 2827 2890	a fragile child who must be cloaked with understanding kindness
 T33	NOM_ORG 3291 3329	the Blodgett Ladies ’ Basket-Ball Team
-T36	NOM_PER 3101 3329	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the “ gym ” in practise for the Blodgett Ladies ’ Basket-Ball Team
-T115	NOM_FAC 3263 3274	the “ gym ”
+T36	NOM_PER 3101 3329	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the " gym " in practise for the Blodgett Ladies ’ Basket-Ball Team
+T115	NOM_FAC 3263 3274	the " gym "
 T116	PROP_PER 3689 3694	Carol
 T117	NOM_PER 3689 3711	Carol ’s acquaintances
 T118	NOM_PER 3865 3887	a born hero-worshipper
@@ -118,8 +118,8 @@ T49	NOM_LOC 5493 5502	the world
 T128	NOM_PER 5544 5576	the girls who were not betrothed
 T129	NOM_PER 5536 5576	Most of the girls who were not betrothed
 T130	NOM_FAC 5700 5717	beastly classroom
-T131	NOM_PER 5632 5777	careless young women who admitted that they intended to leave the “ beastly classroom and grubby children ” the minute they had a chance to marry
-T132	NOM_PER 5784 5948	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to “ guide their feet along the paths of greatest usefulness . ”
+T131	NOM_PER 5632 5777	careless young women who admitted that they intended to leave the " beastly classroom and grubby children " the minute they had a chance to marry
+T132	NOM_PER 5784 5948	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to " guide their feet along the paths of greatest usefulness . "
 T133	PROP_PER 5970 5975	Carol
 T53	PROP_PER 6208 6213	Carol
 T134	NOM_PER 6505 6510	poets
@@ -422,8 +422,8 @@ T382	The_other_girls_in_her_dormitory-39 2907 2916	the girls
 T548	Carol_Milford-3 2973 2976	her
 T549	Carol_Milford-3 3001 3004	her
 T550	Carol_Milford-3 3066 3069	she
-T383	the_hulking_young_women_who___with_calves_bulging_in_heavy-ribbed_woolen_stockings_beneath_decorous_blue_serge_bloomers___thuddingly_galloped_across_the_floor_of_the___gym___in_practise_for_the_Blodgett_Ladies___Basket-Ball_Team-41 3101 3329	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the “ gym ” in practise for the Blodgett Ladies ’ Basket-Ball Team
-T462	the___gym__-42 3263 3274	the “ gym ”
+T383	the_hulking_young_women_who___with_calves_bulging_in_heavy-ribbed_woolen_stockings_beneath_decorous_blue_serge_bloomers___thuddingly_galloped_across_the_floor_of_the___gym___in_practise_for_the_Blodgett_Ladies___Basket-Ball_Team-41 3101 3329	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the " gym " in practise for the Blodgett Ladies ’ Basket-Ball Team
+T462	the___gym__-42 3263 3274	the " gym "
 T380	the_Blodgett_Ladies___Basket-Ball_Team-43 3291 3329	the Blodgett Ladies ’ Basket-Ball Team
 T551	Carol_Milford-3 3342 3345	she
 T552	Carol_Milford-3 3356 3359	her
@@ -493,12 +493,12 @@ T593	Carol_Milford-3 5518 5521	she
 T476	Most_of_the_girls_who_were_not_betrothed-62 5536 5576	Most of the girls who were not betrothed
 T475	the_girls_who_were_not_betrothed-63 5544 5576	the girls who were not betrothed
 T397	teachers-64 5589 5597	teachers
-T478	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65 5632 5777	careless young women who admitted that they intended to leave the “ beastly classroom and grubby children ” the minute they had a chance to marry
+T478	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65 5632 5777	careless young women who admitted that they intended to leave the " beastly classroom and grubby children " the minute they had a chance to marry
 T594	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65 5671 5675	they
 T477	beastly_classroom-66 5700 5717	beastly classroom
 T399	grubby_children-67 5722 5737	grubby children
 T595	careless_young_women_who_admitted_that_they_intended_to_leave_the___beastly_classroom_and_grubby_children___the_minute_they_had_a_chance_to_marry-65 5751 5755	they
-T479	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68 5784 5948	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to “ guide their feet along the paths of greatest usefulness . ”
+T479	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68 5784 5948	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to " guide their feet along the paths of greatest usefulness . "
 T398	God-69 5880 5883	God
 T596	studious___sometimes_bulbous-browed_and_pop-eyed_maidens_who_at_class_prayer-meetings_requested_God_to___guide_their_feet_along_the_paths_of_greatest_usefulness____-68 5895 5900	their
 T480	Carol_Milford-3 5970 5975	Carol

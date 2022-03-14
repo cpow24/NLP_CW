@@ -1,0 +1,153 @@
+MENTION	T4	3	47	3	48	St. Nicholas	PER	PROP
+MENTION	T5	4	14	4	20	the good housewives of the adjacent country	PER	NOM
+MENTION	T7	4	27	4	28	their husbands	PER	NOM
+MENTION	T10	8	5	8	6	a stripling	PER	NOM
+MENTION	T13	11	20	11	23	the original Dutch settlers	PER	NOM
+MENTION	T14	11	18	11	23	descendants from the original Dutch settlers	PER	NOM
+MENTION	T15	11	40	11	42	its rustic lads	PER	NOM
+MENTION	T16	11	45	11	48	the Sleepy Hollow Boys	PER	PROP
+MENTION	T17	13	47	13	49	Master Hendrick Hudson	PER	PROP
+MENTION	T18	13	29	13	35	the prophet or wizard of his tribe	PER	NOM
+MENTION	T20	13	8	13	11	a High German doctor	PER	NOM
+MENTION	T25	20	24	20	25	this spectre	PER	NOM
+MENTION	T27	21	40	21	45	the Headless Horseman of Sleepy Hollow	PER	NOM
+MENTION	T29	21	26	21	27	the spectre	PER	NOM
+MENTION	T30	22	14	22	19	the native inhabitants of the valley	PER	NOM
+MENTION	T33	27	59	27	63	the children of the vicinity	PER	NOM
+MENTION	T35	28	35	28	36	country schoolmasters	PER	NOM
+MENTION	T36	28	14	28	17	pioneers for the mind	PER	NOM
+MENTION	T37	29	3	29	3	Crane	PER	PROP
+MENTION	T38	29	8	29	9	his person	PER	NOM
+MENTION	T41	34	56	34	57	the architect	PER	NOM
+MENTION	T42	34	31	34	32	a thief	PER	NOM
+MENTION	T45	36	42	36	43	the master	PER	NOM
+MENTION	T47	36	68	36	70	some tardy loiterer	PER	NOM
+MENTION	T48	37	25	37	26	the child	PER	NOM
+MENTION	T49	37	6	37	8	a conscientious man	PER	NOM
+MENTION	T50	38	0	38	3	Ichabod Crane ’s scholars	PER	NOM
+MENTION	T52	41	9	41	10	their parents	PER	NOM
+MENTION	T53	41	29	41	31	the smarting urchin	PER	NOM
+MENTION	T54	42	39	42	40	good housewives	PER	NOM
+MENTION	T55	42	14	42	16	the larger boys	PER	NOM
+MENTION	T58	42	42	42	42	mothers	PER	NOM
+MENTION	T60	43	11	43	12	his pupils	PER	NOM
+MENTION	T61	44	67	44	72	the farmers whose children he instructed	PER	NOM
+MENTION	T65	47	2	47	3	the farmers	PER	NOM
+MENTION	T66	49	7	49	8	the mothers	PER	NOM
+MENTION	T68	49	11	49	12	the children	PER	NOM
+MENTION	T2	3	27	3	30	the ancient Dutch navigators	PER	NOM
+MENTION	T86	11	13	11	23	its inhabitants , who are descendants from the original Dutch settlers	PER	NOM
+MENTION	T91	13	24	13	27	an old Indian chief	PER	NOM
+MENTION	T19	13	34	13	35	his tribe	PER	NOM
+MENTION	T94	14	24	14	26	the good people	PER	NOM
+MENTION	T99	17	29	17	36	a figure on horseback , without a head	PER	NOM
+MENTION	T22	18	41	18	43	the country folk	PER	NOM
+MENTION	T100	18	10	18	59	a Hessian trooper , whose head had been carried away by a cannon-ball , in some nameless battle during the Revolutionary War , and who is ever and anon seen by the country folk hurrying along in the gloom of night , as if on the wings of the wind	PER	NOM
+MENTION	T103	20	2	20	25	certain of the most authentic historians of those parts , who have been careful in collecting and collating the floating facts concerning this spectre	PER	NOM
+MENTION	T26	20	32	20	33	the trooper	PER	NOM
+MENTION	T105	20	41	20	42	the ghost	PER	NOM
+MENTION	T110	22	26	22	33	every one who resides there for a time	PER	NOM
+MENTION	T120	27	26	27	63	a worthy wight of the name of Ichabod Crane , who sojourned , or , as he expressed it , " tarried , " in Sleepy Hollow , for the purpose of instructing the children of the vicinity	PER	NOM
+MENTION	T121	27	33	27	34	Ichabod Crane	PER	PROP
+MENTION	T124	28	32	28	33	frontier woodmen	PER	NOM
+MENTION	T130	34	59	34	61	Yost Van Houten	PER	PROP
+MENTION	T43	36	6	36	7	his pupils	PER	NOM
+MENTION	T46	38	0	38	1	Ichabod Crane	PER	PROP
+MENTION	T134	39	26	39	27	their subjects	PER	NOM
+MENTION	T135	39	14	39	27	those cruel potentates of the school who joy in the smart of their subjects	PER	NOM
+MENTION	T136	39	49	39	50	the weak	PER	NOM
+MENTION	T137	39	58	39	59	the strong	PER	NOM
+MENTION	T138	40	0	40	13	Your mere puny stripling , that winced at the least flourish of the rod	PER	NOM
+MENTION	T51	40	34	40	54	some little tough wrong-headed , broad-skirted Dutch urchin , who sulked and swelled and grew dogged and sullen beneath the birch	PER	NOM
+MENTION	T59	42	9	42	16	the companion and playmate of the larger boys	PER	NOM
+MENTION	T56	42	26	42	28	the smaller ones	PER	NOM
+MENTION	T57	42	35	42	36	pretty sisters	PER	NOM
+MENTION	T63	44	70	44	70	children	PER	NOM
+MENTION	T64	46	30	46	30	schoolmasters	PER	NOM
+MENTION	T142	46	32	46	33	mere drones	PER	NOM
+MENTION	T143	46	12	46	33	his rustic patrons , who are apt to consider the costs of schooling a grievous burden , and schoolmasters as mere drones	PER	NOM
+MENTION	T67	49	37	49	38	a child	PER	NOM
+MENTION	T147	0	7	0	8	DIEDRICH KNICKERBOCKER	PER	NOM
+MENTION	T154	3	37	3	37	they	PER	PRON
+MENTION	T155	3	50	3	50	they	PER	PRON
+MENTION	T156	4	5	4	5	we	PER	PRON
+MENTION	T157	4	27	4	27	their	PER	PRON
+MENTION	T158	5	6	5	6	I	PER	PRON
+MENTION	T159	8	0	8	0	I	PER	PRON
+MENTION	T160	8	8	8	8	my	PER	PRON
+MENTION	T161	9	0	9	0	I	PER	PRON
+MENTION	T162	9	22	9	22	my	PER	PRON
+MENTION	T163	10	2	10	2	I	PER	PRON
+MENTION	T164	10	9	10	9	I	PER	PRON
+MENTION	T165	10	30	10	30	I	PER	PRON
+MENTION	T166	13	34	13	34	his	PER	PRON
+MENTION	T167	13	38	13	38	his	PER	PRON
+MENTION	T168	14	29	14	29	them	PER	PRON
+MENTION	T169	15	0	15	0	They	PER	PRON
+MENTION	T172	19	0	19	0	His	PER	PRON
+MENTION	T173	20	54	20	54	his	PER	PRON
+MENTION	T174	20	64	20	64	he	PER	PRON
+MENTION	T175	20	79	20	79	his	PER	PRON
+MENTION	T176	22	7	22	7	I	PER	PRON
+MENTION	T177	23	3	23	3	they	PER	PRON
+MENTION	T178	23	8	23	8	they	PER	PRON
+MENTION	T179	23	14	23	14	they	PER	PRON
+MENTION	T180	24	0	24	0	I	PER	PRON
+MENTION	T183	25	17	25	17	we	PER	PRON
+MENTION	T185	26	6	26	6	I	PER	PRON
+MENTION	T186	26	16	26	16	I	PER	PRON
+MENTION	T187	26	19	26	19	I	PER	PRON
+MENTION	T188	27	42	27	42	he	PER	PRON
+MENTION	T189	28	0	28	0	He	PER	PRON
+MENTION	T190	29	8	29	8	his	PER	PRON
+MENTION	T191	30	0	30	0	He	PER	PRON
+MENTION	T192	30	24	30	24	his	PER	PRON
+MENTION	T193	30	36	30	36	his	PER	PRON
+MENTION	T194	31	0	31	0	His	PER	PRON
+MENTION	T195	31	34	31	34	his	PER	PRON
+MENTION	T196	32	2	32	2	him	PER	PRON
+MENTION	T197	32	16	32	16	his	PER	PRON
+MENTION	T198	32	22	32	22	him	PER	PRON
+MENTION	T199	32	28	32	28	him	PER	PRON
+MENTION	T200	33	0	33	0	His	PER	PRON
+MENTION	T201	34	40	34	40	he	PER	PRON
+MENTION	T202	36	6	36	6	his	PER	PRON
+MENTION	T203	36	13	36	13	their	PER	PRON
+MENTION	T204	36	66	36	66	he	PER	PRON
+MENTION	T205	37	4	37	4	he	PER	PRON
+MENTION	T206	39	0	39	0	I	PER	PRON
+MENTION	T207	39	10	39	10	he	PER	PRON
+MENTION	T208	39	26	39	26	their	PER	PRON
+MENTION	T209	39	33	39	33	he	PER	PRON
+MENTION	T210	40	0	40	0	Your	PER	PRON
+MENTION	T211	41	2	41	2	he	PER	PRON
+MENTION	T212	41	6	41	6	his	PER	PRON
+MENTION	T213	41	9	41	9	their	PER	PRON
+MENTION	T214	41	14	41	14	he	PER	PRON
+MENTION	T215	41	35	41	35	he	PER	PRON
+MENTION	T216	41	41	41	41	him	PER	PRON
+MENTION	T217	41	47	41	47	he	PER	PRON
+MENTION	T218	42	6	42	6	he	PER	PRON
+MENTION	T219	43	4	43	4	him	PER	PRON
+MENTION	T220	43	11	43	11	his	PER	PRON
+MENTION	T221	44	4	44	4	his	PER	PRON
+MENTION	T222	44	17	44	17	him	PER	PRON
+MENTION	T223	44	23	44	23	he	PER	PRON
+MENTION	T224	44	46	44	46	his	PER	PRON
+MENTION	T225	44	49	44	49	he	PER	PRON
+MENTION	T226	44	71	44	71	he	PER	PRON
+MENTION	T227	45	2	45	2	he	PER	PRON
+MENTION	T228	45	21	45	21	his	PER	PRON
+MENTION	T229	46	12	46	12	his	PER	PRON
+MENTION	T230	46	35	46	35	he	PER	PRON
+MENTION	T231	46	41	46	41	himself	PER	PRON
+MENTION	T232	47	0	47	0	He	PER	PRON
+MENTION	T233	47	10	47	10	their	PER	PRON
+MENTION	T234	48	0	48	0	He	PER	PRON
+MENTION	T235	48	15	48	15	he	PER	PRON
+MENTION	T236	48	19	48	19	his	PER	PRON
+MENTION	T237	49	0	49	0	He	PER	PRON
+MENTION	T238	49	33	49	33	he	PER	PRON
+MENTION	T239	49	48	49	48	his	PER	PRON
+MENTION	T149	13	0	13	0	Some	PER	NOM
+MENTION	T171	42	24	42	28	some of the smaller ones	PER	NOM

@@ -67,8 +67,8 @@ T83	NOM_LOC 9 22	The Wild Land
 T84	NOM_LOC 267 283	the gray prairie
 T85	NOM_FAC 305 324	The dwelling-houses
 T4	NOM_LOC 514 528	the open plain
-T86	NOM_FAC 659 855	a deeply rutted road , now frozen hard , which ran from the squat red railway station and the grain “ elevator ” at the north end of the town to the lumber yard and the horse pond at the south end
-T87	NOM_FAC 749 771	the grain “ elevator ”
+T86	NOM_FAC 659 855	a deeply rutted road , now frozen hard , which ran from the squat red railway station and the grain " elevator " at the north end of the town to the lumber yard and the horse pond at the south end
+T87	NOM_FAC 749 771	the grain " elevator "
 T88	NOM_LOC 775 800	the north end of the town
 T89	NOM_LOC 824 838	the horse pond
 T90	NOM_LOC 842 855	the south end
@@ -342,7 +342,7 @@ T501	The_dwelling-houses-6 611 615	them
 T502	The_dwelling-houses-6 632 636	them
 T353	The_main_street-8 639 654	The main street
 T354	train_station-9 715 744	the squat red railway station
-T434	the_grain___elevator__-10 749 771	the grain “ elevator ”
+T434	the_grain___elevator__-10 749 771	the grain " elevator "
 T435	the_north_end_of_the_town-11 775 800	the north end of the town
 T352	the_little_town_of_Hanover-1 792 800	the town
 T355	the_lumber_yard-12 804 819	the lumber yard

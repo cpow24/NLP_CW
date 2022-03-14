@@ -131,7 +131,7 @@ T131	NOM_PER 8249 8295	the black horse that lay groaning on the grass
 T132	NOM_PER 8392 8402	our master
 T133	NOM_PER 8520 8535	the black horse
 T134	NOM_PER 8608 8618	that horse
-T58	PROP_PER 8653 8664	“ Rob Roy ”
+T58	PROP_PER 8653 8664	" Rob Roy "
 T135	NOM_PER 8674 8686	a good horse
 T136	NOM_FAC 8755 8764	the field
 T138	NOM_PER 7749 7758	every one
@@ -695,6 +695,6 @@ T703	PRON_LOC 123 125	it
 T704	the_meadow-1 123 125	it
 T705	PRON_LOC 157 159	it
 T706	the_meadow-1 157 159	it
-T141	Rob_Roy-64 8653 8664	“ Rob Roy ”
+T141	Rob_Roy-64 8653 8664	" Rob Roy "
 T137	NOM_PER 8376 8384	some one
 T351	some_one-700 8376 8384	some one

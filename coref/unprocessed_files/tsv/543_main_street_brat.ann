@@ -98,8 +98,8 @@ MENTION	T28	19	20	19	20	Blodgett	ORG	PROP
 MENTION	T29	21	4	21	5	her dormitory	FAC	NOM
 MENTION	T32	22	12	22	21	a fragile child who must be cloaked with understanding kindness	PER	NOM
 MENTION	T33	24	59	24	64	the Blodgett Ladies ’ Basket-Ball Team	ORG	NOM
-MENTION	T36	24	27	24	64	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the “ gym ” in practise for the Blodgett Ladies ’ Basket-Ball Team	PER	NOM
-MENTION	T115	24	52	24	55	the “ gym ”	FAC	NOM
+MENTION	T36	24	27	24	64	the hulking young women who , with calves bulging in heavy-ribbed woolen stockings beneath decorous blue serge bloomers , thuddingly galloped across the floor of the " gym " in practise for the Blodgett Ladies ’ Basket-Ball Team	PER	NOM
+MENTION	T115	24	52	24	55	the " gym "	FAC	NOM
 MENTION	T116	27	18	27	18	Carol	PER	PROP
 MENTION	T117	27	18	27	20	Carol ’s acquaintances	PER	NOM
 MENTION	T118	29	6	29	8	a born hero-worshipper	PER	NOM
@@ -118,8 +118,8 @@ MENTION	T49	44	19	44	20	the world	LOC	NOM
 MENTION	T128	45	2	45	7	the girls who were not betrothed	PER	NOM
 MENTION	T129	45	0	45	7	Most of the girls who were not betrothed	PER	NOM
 MENTION	T130	46	19	46	20	beastly classroom	FAC	NOM
-MENTION	T131	46	7	46	32	careless young women who admitted that they intended to leave the “ beastly classroom and grubby children ” the minute they had a chance to marry	PER	NOM
-MENTION	T132	46	35	46	60	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to “ guide their feet along the paths of greatest usefulness . ”	PER	NOM
+MENTION	T131	46	7	46	32	careless young women who admitted that they intended to leave the " beastly classroom and grubby children " the minute they had a chance to marry	PER	NOM
+MENTION	T132	46	35	46	60	studious , sometimes bulbous-browed and pop-eyed maidens who at class prayer-meetings requested God to " guide their feet along the paths of greatest usefulness . "	PER	NOM
 MENTION	T133	47	3	47	3	Carol	PER	PROP
 MENTION	T53	50	6	50	6	Carol	PER	PROP
 MENTION	T134	53	19	53	19	poets	PER	NOM

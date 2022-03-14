@@ -1,0 +1,229 @@
+MENTION	T1	1	27	1	29	a proud tyrant	PER	NOM
+MENTION	T5	5	9	5	10	those aristos	PER	NOM
+MENTION	T6	5	12	5	13	such fools	PER	NOM
+MENTION	T8	7	0	7	1	Their ancestors	PER	NOM
+MENTION	T9	7	32	7	34	their former masters	PER	NOM
+MENTION	T12	8	38	8	41	a beautiful young Queen	PER	NOM
+MENTION	T13	8	34	8	35	a King	PER	NOM
+MENTION	T14	8	18	8	19	young women	PER	NOM
+MENTION	T15	8	21	8	22	tiny children	PER	NOM
+MENTION	T16	9	13	9	16	the rulers of France	PER	NOM
+MENTION	T18	10	0	10	1	Every aristocrat	PER	NOM
+MENTION	T19	10	7	10	8	his ancestors	PER	NOM
+MENTION	T20	10	3	10	4	a traitor	PER	NOM
+MENTION	T21	12	22	12	23	an aristo	PER	NOM
+MENTION	T22	12	19	12	23	some fool of an aristo	PER	NOM
+MENTION	T23	13	22	13	26	citizen soldiers of the Republic	PER	NOM
+MENTION	T29	14	82	14	84	sovereigns of France	PER	NOM
+MENTION	T32	15	10	15	11	Sergeant Bibot	PER	PROP
+MENTION	T35	17	4	17	5	his prey	PER	NOM
+MENTION	T37	19	25	19	26	an aristo	PER	NOM
+MENTION	T39	19	0	19	0	Bibot	PER	PROP
+MENTION	T40	20	66	20	67	two men	PER	NOM
+MENTION	T41	20	47	20	47	Bibot	PER	PROP
+MENTION	T42	20	4	20	5	his prey	PER	NOM
+MENTION	T44	20	1	20	1	Bibot	PER	PROP
+MENTION	T49	25	21	25	22	citoyen soldiers	PER	NOM
+MENTION	T52	27	0	27	2	Those cursed aristos	PER	NOM
+MENTION	T54	27	32	27	34	those traitorous Bourbons	PER	NOM
+MENTION	T57	28	2	28	2	Bibot	PER	PROP
+MENTION	T58	28	29	28	31	that good patriot	PER	NOM
+MENTION	T59	28	9	28	11	some fugitive royalists	PER	NOM
+MENTION	T60	29	2	29	2	Danton	PER	PROP
+MENTION	T62	29	11	29	11	Bibot	PER	PROP
+MENTION	T63	29	6	29	6	Bibot	PER	PROP
+MENTION	T66	31	6	31	6	aristos	PER	NOM
+MENTION	T67	33	0	33	1	Sergeant Grospierre	PER	PROP
+MENTION	T71	34	43	34	49	lawful victims destined for Madame la Guillotine	PER	NOM
+MENTION	T73	35	30	35	38	a man whose pluck and audacity were almost fabulous	PER	NOM
+MENTION	T75	36	8	36	12	those aristos whom he rescued	PER	NOM
+MENTION	T76	37	10	37	11	their leader	PER	NOM
+MENTION	T77	37	4	37	6	these mysterious Englishmen	PER	NOM
+MENTION	T83	40	12	40	19	the citoyens of the Committee of Public Safety	PER	NOM
+MENTION	T84	41	0	41	4	The guards at the gates	PER	NOM
+MENTION	T85	41	9	41	12	the sergeants in command	PER	NOM
+MENTION	T86	41	28	41	32	these daring and impudent Englishmen	PER	NOM
+MENTION	T87	43	3	43	3	Bibot	PER	PROP
+MENTION	T90	43	10	43	10	Bibot	PER	PROP
+MENTION	T91	43	59	43	61	that mysterious Englishman	PER	NOM
+MENTION	T92	44	7	44	9	his trusted corporal	PER	NOM
+MENTION	T93	44	15	44	16	a fool	PER	NOM
+MENTION	T94	46	10	46	11	the corporal	PER	NOM
+MENTION	T95	48	6	48	8	this meddlesome Englishman	PER	NOM
+MENTION	T96	50	3	50	5	the devil himself	PER	NOM
+MENTION	T97	51	1	51	1	Grospierre	PER	PROP
+MENTION	T98	51	3	51	4	a fool	PER	NOM
+MENTION	T99	52	24	52	27	a boy beside him	PER	NOM
+MENTION	T100	52	19	52	21	an old man	PER	NOM
+MENTION	T102	54	11	54	18	ill-clad wretches , who crowded round Citoyen Bibot	PER	NOM
+MENTION	T103	55	8	55	9	the sergeant	PER	NOM
+MENTION	T104	55	23	55	27	some dozen soldiers with him	PER	NOM
+MENTION	T105	59	10	59	11	the captain	PER	NOM
+MENTION	T107	61	4	61	8	the CI-DEVANT Duc de Chalis	PER	NOM
+MENTION	T108	65	1	65	2	the driver	PER	NOM
+MENTION	T110	67	0	67	1	Citoyen Grospierre	PER	PROP
+MENTION	T111	67	13	67	14	a fool	PER	NOM
+MENTION	T114	0	33	0	34	savage creatures	PER	NOM
+MENTION	T115	0	7	0	48	A surging , seething , murmuring crowd of beings that are human only in name , for to the eye and ear they seem naught but savage creatures , animated by vile passions and by the lust of vengeance and of hate	PER	NOM
+MENTION	T116	3	20	3	21	the people	PER	NOM
+MENTION	T3	4	2	4	3	the crowd	PER	NOM
+MENTION	T117	6	4	6	5	the people	PER	NOM
+MENTION	T118	6	2	6	5	traitors to the people	PER	NOM
+MENTION	T119	6	26	6	38	the great men who since the Crusades had made the glory of France	PER	NOM
+MENTION	T120	6	24	6	38	descendants of the great men who since the Crusades had made the glory of France	PER	NOM
+MENTION	T121	6	40	6	42	her old NOBLESSE	PER	NOM
+MENTION	T122	6	13	6	38	men , women , and children , who happened to be descendants of the great men who since the Crusades had made the glory of France	PER	NOM
+MENTION	T123	7	4	7	5	the people	PER	NOM
+MENTION	T10	7	26	7	29	the rulers of France	PER	NOM
+MENTION	T124	7	22	7	23	the people	PER	NOM
+MENTION	T125	8	11	8	13	its many victims	PER	NOM
+MENTION	T126	8	15	8	16	old men	PER	NOM
+MENTION	T127	9	10	9	11	the people	PER	NOM
+MENTION	T128	10	19	10	20	the people	PER	NOM
+MENTION	T129	10	43	10	51	those who had helped to make those courts brilliant	PER	NOM
+MENTION	T130	10	40	10	51	the descendants of those who had helped to make those courts brilliant	PER	NOM
+MENTION	T131	10	71	10	72	the people	PER	NOM
+MENTION	T134	14	2	14	2	women	PER	NOM
+MENTION	T135	14	0	14	4	Men in women 's clothes	PER	NOM
+MENTION	T136	14	6	14	9	women in male attire	PER	NOM
+MENTION	T30	14	14	14	14	beggars	PER	NOM
+MENTION	T28	14	11	14	16	children disguised in beggars ' rags	PER	NOM
+MENTION	T137	14	64	14	65	an army	PER	NOM
+MENTION	T26	14	70	14	84	the wretched prisoners in the Temple , who had once called themselves sovereigns of France	PER	NOM
+MENTION	T139	14	25	14	84	CI-DEVANT counts , marquises , even dukes , who wanted to fly from France , reach England or some other equally accursed country , and there try to rouse foreign feelings against the glorious Revolution , or to raise an army in order to liberate the wretched prisoners in the Temple , who had once called themselves sovereigns of France	PER	NOM
+MENTION	T33	15	23	15	29	an aristo in the most perfect disguise	PER	NOM
+MENTION	T140	17	0	17	0	Bibot	PER	PROP
+MENTION	T36	17	49	17	54	a CI-DEVANT noble marquise or count	PER	NOM
+MENTION	T141	19	39	19	40	the people	PER	NOM
+MENTION	T46	20	50	20	52	the unfortunate wretch	PER	NOM
+MENTION	T143	22	10	22	11	the fugitive	PER	NOM
+MENTION	T144	22	16	22	17	a woman	PER	NOM
+MENTION	T145	22	32	22	32	Bibot	PER	PROP
+MENTION	T146	22	19	22	60	some proud marchioness , who looked terribly comical when she found herself in Bibot 's clutches after all , and knew that a summary trial would await her the next day and after that , the fond embrace of Madame la Guillotine	PER	NOM
+MENTION	T48	23	12	23	12	Bibot	PER	PROP
+MENTION	T147	24	14	24	15	the crowd	PER	NOM
+MENTION	T148	24	37	24	38	another hundred	PER	NOM
+MENTION	T149	25	0	25	0	Bibot	PER	PROP
+MENTION	T55	27	38	27	38	traitors	PER	NOM
+MENTION	T150	28	33	28	34	Citoyen Foucquier-Tinville	PER	PROP
+MENTION	T151	29	0	29	0	Robespierre	PER	PROP
+MENTION	T61	29	25	29	28	at least fifty aristos	PER	NOM
+MENTION	T152	30	2	30	10	all the sergeants in command at the various barricades	PER	NOM
+MENTION	T153	32	17	32	18	the people	PER	NOM
+MENTION	T68	33	10	33	14	a whole family of aristos	PER	NOM
+MENTION	T70	34	9	34	49	a band of Englishmen , whose daring seemed to be unparalleled , and who , from sheer desire to meddle in what did not concern them , spent their spare time in snatching away lawful victims destined for Madame la Guillotine	PER	NOM
+MENTION	T47	35	12	35	16	this band of meddlesome Englishmen	PER	NOM
+MENTION	T72	38	0	38	1	Citoyen Foucquier-Tinville	PER	PROP
+MENTION	T74	38	42	38	43	the crowd	PER	NOM
+MENTION	T79	39	8	39	12	the band of meddlesome Englishmen	PER	NOM
+MENTION	T80	40	23	40	27	so many royalists and aristocrats	PER	NOM
+MENTION	T156	42	16	42	21	the mysterious and elusive Scarlet Pimpernel	PER	PROP
+MENTION	T157	42	10	42	21	the man who laid hands on the mysterious and elusive Scarlet Pimpernel	PER	NOM
+MENTION	T89	43	6	43	7	that man	PER	NOM
+MENTION	T158	43	30	43	30	people	PER	NOM
+MENTION	T159	43	50	43	61	any fugitive aristo who perhaps might be accompanied by that mysterious Englishman	PER	NOM
+MENTION	T160	44	12	44	13	Citoyen Grospierre	PER	PROP
+MENTION	T162	45	16	45	17	Citoyen Bibot	PER	PROP
+MENTION	T163	45	27	45	28	his comrade	PER	NOM
+MENTION	T164	47	1	47	1	Grospierre	PER	PROP
+MENTION	T165	47	13	47	13	Bibot	PER	PROP
+MENTION	T166	47	18	47	19	the crowd	PER	NOM
+MENTION	T167	48	10	48	13	this accursed Scarlet Pimpernel	PER	PROP
+MENTION	T169	53	0	53	0	Grospierre	PER	PROP
+MENTION	T101	54	17	54	18	Citoyen Bibot	PER	PROP
+MENTION	T171	55	17	55	18	the guard	PER	NOM
+MENTION	T172	55	14	55	18	a captain of the guard	PER	NOM
+MENTION	T174	57	3	57	3	Grospierre	PER	PROP
+MENTION	T175	58	5	58	5	Grospierre	PER	PROP
+MENTION	T176	60	10	60	11	citoyen sergeant	PER	NOM
+MENTION	T106	61	10	61	12	all his family	PER	NOM
+MENTION	T178	63	1	63	1	Grospierre	PER	PROP
+MENTION	T112	69	1	69	2	a fool	PER	NOM
+MENTION	T38	65	7	65	9	that cursed Englishman	PER	NOM
+MENTION	T109	65	11	65	13	the Scarlet Pimpernel	PER	PROP
+MENTION	T181	43	0	43	0	Everyone	PER	NOM
+MENTION	T182	43	19	43	19	everybody	PER	NOM
+MENTION	T183	37	0	37	1	No one	PER	NOM
+MENTION	T185	0	29	0	29	they	PER	PRON
+MENTION	T186	1	40	1	40	his	PER	PRON
+MENTION	T188	6	0	6	0	They	PER	PRON
+MENTION	T189	6	11	6	11	them	PER	PRON
+MENTION	T191	7	0	7	0	Their	PER	PRON
+MENTION	T192	7	9	7	9	them	PER	PRON
+MENTION	T193	7	15	7	15	their	PER	PRON
+MENTION	T194	7	32	7	32	their	PER	PRON
+MENTION	T195	7	38	7	38	their	PER	PRON
+MENTION	T196	7	42	7	42	they	PER	PRON
+MENTION	T197	10	7	10	7	his	PER	PRON
+MENTION	T198	10	12	10	12	him	PER	PRON
+MENTION	T199	10	56	10	56	their	PER	PRON
+MENTION	T200	10	63	10	63	they	PER	PRON
+MENTION	T201	11	1	11	1	they	PER	PRON
+MENTION	T202	13	8	13	8	they	PER	PRON
+MENTION	T203	14	81	14	81	themselves	PER	PRON
+MENTION	T204	15	1	15	1	they	PER	PRON
+MENTION	T205	17	4	17	4	his	PER	PRON
+MENTION	T206	17	16	17	16	him	PER	PRON
+MENTION	T207	19	23	19	23	him	PER	PRON
+MENTION	T208	20	4	20	4	his	PER	PRON
+MENTION	T209	20	13	20	13	him	PER	PRON
+MENTION	T210	20	25	20	25	he	PER	PRON
+MENTION	T211	20	63	20	63	he	PER	PRON
+MENTION	T212	20	69	20	69	him	PER	PRON
+MENTION	T213	20	72	20	72	him	PER	PRON
+MENTION	T214	20	77	20	77	his	PER	PRON
+MENTION	T215	22	28	22	28	she	PER	PRON
+MENTION	T216	22	30	22	30	herself	PER	PRON
+MENTION	T217	22	46	22	46	her	PER	PRON
+MENTION	T218	25	25	25	25	his	PER	PRON
+MENTION	T219	27	8	27	8	their	PER	PRON
+MENTION	T220	27	39	27	39	themselves	PER	PRON
+MENTION	T221	28	14	28	14	them	PER	PRON
+MENTION	T222	29	8	29	8	his	PER	PRON
+MENTION	T223	29	18	29	18	he	PER	PRON
+MENTION	T224	29	20	29	20	his	PER	PRON
+MENTION	T225	32	8	32	8	they	PER	PRON
+MENTION	T226	33	23	33	23	his	PER	PRON
+MENTION	T227	34	34	34	34	them	PER	PRON
+MENTION	T228	34	37	34	37	their	PER	PRON
+MENTION	T229	35	22	35	22	they	PER	PRON
+MENTION	T230	36	6	36	6	he	PER	PRON
+MENTION	T231	36	11	36	11	he	PER	PRON
+MENTION	T232	36	17	36	17	they	PER	PRON
+MENTION	T233	37	10	37	10	their	PER	PRON
+MENTION	T234	37	13	37	13	he	PER	PRON
+MENTION	T235	38	20	38	20	he	PER	PRON
+MENTION	T236	38	28	38	28	his	PER	PRON
+MENTION	T237	38	38	38	38	him	PER	PRON
+MENTION	T238	38	46	38	46	he	PER	PRON
+MENTION	T239	38	49	38	49	his	PER	PRON
+MENTION	T240	39	35	39	35	we	PER	PRON
+MENTION	T241	40	38	40	38	their	PER	PRON
+MENTION	T242	43	34	43	34	him	PER	PRON
+MENTION	T243	43	46	43	46	he	PER	PRON
+MENTION	T244	44	4	44	4	he	PER	PRON
+MENTION	T245	44	7	44	7	his	PER	PRON
+MENTION	T246	45	3	45	3	me	PER	PRON
+MENTION	T247	45	24	45	24	his	PER	PRON
+MENTION	T248	45	27	45	27	his	PER	PRON
+MENTION	T249	47	23	47	23	him	PER	PRON
+MENTION	T250	47	28	47	28	his	PER	PRON
+MENTION	T251	48	1	48	1	We	PER	PRON
+MENTION	T252	49	0	49	0	He	PER	PRON
+MENTION	T253	49	5	49	5	MY	PER	PRON
+MENTION	T254	50	1	50	1	he	PER	PRON
+MENTION	T255	50	5	50	5	himself	PER	PRON
+MENTION	T256	52	27	52	27	him	PER	PRON
+MENTION	T257	53	7	53	7	he	PER	PRON
+MENTION	T258	53	9	53	9	himself	PER	PRON
+MENTION	T259	53	13	53	13	he	PER	PRON
+MENTION	T262	55	27	55	27	him	PER	PRON
+MENTION	T263	57	0	57	0	he	PER	PRON
+MENTION	T264	59	2	59	2	you	PER	PRON
+MENTION	T265	59	5	59	5	them	PER	PRON
+MENTION	T266	60	1	60	1	You	PER	PRON
+MENTION	T267	61	11	61	11	his	PER	PRON
+MENTION	T268	67	5	67	5	his	PER	PRON
+MENTION	T272	46	6	46	6	citoyen	PER	NOM
+MENTION	T180	27	22	27	23	whose ancestors	PER	NOM
+MENTION	T179	27	16	27	34	men , women and children , whose ancestors , even in remote ages , had served those traitorous Bourbons	PER	NOM

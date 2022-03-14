@@ -87,21 +87,21 @@ T117	NOM_LOC 255 289	the edge of a remarkably blue lake
 T118	NOM_LOC 293 339	a lake that it behooves every tourist to visit
 T119	NOM_LOC 342 363	The shore of the lake
 T120	NOM_FAC 373 422	an unbroken array of establishments of this order
-T7	NOM_FAC 450 581	the “ grand hotel ” of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof
+T7	NOM_FAC 450 581	the " grand hotel " of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof
 T6	NOM_FAC 587 762	the little Swiss pension of an elder day , with its name inscribed in German-looking lettering upon a pink or yellow wall and an awkward summerhouse in the angle of the garden
 T8	NOM_FAC 765 791	One of the hotels at Vevey
 T9	NOM_PER 971 989	American travelers
 T121	PROP_GPE 1211 1219	Saratoga
-T122	NOM_PER 1264 1287	“ stylish ” young girls
-T123	NOM_FAC 1460 1504	the excellent inn of the “ Trois Couronnes ”
+T122	NOM_PER 1264 1287	" stylish " young girls
+T123	NOM_FAC 1460 1504	the excellent inn of the " Trois Couronnes "
 T124	NOM_FAC 1537 1552	the Ocean House
 T125	PROP_FAC 1559 1572	Congress Hall
-T126	NOM_FAC 1582 1607	the “ Trois Couronnes , ”
+T126	NOM_FAC 1582 1607	the " Trois Couronnes , "
 T127	NOM_PER 1703 1762	neat German waiters , who look like secretaries of legation
 T19	NOM_PER 1765 1805	Russian princesses sitting in the garden
 T128	NOM_PER 1808 1880	little Polish boys walking about held by the hand , with their governors
 T17	NOM_FAC 1933 1980	the picturesque towers of the Castle of Chillon
-T129	NOM_PER 2080 2259	a young American , who , two or three years ago , sat in the garden of the “ Trois Couronnes , ” looking about him , rather idly , at some of the graceful objects I have mentioned
+T129	NOM_PER 2080 2259	a young American , who , two or three years ago , sat in the garden of the " Trois Couronnes , " looking about him , rather idly , at some of the graceful objects I have mentioned
 T131	NOM_PER 2322 2340	the young American
 T132	NOM_VEH 2442 2460	the little steamer
 T133	NOM_PER 2470 2478	his aunt
@@ -143,8 +143,8 @@ T144	NOM_LOC 9330 9352	the opposite mountains
 T145	PROP_PER 9653 9661	Randolph
 T146	NOM_ORG 3543 3550	college
 T38	NOM_PER 3272 3290	Very few Americans
-T130	NOM_FAC 2151 2176	the “ Trois Couronnes , ”
-T21	NOM_FAC 2137 2176	the garden of the “ Trois Couronnes , ”
+T130	NOM_FAC 2151 2176	the " Trois Couronnes , "
+T21	NOM_FAC 2137 2176	the garden of the " Trois Couronnes , "
 T147	NOM_GPE 3215 3220	there
 T148	NOM_GPE 3551 3556	there
 T149	NOM_GPE 3497 3502	there
@@ -318,7 +318,7 @@ T436	the_edge_of_a_remarkably_blue_lake-6 255 289	the edge of a remarkably blue 
 T322	every_tourist-7 317 330	every tourist
 T438	The_shore_of_the_lake-8 342 363	The shore of the lake
 T439	many_hotels-3 373 422	an unbroken array of establishments of this order
-T326	the___grand_hotel___of_the_newest_fashion___with_a_chalk-white_front___a_hundred_balconies___and_a_dozen_flags_flying_from_its_roof-9 450 581	the “ grand hotel ” of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof
+T326	the___grand_hotel___of_the_newest_fashion___with_a_chalk-white_front___a_hundred_balconies___and_a_dozen_flags_flying_from_its_roof-9 450 581	the " grand hotel " of the newest fashion , with a chalk-white front , a hundred balconies , and a dozen flags flying from its roof
 T325	the_little_Swiss_pension_of_an_elder_day___with_its_name_inscribed_in_German-looking_lettering_upon_a_pink_or_yellow_wall_and_an_awkward_summerhouse_in_the_angle_of_the_garden-10 587 762	the little Swiss pension of an elder day , with its name inscribed in German-looking lettering upon a pink or yellow wall and an awkward summerhouse in the angle of the garden
 T327	Tri_ois_Couronnes-2 765 791	One of the hotels at Vevey
 T329	many_hotels-3 866 887	its upstart neighbors
@@ -328,12 +328,12 @@ T332	Vevey-0 1046 1051	Vevey
 T331	an_American_watering_place-13 1106 1132	an American watering place
 T333	Newport-14 1199 1206	Newport
 T440	Saratoga-15 1211 1219	Saratoga
-T441	__stylish___young_girls-16 1264 1287	“ stylish ” young girls
+T441	__stylish___young_girls-16 1264 1287	" stylish " young girls
 T471	You-17 1415 1418	You
-T442	Tri_ois_Couronnes-2 1460 1504	the excellent inn of the “ Trois Couronnes ”
+T442	Tri_ois_Couronnes-2 1460 1504	the excellent inn of the " Trois Couronnes "
 T443	the_Ocean_House-18 1537 1552	the Ocean House
 T444	Congress_Hall-19 1559 1572	Congress Hall
-T445	Tri_ois_Couronnes-2 1582 1607	the “ Trois Couronnes , ”
+T445	Tri_ois_Couronnes-2 1582 1607	the " Trois Couronnes , "
 T446	neat_German_waiters___who_look_like_secretaries_of_legation-20 1703 1762	neat German waiters , who look like secretaries of legation
 T335	secretaries_of_legation-21 1739 1762	secretaries of legation
 T338	Russian_princesses_sitting_in_the_garden-22 1765 1805	Russian princesses sitting in the garden
@@ -344,9 +344,9 @@ T472	little_Polish_boys_walking_about_held_by_the_hand___with_their_governors-24
 T337	the_sunny_crest_of_the_Dent_du_Midi-26 1893 1928	the sunny crest of the Dent du Midi
 T336	the_picturesque_towers_of_the_Castle_of_Chillon-27 1933 1980	the picturesque towers of the Castle of Chillon
 T473	Narrator-28 1983 1984	I
-T448	young_American-29 2080 2259	a young American , who , two or three years ago , sat in the garden of the “ Trois Couronnes , ” looking about him , rather idly , at some of the graceful objects I have mentioned
-T340	the_garden-23 2137 2176	the garden of the “ Trois Couronnes , ”
-T449	Tri_ois_Couronnes-2 2151 2176	the “ Trois Couronnes , ”
+T448	young_American-29 2080 2259	a young American , who , two or three years ago , sat in the garden of the " Trois Couronnes , " looking about him , rather idly , at some of the graceful objects I have mentioned
+T340	the_garden-23 2137 2176	the garden of the " Trois Couronnes , "
+T449	Tri_ois_Couronnes-2 2151 2176	the " Trois Couronnes , "
 T474	young_American-29 2191 2194	him
 T475	Narrator-28 2243 2244	I
 T450	young_American-29 2322 2340	the young American
