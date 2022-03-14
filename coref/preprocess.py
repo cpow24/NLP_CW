@@ -39,7 +39,7 @@ def ProcessFiles(path, filetype):
         with open(location) as file:
             for line in file:
                 if filetype == '.conll':
-                    if '(' not in line or ')' not in line:
+                    if '(' not in line and ')' not in line:
                         continue
                     else:
                         processed_file.append(line)
