@@ -74,13 +74,7 @@
 238_dear_enemy_brat	0	10	household	_	_	_	_	_	_	_	_	17)
 238_dear_enemy_brat	0	11	Jervis	_	_	_	_	_	_	_	_	(4)
 238_dear_enemy_brat	0	13	I	_	_	_	_	_	_	_	_	(3)
-238_dear_enemy_brat	0	22	(	_	_	_	_	_	_	_	_	
-238_dear_enemy_brat	0	24	)	_	_	_	_	_	_	_	_	
-238_dear_enemy_brat	0	27	(	_	_	_	_	_	_	_	_	
-238_dear_enemy_brat	0	29	)	_	_	_	_	_	_	_	_	
 238_dear_enemy_brat	0	34	politicians	_	_	_	_	_	_	_	_	(18)
-238_dear_enemy_brat	0	36	(	_	_	_	_	_	_	_	_	
-238_dear_enemy_brat	0	38	)	_	_	_	_	_	_	_	_	
 238_dear_enemy_brat	0	45	society	_	_	_	_	_	_	_	_	(19
 238_dear_enemy_brat	0	46	women	_	_	_	_	_	_	_	_	19)
 238_dear_enemy_brat	0	2	your	_	_	_	_	_	_	_	_	(4|(2)
@@ -381,11 +375,9 @@
 238_dear_enemy_brat	0	0	I	_	_	_	_	_	_	_	_	(3)
 238_dear_enemy_brat	0	9	your	_	_	_	_	_	_	_	_	(2)
 238_dear_enemy_brat	0	0	I	_	_	_	_	_	_	_	_	(3)
-238_dear_enemy_brat	0	7	(	_	_	_	_	_	_	_	_	
 238_dear_enemy_brat	0	11	the	_	_	_	_	_	_	_	_	(71
 238_dear_enemy_brat	0	12	village	_	_	_	_	_	_	_	_	(72)
 238_dear_enemy_brat	0	14	store	_	_	_	_	_	_	_	_	71)
-238_dear_enemy_brat	0	16	)	_	_	_	_	_	_	_	_	
 238_dear_enemy_brat	0	7	the	_	_	_	_	_	_	_	_	(73|(74
 238_dear_enemy_brat	0	8	babies	_	_	_	_	_	_	_	_	73)
 238_dear_enemy_brat	0	10	dormitory	_	_	_	_	_	_	_	_	74)

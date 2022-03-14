@@ -1,8 +1,6 @@
 #begin document (345_dracula_brat); part 0
 345_dracula_brat	0	2	JONATHAN	_	_	_	_	_	_	_	_	(0
 345_dracula_brat	0	3	HARKER	_	_	_	_	_	_	_	_	0)
-345_dracula_brat	0	6	(	_	_	_	_	_	_	_	_	
-345_dracula_brat	0	1	)	_	_	_	_	_	_	_	_	
 345_dracula_brat	0	0	Bistritz	_	_	_	_	_	_	_	_	(1)
 345_dracula_brat	0	3	Munich	_	_	_	_	_	_	_	_	(2)
 345_dracula_brat	0	15	Vienna	_	_	_	_	_	_	_	_	(3)
@@ -38,9 +36,7 @@
 345_dracula_brat	0	7	the	_	_	_	_	_	_	_	_	(14
 345_dracula_brat	0	9	Royale	_	_	_	_	_	_	_	_	14)
 345_dracula_brat	0	0	I	_	_	_	_	_	_	_	_	(0)
-345_dracula_brat	0	0	(	_	_	_	_	_	_	_	_	
 345_dracula_brat	0	5	Mina	_	_	_	_	_	_	_	_	(15)
-345_dracula_brat	0	7	)	_	_	_	_	_	_	_	_	
 345_dracula_brat	0	0	I	_	_	_	_	_	_	_	_	(0)
 345_dracula_brat	0	2	the	_	_	_	_	_	_	_	_	(16
 345_dracula_brat	0	3	waiter	_	_	_	_	_	_	_	_	16)
@@ -143,11 +139,9 @@
 345_dracula_brat	0	22	the	_	_	_	_	_	_	_	_	(46
 345_dracula_brat	0	29	whirlpool	_	_	_	_	_	_	_	_	46)
 345_dracula_brat	0	33	my	_	_	_	_	_	_	_	_	(0)
-345_dracula_brat	0	0	(	_	_	_	_	_	_	_	_	
 345_dracula_brat	0	2	I	_	_	_	_	_	_	_	_	(0)
 345_dracula_brat	0	5	the	_	_	_	_	_	_	_	_	(22
 345_dracula_brat	0	6	Count	_	_	_	_	_	_	_	_	22)
-345_dracula_brat	0	11	)	_	_	_	_	_	_	_	_	
 345_dracula_brat	0	0	I	_	_	_	_	_	_	_	_	(0)
 345_dracula_brat	0	7	my	_	_	_	_	_	_	_	_	(0)
 345_dracula_brat	0	14	I	_	_	_	_	_	_	_	_	(0)
@@ -161,8 +155,6 @@
 345_dracula_brat	0	0	I	_	_	_	_	_	_	_	_	(0)
 345_dracula_brat	0	16	they	_	_	_	_	_	_	_	_	(47)
 345_dracula_brat	0	35	they	_	_	_	_	_	_	_	_	(48)
-345_dracula_brat	0	0	(	_	_	_	_	_	_	_	_	
-345_dracula_brat	0	8	)	_	_	_	_	_	_	_	_	
 345_dracula_brat	0	0	I	_	_	_	_	_	_	_	_	(0)
 345_dracula_brat	0	7	the	_	_	_	_	_	_	_	_	(49
 345_dracula_brat	0	8	train	_	_	_	_	_	_	_	_	49)

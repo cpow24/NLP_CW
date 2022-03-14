@@ -26,8 +26,6 @@
 105_persuasion_brat	0	33	Gloucester	_	_	_	_	_	_	_	_	6)
 105_persuasion_brat	0	36	which	_	_	_	_	_	_	_	_	(3
 105_persuasion_brat	0	37	lady	_	_	_	_	_	_	_	_	3)
-105_persuasion_brat	0	38	(	_	_	_	_	_	_	_	_	
-105_persuasion_brat	0	42	)	_	_	_	_	_	_	_	_	
 105_persuasion_brat	0	43	he	_	_	_	_	_	_	_	_	(0)
 105_persuasion_brat	0	46	Elizabeth	_	_	_	_	_	_	_	_	(7)
 105_persuasion_brat	0	54	Anne	_	_	_	_	_	_	_	_	(8)
@@ -176,8 +174,6 @@
 105_persuasion_brat	0	7	Walter	_	_	_	_	_	_	_	_	0)
 105_persuasion_brat	0	10	a	_	_	_	_	_	_	_	_	(38
 105_persuasion_brat	0	12	father	_	_	_	_	_	_	_	_	38)
-105_persuasion_brat	0	14	(	_	_	_	_	_	_	_	_	
-105_persuasion_brat	0	27	)	_	_	_	_	_	_	_	_	
 105_persuasion_brat	0	30	himself	_	_	_	_	_	_	_	_	(0)
 105_persuasion_brat	0	35	his	_	_	_	_	_	_	_	_	(31|(0)
 105_persuasion_brat	0	37	daughters	_	_	_	_	_	_	_	_	31)
@@ -229,10 +225,8 @@
 105_persuasion_brat	0	28	her	_	_	_	_	_	_	_	_	(0|(8)
 105_persuasion_brat	0	29	father	_	_	_	_	_	_	_	_	0)
 105_persuasion_brat	0	36	her	_	_	_	_	_	_	_	_	(8)
-105_persuasion_brat	0	38	(	_	_	_	_	_	_	_	_	
 105_persuasion_brat	0	43	her	_	_	_	_	_	_	_	_	(8)
 105_persuasion_brat	0	51	his	_	_	_	_	_	_	_	_	(0)
-105_persuasion_brat	0	53	)	_	_	_	_	_	_	_	_	
 105_persuasion_brat	0	64	she	_	_	_	_	_	_	_	_	(8)
 105_persuasion_brat	0	72	his	_	_	_	_	_	_	_	_	(0)
 105_persuasion_brat	0	0	He	_	_	_	_	_	_	_	_	(0)

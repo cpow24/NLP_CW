@@ -1,7 +1,5 @@
 #begin document (155_the_moonstone_brat); part 0
 155_the_moonstone_brat	0	4	SERINGAPATAM	_	_	_	_	_	_	_	_	(0)
-155_the_moonstone_brat	0	5	(	_	_	_	_	_	_	_	_	
-155_the_moonstone_brat	0	7	)	_	_	_	_	_	_	_	_	
 155_the_moonstone_brat	0	13	I	_	_	_	_	_	_	_	_	(1)
 155_the_moonstone_brat	0	20	India	_	_	_	_	_	_	_	_	(2)
 155_the_moonstone_brat	0	23	my	_	_	_	_	_	_	_	_	(3|(1)
@@ -48,9 +46,7 @@
 155_the_moonstone_brat	0	13	ancient	_	_	_	_	_	_	_	_	(14
 155_the_moonstone_brat	0	14	Greece	_	_	_	_	_	_	_	_	14)
 155_the_moonstone_brat	0	16	Rome	_	_	_	_	_	_	_	_	(15)
-155_the_moonstone_brat	0	22	(	_	_	_	_	_	_	_	_	
 155_the_moonstone_brat	0	25	India	_	_	_	_	_	_	_	_	(2)
-155_the_moonstone_brat	0	26	)	_	_	_	_	_	_	_	_	
 155_the_moonstone_brat	0	36	a	_	_	_	_	_	_	_	_	(16
 155_the_moonstone_brat	0	37	god	_	_	_	_	_	_	_	_	16)
 155_the_moonstone_brat	0	80	collectors	_	_	_	_	_	_	_	_	(17)
@@ -141,8 +137,6 @@
 155_the_moonstone_brat	0	13	priests	_	_	_	_	_	_	_	_	39)
 155_the_moonstone_brat	0	6	the	_	_	_	_	_	_	_	_	(37
 155_the_moonstone_brat	0	12	sacrilege	_	_	_	_	_	_	_	_	37)
-155_the_moonstone_brat	0	19	(	_	_	_	_	_	_	_	_	
-155_the_moonstone_brat	0	25	)	_	_	_	_	_	_	_	_	
 155_the_moonstone_brat	0	43	the	_	_	_	_	_	_	_	_	(40
 155_the_moonstone_brat	0	46	the	_	_	_	_	_	_	_	_	(24
 155_the_moonstone_brat	0	49	priests	_	_	_	_	_	_	_	_	40)|24)
@@ -253,9 +247,7 @@
 155_the_moonstone_brat	0	14	I	_	_	_	_	_	_	_	_	(1)
 155_the_moonstone_brat	0	0	The	_	_	_	_	_	_	_	_	(52
 155_the_moonstone_brat	0	1	men	_	_	_	_	_	_	_	_	52)
-155_the_moonstone_brat	0	2	(	_	_	_	_	_	_	_	_	
 155_the_moonstone_brat	0	4	I	_	_	_	_	_	_	_	_	(1)
-155_the_moonstone_brat	0	10	)	_	_	_	_	_	_	_	_	
 155_the_moonstone_brat	0	12	themselves	_	_	_	_	_	_	_	_	(52)
 155_the_moonstone_brat	0	11	them	_	_	_	_	_	_	_	_	(52)
 155_the_moonstone_brat	0	1	I	_	_	_	_	_	_	_	_	(1)
@@ -265,12 +257,10 @@
 155_the_moonstone_brat	0	0	I	_	_	_	_	_	_	_	_	(1)
 155_the_moonstone_brat	0	12	two	_	_	_	_	_	_	_	_	(56
 155_the_moonstone_brat	0	13	Indians	_	_	_	_	_	_	_	_	56)
-155_the_moonstone_brat	0	14	(	_	_	_	_	_	_	_	_	
 155_the_moonstone_brat	0	16	their	_	_	_	_	_	_	_	_	(56)
 155_the_moonstone_brat	0	20	I	_	_	_	_	_	_	_	_	(1)
 155_the_moonstone_brat	0	23	officers	_	_	_	_	_	_	_	_	(56
 155_the_moonstone_brat	0	26	palace	_	_	_	_	_	_	_	_	56)
-155_the_moonstone_brat	0	27	)	_	_	_	_	_	_	_	_	
 155_the_moonstone_brat	0	4	me	_	_	_	_	_	_	_	_	(1)
 155_the_moonstone_brat	0	6	a	_	_	_	_	_	_	_	_	(57
 155_the_moonstone_brat	0	14	an	_	_	_	_	_	_	_	_	(57

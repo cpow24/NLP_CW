@@ -26,10 +26,12 @@ def PullFilenames(path, filetype):
 #                 elif '”' in line:
 #                     processed_line = line.replace('”', '"')
 #     return
+def has_numbers(line):
+    return any(char.isdigit() for char in line)
 
 def ProcessFiles(path, filetype):
     filenames = PullFilenames(path, filetype)
-
+    brackets_and_digits = ['(', ')', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
     # Run through files of interest
     for filename in filenames:
         processed_file = []
@@ -41,7 +43,7 @@ def ProcessFiles(path, filetype):
                 if filetype == '.conll':
                     if '(' not in line and ')' not in line:
                         continue
-                    else:
+                    elif line[-2] in brackets_and_digits:
                         processed_file.append(line)
                 else:
                     if 'PER' not in line:
