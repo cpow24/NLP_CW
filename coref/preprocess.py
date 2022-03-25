@@ -29,6 +29,33 @@ def PullFilenames(path, filetype):
 def has_numbers(line):
     return any(char.isdigit() for char in line)
 
+def ProcessText(path):
+    filenames = PullFilenames(path, filetype='.txt')
+
+    for filename in filenames:
+        print(filename)
+        processed_file = []
+        location = '%s/%s' % (path, filename)
+        processed_path_location = 'H:\Documents\Masters\Term 2\COMP0087 - SNLP\Coursework\ConversionTest\processed_brat'
+        processed_file_location = '%s\%s' % (processed_path_location, filename)
+        with open(location) as file:
+            for line in file:
+                if '”' in line:
+                    processed_line = line.replace('“', '"')
+                    processed_file.append(processed_line)
+                elif '“' in line:
+                    processed_line = line.replace('”', '"')
+                    processed_file.append(processed_line)
+                else:
+                    processed_file.append(line)
+        
+        with open(processed_file_location, 'x') as f:
+            for line in processed_file:
+                f.write(line)
+
+    return
+
+
 def ProcessFiles(path, filetype):
     filenames = PullFilenames(path, filetype)
     brackets_and_digits = ['(', ')', '1', '2', '3', '4', '5', '6', '7', '8', '9', '0']
@@ -61,3 +88,5 @@ def ProcessFiles(path, filetype):
     
 path = 'unprocessed_files/conll'
 ProcessFiles(path=path, filetype='.conll')
+# path = 'H:\Documents\Masters\Term 2\COMP0087 - SNLP\Coursework\ConversionTest/brat'
+# ProcessText(path=path)
