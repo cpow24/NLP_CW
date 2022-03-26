@@ -228,7 +228,9 @@ class Experiment:
                          (max_fscore, threshold))
         print(total_recall, total_gold)
         print(total_recall, all_golds)
-        logging.info("Recall: %.3f" % (total_recall/total_gold))
+        # logging.info("Recall: %.3f" % (total_recall/total_gold))
+        logging.info("Recall: %.3f" % recall)
+        logging.info("Precision: %.3f" % prec)
         return max_fscore, threshold
 
     def final_eval(self, model_dir):
