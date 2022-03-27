@@ -1,0 +1,177 @@
+ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0
+data dir ../data/litbank/overlap/0
+/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0
+/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0 /content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0/train.512.jsonlines
+/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0
+/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0 /content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0/dev.512.jsonlines
+/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0
+/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0 /content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/lrec2020-coref/data/litbank/overlap/0/test.512.jsonlines
+span_width_embeddings.weight torch.Size([20, 20])
+span_width_prior_embeddings.weight torch.Size([20, 20])
+mention_mlp.fc_layers.0.weight torch.Size([3000, 2068])
+mention_mlp.fc_layers.0.bias torch.Size([3000])
+mention_mlp.fc_layers.3.weight torch.Size([1, 3000])
+mention_mlp.fc_layers.3.bias torch.Size([1])
+span_width_mlp.fc_layers.0.weight torch.Size([3000, 20])
+span_width_mlp.fc_layers.0.bias torch.Size([3000])
+span_width_mlp.fc_layers.3.weight torch.Size([1, 3000])
+span_width_mlp.fc_layers.3.bias torch.Size([1])
+
+Total Params:6.28 (in millions)
+
+
+Start Epoch 1
+Steps 50, Max memory 2.215
+2022-03-27 12:50:31,709 - Max F-score: 0.685, Threshold: 0.490
+1198.0 3053.0
+1198.0 3053.0
+2022-03-27 12:50:31,709 - Recall: 0.553
+2022-03-27 12:50:31,709 - Precision: 0.900
+2022-03-27 12:50:31,710 - Saving best model
+2022-03-27 12:50:31,968 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:50:32,277 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:50:32,277 - Epoch: 1, Time: 40.13, F-score: 0.685
+
+
+Start Epoch 2
+Steps 50, Max memory 2.114
+2022-03-27 12:51:11,468 - Max F-score: 0.881, Threshold: 0.430
+1312.0 3053.0
+1312.0 3053.0
+2022-03-27 12:51:11,468 - Recall: 0.798
+2022-03-27 12:51:11,468 - Precision: 0.964
+2022-03-27 12:51:11,469 - Saving best model
+2022-03-27 12:51:11,711 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:51:12,255 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:51:12,255 - Epoch: 2, Time: 39.98, F-score: 0.881
+
+
+Start Epoch 3
+Steps 50, Max memory 2.215
+2022-03-27 12:51:51,297 - Max F-score: 0.911, Threshold: 0.460
+1319.0 3053.0
+1319.0 3053.0
+2022-03-27 12:51:51,297 - Recall: 0.863
+2022-03-27 12:51:51,297 - Precision: 0.961
+2022-03-27 12:51:51,298 - Saving best model
+2022-03-27 12:51:51,546 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:51:51,863 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:51:51,863 - Epoch: 3, Time: 39.61, F-score: 0.911
+
+
+Start Epoch 4
+Steps 50, Max memory 2.215
+2022-03-27 12:52:30,789 - Max F-score: 0.924, Threshold: 0.360
+1322.0 3053.0
+1322.0 3053.0
+2022-03-27 12:52:30,789 - Recall: 0.881
+2022-03-27 12:52:30,789 - Precision: 0.961
+2022-03-27 12:52:30,790 - Saving best model
+2022-03-27 12:52:31,031 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:52:31,356 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:52:31,356 - Epoch: 4, Time: 39.49, F-score: 0.924
+
+
+Start Epoch 5
+Steps 50, Max memory 2.088
+2022-03-27 12:53:10,355 - Max F-score: 0.929, Threshold: 0.440
+1322.0 3053.0
+1322.0 3053.0
+2022-03-27 12:53:10,356 - Recall: 0.913
+2022-03-27 12:53:10,356 - Precision: 0.943
+2022-03-27 12:53:10,356 - Saving best model
+2022-03-27 12:53:10,579 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:53:10,894 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:53:10,895 - Epoch: 5, Time: 39.54, F-score: 0.929
+
+
+Start Epoch 6
+Steps 50, Max memory 2.215
+2022-03-27 12:53:49,810 - Max F-score: 0.938, Threshold: 0.410
+1323.0 3053.0
+1323.0 3053.0
+2022-03-27 12:53:49,810 - Recall: 0.915
+2022-03-27 12:53:49,810 - Precision: 0.958
+2022-03-27 12:53:49,810 - Saving best model
+2022-03-27 12:53:50,053 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:53:50,375 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:53:50,375 - Epoch: 6, Time: 39.48, F-score: 0.938
+
+
+Start Epoch 7
+Steps 50, Max memory 2.215
+2022-03-27 12:54:29,423 - Max F-score: 0.940, Threshold: 0.450
+1323.0 3053.0
+1323.0 3053.0
+2022-03-27 12:54:29,423 - Recall: 0.917
+2022-03-27 12:54:29,423 - Precision: 0.962
+2022-03-27 12:54:29,424 - Saving best model
+2022-03-27 12:54:29,655 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:54:29,981 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:54:29,981 - Epoch: 7, Time: 39.61, F-score: 0.940
+
+
+Start Epoch 8
+Steps 50, Max memory 2.215
+2022-03-27 12:55:08,915 - Max F-score: 0.941, Threshold: 0.430
+1324.0 3053.0
+1324.0 3053.0
+2022-03-27 12:55:08,915 - Recall: 0.918
+2022-03-27 12:55:08,915 - Precision: 0.960
+2022-03-27 12:55:08,915 - Saving best model
+2022-03-27 12:55:09,147 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:55:09,462 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:55:09,463 - Epoch: 8, Time: 39.48, F-score: 0.941
+
+
+Start Epoch 9
+Steps 50, Max memory 2.088
+2022-03-27 12:55:48,505 - Max F-score: 0.942, Threshold: 0.380
+1323.0 3053.0
+1323.0 3053.0
+2022-03-27 12:55:48,505 - Recall: 0.928
+2022-03-27 12:55:48,505 - Precision: 0.954
+2022-03-27 12:55:48,506 - Saving best model
+2022-03-27 12:55:48,730 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:55:49,043 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:55:49,044 - Epoch: 9, Time: 39.58, F-score: 0.942
+
+
+Start Epoch 10
+Steps 50, Max memory 2.215
+2022-03-27 12:56:28,033 - Max F-score: 0.943, Threshold: 0.490
+1323.0 3053.0
+1323.0 3053.0
+2022-03-27 12:56:28,033 - Recall: 0.929
+2022-03-27 12:56:28,033 - Precision: 0.958
+2022-03-27 12:56:28,033 - Saving best model
+2022-03-27 12:56:28,276 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/best_models/model.pth
+2022-03-27 12:56:28,655 - Model saved at: ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/model.pth
+2022-03-27 12:56:28,656 - Epoch: 10, Time: 39.61, F-score: 0.943
+2022-03-27 12:56:28,792 - Loading best model after epoch: 10
+2022-03-27 12:56:28,793 - Threshold: 0.490
+2022-03-27 12:56:28,797 - 
+
+2022-03-27 12:56:28,797 - Train
+10120.0 23218.0
+10120.0 23218.0
+2022-03-27 12:56:54,538 - Recall: 0.922
+2022-03-27 12:56:54,538 - Precision: 0.953
+2022-03-27 12:56:54,538 - Calculated F1: 0.937
+2022-03-27 12:56:54,538 - 
+
+2022-03-27 12:56:54,538 - Valid
+1323.0 3053.0
+1323.0 3053.0
+2022-03-27 12:56:58,036 - Recall: 0.929
+2022-03-27 12:56:58,036 - Precision: 0.958
+2022-03-27 12:56:58,036 - Calculated F1: 0.943
+2022-03-27 12:56:58,037 - 
+
+2022-03-27 12:56:58,037 - Test
+1239.0 2831.0
+1239.0 2832.0
+2022-03-27 12:57:01,165 - Recall: 0.909
+2022-03-27 12:57:01,165 - Precision: 0.944
+2022-03-27 12:57:01,165 - Calculated F1: 0.926
+2022-03-27 12:57:01,166 - Final performance summary at ../models/ment_litbank_width_20_mlp_3000_model_large_emb_endpoint_type_spanbert_enc_overlap_segment_512_split_0/perf.txt
