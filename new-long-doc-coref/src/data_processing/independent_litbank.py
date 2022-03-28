@@ -9,7 +9,7 @@ import sys
 import json
 import collections
 
-sys.path.insert(1, '/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/src')
+sys.path.insert(1, '/content/drive/MyDrive/coref_project/NLP_CW-main/new-long-doc-coref/src')
 from coref_utils import conll
 from os import path
 from transformers import BertTokenizer
