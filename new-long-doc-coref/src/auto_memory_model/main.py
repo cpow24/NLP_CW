@@ -6,7 +6,7 @@ import logging
 from collections import OrderedDict
 import sys
 
-sys.path.insert(1, '/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/src')
+sys.path.insert(1, '/content/drive/MyDrive/coref_project/NLP_CW-main/new-long-doc-coref/src')
 from auto_memory_model.experiment import Experiment
 from mention_model.utils import get_mention_model_name
 
