@@ -4,7 +4,7 @@ from os import path
 import logging
 import sys
 
-sys.path.insert(1, '/content/drive/MyDrive/University/MSc Machine Learning/Term 2/COMP0087 - SNLP/Coursework/long-doc-coref_edit/src')
+sys.path.insert(1, '/content/drive/MyDrive/coref_project/NLP_CW-main/new-long-doc-coref/src')
 from mention_model.experiment import Experiment
 from mention_model.utils import get_mention_model_name
 
