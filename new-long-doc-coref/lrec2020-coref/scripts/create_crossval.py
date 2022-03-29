@@ -39,9 +39,10 @@ def proc(split_folder, infolder, out_top_folder):
 			os.makedirs(outfolder)
 		except:
 			pass
-
+		
+		traininfolder = 'data/new_conll/' # Train on new_conll files, test and dev on original set
 		outTrainFile="%s/%s" % (outfolder, "train.conll")
-		create_data(train_ids, infolder, outTrainFile)
+		create_data(train_ids, traininfolder, outTrainFile)
 
 		outTestFile="%s/%s" % (outfolder, "test.conll")
 		create_data(test_ids, infolder, outTestFile)
