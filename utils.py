@@ -253,7 +253,7 @@ def dict_ind_to_sentence(dictionary, document):
   return dictionary
 
 
-def total_function(clusters, characters_dict, characters_list list_text):
+def total_function(clusters, characters_dict, characters_list, list_text):
   augmented_clusters = augment_clusters(clusters, characters_dict)
   punctuation_indices = punctuation_indices(list_text)
   augmented_indices = add_entity_indices(punctuation_indices, augmented_clusters)
