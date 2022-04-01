@@ -74,8 +74,8 @@ def add_entity_indices(punc_indices, clusters):
       for j in range(len(punc_indices[starting_index:])):
         if cluster[i][0] > punc_indices[starting_index + j] and cluster[i][0] < punc_indices[starting_index + j+1]:
           index_additives[starting_index + j:] += 1
-          augmented_list.insert(starting_index + j + int(index_additives.item(starting_index + j)), [cluster[i][0],cluster[-1]])
-          starting_index += j + 1
+          augmented_list.insert(starting_index + j + int(index_additives.item(starting_index + j)), [cluster[i][0],[cluster[-1], cluster[i]]])
+          starting_index += j 
           break
   return np.asarray(augmented_list)
 
@@ -113,7 +113,7 @@ def remove_same(sentences):
   remove = []
   count = 0
   for i in sentences:
-    if len(i[1]) == 2 and i[1][0] == i[1][1]:
+    if len(i[1]) == 2 and i[1][0][0] == i[1][1][0]:
       remove.append(count)
     count += 1
   remove = remove.reverse()
@@ -141,7 +141,7 @@ def list_to_doc(text):
   string = string.replace(' ]', ']')
   string = string.replace(" ' ", "'")
   string = string.replace("s'", "s' ")
-
+  return string
 
 # In[9]:
 
@@ -232,14 +232,51 @@ Output:
 def assign_to_dict(shared, pair_dict):
   for i in shared:
     if len(i[1]) == 2:
-      pair_dict[i[1][0]**2 + i[1][1]**2].extend([i[0]])
+      pair_dict[i[1][0][0]**2 + i[1][1][0]**2].extend([i])
     else:
-      for a in list(itertools.combinations(i[1], 2)):
-        pair_dict[a[0]**2 + a[1]**2].extend([i[0]])
+      for a in list(itertools.combinations(set(np.asarray(i[1])[:,0]), 2)):
+        pair_dict[a[0]**2 + a[1]**2].extend([i])
   return pair_dict
 
 
 # In[ ]:
+
+
+"""
+function to give relative list index of character in sentence
+Input: sentence indices, character indices in entire document
+Output: character indices relative to sentence
+"""
+
+def rel_indices(sentence_inds, char_inds):
+  return (char_inds[0] - sentence_inds[0], char_inds[1]- sentence_inds[0])
+
+
+"""
+CHANGE
+Converts a pair of list indices to a pair of corresponding string indices
+"""
+def list_to_str_index(doc, indices):
+  return (len(list_to_doc(doc[:indices[0]+1]))-len(doc[indices[0]]), len(list_to_doc(doc[:indices[1]+1])))
+
+"""
+CHANGE
+Function that given the sentence list indices, 
+and the character mention indices relative to the sentence
+Returns the sentence as a string, and the character mention
+indices as string indices
+"""
+def convert_dict(dic, document):
+  for i in dic:
+    for n in  range(len(dic[i])):
+      print(dic[i][n][0][0])
+      print(dic[i][n][0][1])
+      list_text = document[dic[i][n][0][0]: dic[i][n][0][1]]
+      text = list_to_doc(list_text)
+      
+      dic[i][n] = [text, [[a[0], list_to_str_index(list_text, rel_indices(dic[i][n][0], a[1])), 
+                           text[list_to_str_index(list_text, rel_indices(dic[i][n][0], a[1]))[0]:list_to_str_index(list_text, rel_indices(dic[i][n][0], a[1]))[1]]] for a in dic[i][n][1]]]
+  return dic
 
 
 """
@@ -262,6 +299,7 @@ def total_function(clusters, characters_dict, characters_list, list_text):
 
   encoding_dict, shared_sentence_dict = character_pair_encoder(characters_list)
   pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
+  pair_dict = convert_dict(pair_dict, list_text)
 
   return encoding_dict, pair_dict
 
