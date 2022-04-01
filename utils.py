@@ -95,7 +95,7 @@ def shared_sentences(indices):
   zeros = np.where(indices == 0)[0]
   for i in range(np.shape(indices[:,1])[0]-1):
     if indices[:,1][i] == 0 and indices[:,1][i+1] != 0 and indices[:,1][i+2] != 0:
-      characters.append([(indices.item(i,0)+1 , indices.item(zeros[np.where(zeros == i)[0][0] + 1],0)+1) , list(set(indices[i+1:zeros[np.where(zeros == i)[0][0] + 1],1].tolist()))])
+      characters.append([(indices.item(i,0)+1 , indices.item(zeros[np.where(zeros == i)[0][0] + 1],0)+1) , indices[i+1:zeros[np.where(zeros == i)[0][0] + 1],1].tolist()])
   return characters
 
 
