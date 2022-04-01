@@ -1,0 +1,2043 @@
+0	#begin document (171_charlotte_temple_brat); part 0												
+1	171_charlotte_temple_brat	0	0	VOLUME	_	_	_	_	_	_	_	_	
+2	171_charlotte_temple_brat	0	1	I	_	_	_	_	_	_	_	_	
+3	171_charlotte_temple_brat	0	2	CHAPTER	_	_	_	_	_	_	_	_	
+4	171_charlotte_temple_brat	0	3	I	_	_	_	_	_	_	_	_	
+5	171_charlotte_temple_brat	0	4	.	_	_	_	_	_	_	_	_	
+6	171_charlotte_temple_brat	0	0	A	_	_	_	_	_	_	_	_	
+7	171_charlotte_temple_brat	0	1	BOARDING	_	_	_	_	_	_	_	_	
+8	171_charlotte_temple_brat	0	2	SCHOOL	_	_	_	_	_	_	_	_	
+9	171_charlotte_temple_brat	0	3	.	_	_	_	_	_	_	_	_	
+10	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+11	171_charlotte_temple_brat	0	1	ARE	_	_	_	_	_	_	_	_	
+12	171_charlotte_temple_brat	0	2	you	_	_	_	_	_	_	_	_	(1)
+13	171_charlotte_temple_brat	0	3	for	_	_	_	_	_	_	_	_	
+14	171_charlotte_temple_brat	0	4	a	_	_	_	_	_	_	_	_	
+15	171_charlotte_temple_brat	0	5	walk	_	_	_	_	_	_	_	_	
+16	171_charlotte_temple_brat	0	6	,	_	_	_	_	_	_	_	_	
+17	171_charlotte_temple_brat	0	7	”	_	_	_	_	_	_	_	_	
+18	171_charlotte_temple_brat	0	8	said	_	_	_	_	_	_	_	_	
+19	171_charlotte_temple_brat	0	9	Montraville	_	_	_	_	_	_	_	_	(2)
+20	171_charlotte_temple_brat	0	10	to	_	_	_	_	_	_	_	_	
+21	171_charlotte_temple_brat	0	11	his	_	_	_	_	_	_	_	_	(1|(2)
+22	171_charlotte_temple_brat	0	12	companion	_	_	_	_	_	_	_	_	1)
+23	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+24	171_charlotte_temple_brat	0	14	as	_	_	_	_	_	_	_	_	
+25	171_charlotte_temple_brat	0	15	they	_	_	_	_	_	_	_	_	(3)
+26	171_charlotte_temple_brat	0	16	arose	_	_	_	_	_	_	_	_	
+27	171_charlotte_temple_brat	0	17	from	_	_	_	_	_	_	_	_	
+28	171_charlotte_temple_brat	0	18	table	_	_	_	_	_	_	_	_	
+29	171_charlotte_temple_brat	0	19	;	_	_	_	_	_	_	_	_	
+30	171_charlotte_temple_brat	0	20	“	_	_	_	_	_	_	_	_	
+31	171_charlotte_temple_brat	0	21	are	_	_	_	_	_	_	_	_	
+32	171_charlotte_temple_brat	0	22	you	_	_	_	_	_	_	_	_	(1)
+33	171_charlotte_temple_brat	0	23	for	_	_	_	_	_	_	_	_	
+34	171_charlotte_temple_brat	0	24	a	_	_	_	_	_	_	_	_	
+35	171_charlotte_temple_brat	0	25	walk	_	_	_	_	_	_	_	_	
+36	171_charlotte_temple_brat	0	26	?	_	_	_	_	_	_	_	_	
+37	171_charlotte_temple_brat	0	0	or	_	_	_	_	_	_	_	_	
+38	171_charlotte_temple_brat	0	1	shall	_	_	_	_	_	_	_	_	
+39	171_charlotte_temple_brat	0	2	we	_	_	_	_	_	_	_	_	(3)
+40	171_charlotte_temple_brat	0	3	order	_	_	_	_	_	_	_	_	
+41	171_charlotte_temple_brat	0	4	the	_	_	_	_	_	_	_	_	
+42	171_charlotte_temple_brat	0	5	chaise	_	_	_	_	_	_	_	_	
+43	171_charlotte_temple_brat	0	6	and	_	_	_	_	_	_	_	_	
+44	171_charlotte_temple_brat	0	7	proceed	_	_	_	_	_	_	_	_	
+45	171_charlotte_temple_brat	0	8	to	_	_	_	_	_	_	_	_	
+46	171_charlotte_temple_brat	0	9	Portsmouth	_	_	_	_	_	_	_	_	
+47	171_charlotte_temple_brat	0	10	?	_	_	_	_	_	_	_	_	
+48	171_charlotte_temple_brat	0	11	”	_	_	_	_	_	_	_	_	
+49	171_charlotte_temple_brat	0	0	Belcour	_	_	_	_	_	_	_	_	(1)
+50	171_charlotte_temple_brat	0	1	preferred	_	_	_	_	_	_	_	_	
+51	171_charlotte_temple_brat	0	2	the	_	_	_	_	_	_	_	_	
+52	171_charlotte_temple_brat	0	3	former	_	_	_	_	_	_	_	_	
+53	171_charlotte_temple_brat	0	4	;	_	_	_	_	_	_	_	_	
+54	171_charlotte_temple_brat	0	5	and	_	_	_	_	_	_	_	_	
+55	171_charlotte_temple_brat	0	6	they	_	_	_	_	_	_	_	_	(3)
+56	171_charlotte_temple_brat	0	7	sauntered	_	_	_	_	_	_	_	_	
+57	171_charlotte_temple_brat	0	8	out	_	_	_	_	_	_	_	_	
+58	171_charlotte_temple_brat	0	9	to	_	_	_	_	_	_	_	_	
+59	171_charlotte_temple_brat	0	10	view	_	_	_	_	_	_	_	_	
+60	171_charlotte_temple_brat	0	11	the	_	_	_	_	_	_	_	_	
+61	171_charlotte_temple_brat	0	12	town	_	_	_	_	_	_	_	_	
+62	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+63	171_charlotte_temple_brat	0	14	and	_	_	_	_	_	_	_	_	
+64	171_charlotte_temple_brat	0	15	to	_	_	_	_	_	_	_	_	
+65	171_charlotte_temple_brat	0	16	make	_	_	_	_	_	_	_	_	
+66	171_charlotte_temple_brat	0	17	remarks	_	_	_	_	_	_	_	_	
+67	171_charlotte_temple_brat	0	18	on	_	_	_	_	_	_	_	_	
+68	171_charlotte_temple_brat	0	19	the	_	_	_	_	_	_	_	_	(7
+69	171_charlotte_temple_brat	0	20	inhabitants	_	_	_	_	_	_	_	_	7)
+70	171_charlotte_temple_brat	0	21	,	_	_	_	_	_	_	_	_	
+71	171_charlotte_temple_brat	0	22	as	_	_	_	_	_	_	_	_	
+72	171_charlotte_temple_brat	0	23	they	_	_	_	_	_	_	_	_	(7)
+73	171_charlotte_temple_brat	0	24	returned	_	_	_	_	_	_	_	_	
+74	171_charlotte_temple_brat	0	25	from	_	_	_	_	_	_	_	_	
+75	171_charlotte_temple_brat	0	26	church	_	_	_	_	_	_	_	_	
+76	171_charlotte_temple_brat	0	27	.	_	_	_	_	_	_	_	_	
+77	171_charlotte_temple_brat	0	0	Montraville	_	_	_	_	_	_	_	_	(2)
+78	171_charlotte_temple_brat	0	1	was	_	_	_	_	_	_	_	_	
+79	171_charlotte_temple_brat	0	2	a	_	_	_	_	_	_	_	_	(61
+80	171_charlotte_temple_brat	0	3	Lieutenant	_	_	_	_	_	_	_	_	
+81	171_charlotte_temple_brat	0	4	in	_	_	_	_	_	_	_	_	
+82	171_charlotte_temple_brat	0	5	the	_	_	_	_	_	_	_	_	
+83	171_charlotte_temple_brat	0	6	army	_	_	_	_	_	_	_	_	|61)
+84	171_charlotte_temple_brat	0	7	:	_	_	_	_	_	_	_	_	
+85	171_charlotte_temple_brat	0	8	Belcour	_	_	_	_	_	_	_	_	(1)
+86	171_charlotte_temple_brat	0	9	was	_	_	_	_	_	_	_	_	
+87	171_charlotte_temple_brat	0	10	his	_	_	_	_	_	_	_	_	(62|(2)
+88	171_charlotte_temple_brat	0	11	brother	_	_	_	_	_	_	_	_	
+89	171_charlotte_temple_brat	0	12	officer	_	_	_	_	_	_	_	_	62)
+90	171_charlotte_temple_brat	0	13	:	_	_	_	_	_	_	_	_	
+91	171_charlotte_temple_brat	0	14	they	_	_	_	_	_	_	_	_	(3)
+92	171_charlotte_temple_brat	0	15	had	_	_	_	_	_	_	_	_	
+93	171_charlotte_temple_brat	0	16	been	_	_	_	_	_	_	_	_	
+94	171_charlotte_temple_brat	0	17	to	_	_	_	_	_	_	_	_	
+95	171_charlotte_temple_brat	0	18	take	_	_	_	_	_	_	_	_	
+96	171_charlotte_temple_brat	0	19	leave	_	_	_	_	_	_	_	_	
+97	171_charlotte_temple_brat	0	20	of	_	_	_	_	_	_	_	_	
+98	171_charlotte_temple_brat	0	21	their	_	_	_	_	_	_	_	_	(10|(3)
+99	171_charlotte_temple_brat	0	22	friends	_	_	_	_	_	_	_	_	10)
+100	171_charlotte_temple_brat	0	23	previous	_	_	_	_	_	_	_	_	
+101	171_charlotte_temple_brat	0	24	to	_	_	_	_	_	_	_	_	
+102	171_charlotte_temple_brat	0	25	their	_	_	_	_	_	_	_	_	(3)
+103	171_charlotte_temple_brat	0	26	departure	_	_	_	_	_	_	_	_	
+104	171_charlotte_temple_brat	0	27	for	_	_	_	_	_	_	_	_	
+105	171_charlotte_temple_brat	0	28	America	_	_	_	_	_	_	_	_	
+106	171_charlotte_temple_brat	0	29	,	_	_	_	_	_	_	_	_	
+107	171_charlotte_temple_brat	0	30	and	_	_	_	_	_	_	_	_	
+108	171_charlotte_temple_brat	0	31	were	_	_	_	_	_	_	_	_	
+109	171_charlotte_temple_brat	0	32	now	_	_	_	_	_	_	_	_	
+110	171_charlotte_temple_brat	0	33	returning	_	_	_	_	_	_	_	_	
+111	171_charlotte_temple_brat	0	34	to	_	_	_	_	_	_	_	_	
+112	171_charlotte_temple_brat	0	35	Portsmouth	_	_	_	_	_	_	_	_	
+113	171_charlotte_temple_brat	0	36	,	_	_	_	_	_	_	_	_	
+114	171_charlotte_temple_brat	0	37	where	_	_	_	_	_	_	_	_	
+115	171_charlotte_temple_brat	0	38	the	_	_	_	_	_	_	_	_	(3
+116	171_charlotte_temple_brat	0	39	troops	_	_	_	_	_	_	_	_	3)
+117	171_charlotte_temple_brat	0	40	waited	_	_	_	_	_	_	_	_	
+118	171_charlotte_temple_brat	0	41	orders	_	_	_	_	_	_	_	_	
+119	171_charlotte_temple_brat	0	42	for	_	_	_	_	_	_	_	_	
+120	171_charlotte_temple_brat	0	43	embarkation	_	_	_	_	_	_	_	_	
+121	171_charlotte_temple_brat	0	44	.	_	_	_	_	_	_	_	_	
+122	171_charlotte_temple_brat	0	0	They	_	_	_	_	_	_	_	_	(3)
+123	171_charlotte_temple_brat	0	1	had	_	_	_	_	_	_	_	_	
+124	171_charlotte_temple_brat	0	2	stopped	_	_	_	_	_	_	_	_	
+125	171_charlotte_temple_brat	0	3	at	_	_	_	_	_	_	_	_	
+126	171_charlotte_temple_brat	0	4	Chichester	_	_	_	_	_	_	_	_	
+127	171_charlotte_temple_brat	0	5	to	_	_	_	_	_	_	_	_	
+128	171_charlotte_temple_brat	0	6	dine	_	_	_	_	_	_	_	_	
+129	171_charlotte_temple_brat	0	7	;	_	_	_	_	_	_	_	_	
+130	171_charlotte_temple_brat	0	8	and	_	_	_	_	_	_	_	_	
+131	171_charlotte_temple_brat	0	9	knowing	_	_	_	_	_	_	_	_	
+132	171_charlotte_temple_brat	0	10	they	_	_	_	_	_	_	_	_	(3)
+133	171_charlotte_temple_brat	0	11	had	_	_	_	_	_	_	_	_	
+134	171_charlotte_temple_brat	0	12	sufficient	_	_	_	_	_	_	_	_	
+135	171_charlotte_temple_brat	0	13	time	_	_	_	_	_	_	_	_	
+136	171_charlotte_temple_brat	0	14	to	_	_	_	_	_	_	_	_	
+137	171_charlotte_temple_brat	0	15	reach	_	_	_	_	_	_	_	_	
+138	171_charlotte_temple_brat	0	16	the	_	_	_	_	_	_	_	_	
+139	171_charlotte_temple_brat	0	17	place	_	_	_	_	_	_	_	_	
+140	171_charlotte_temple_brat	0	18	of	_	_	_	_	_	_	_	_	
+141	171_charlotte_temple_brat	0	19	destination	_	_	_	_	_	_	_	_	
+142	171_charlotte_temple_brat	0	20	before	_	_	_	_	_	_	_	_	
+143	171_charlotte_temple_brat	0	21	dark	_	_	_	_	_	_	_	_	
+144	171_charlotte_temple_brat	0	22	,	_	_	_	_	_	_	_	_	
+145	171_charlotte_temple_brat	0	23	and	_	_	_	_	_	_	_	_	
+146	171_charlotte_temple_brat	0	24	yet	_	_	_	_	_	_	_	_	
+147	171_charlotte_temple_brat	0	25	allow	_	_	_	_	_	_	_	_	
+148	171_charlotte_temple_brat	0	26	them	_	_	_	_	_	_	_	_	(3)
+149	171_charlotte_temple_brat	0	27	a	_	_	_	_	_	_	_	_	
+150	171_charlotte_temple_brat	0	28	walk	_	_	_	_	_	_	_	_	
+151	171_charlotte_temple_brat	0	29	,	_	_	_	_	_	_	_	_	
+152	171_charlotte_temple_brat	0	30	had	_	_	_	_	_	_	_	_	
+153	171_charlotte_temple_brat	0	31	resolved	_	_	_	_	_	_	_	_	
+154	171_charlotte_temple_brat	0	32	,	_	_	_	_	_	_	_	_	
+155	171_charlotte_temple_brat	0	33	it	_	_	_	_	_	_	_	_	
+156	171_charlotte_temple_brat	0	34	being	_	_	_	_	_	_	_	_	
+157	171_charlotte_temple_brat	0	35	Sunday	_	_	_	_	_	_	_	_	
+158	171_charlotte_temple_brat	0	36	afternoon	_	_	_	_	_	_	_	_	
+159	171_charlotte_temple_brat	0	37	,	_	_	_	_	_	_	_	_	
+160	171_charlotte_temple_brat	0	38	to	_	_	_	_	_	_	_	_	
+161	171_charlotte_temple_brat	0	39	take	_	_	_	_	_	_	_	_	
+162	171_charlotte_temple_brat	0	40	a	_	_	_	_	_	_	_	_	
+163	171_charlotte_temple_brat	0	41	survey	_	_	_	_	_	_	_	_	
+164	171_charlotte_temple_brat	0	42	of	_	_	_	_	_	_	_	_	
+165	171_charlotte_temple_brat	0	43	the	_	_	_	_	_	_	_	_	(12
+166	171_charlotte_temple_brat	0	44	Chichester	_	_	_	_	_	_	_	_	
+167	171_charlotte_temple_brat	0	45	ladies	_	_	_	_	_	_	_	_	12)
+168	171_charlotte_temple_brat	0	46	as	_	_	_	_	_	_	_	_	
+169	171_charlotte_temple_brat	0	47	they	_	_	_	_	_	_	_	_	(12)
+170	171_charlotte_temple_brat	0	48	returned	_	_	_	_	_	_	_	_	
+171	171_charlotte_temple_brat	0	49	from	_	_	_	_	_	_	_	_	
+172	171_charlotte_temple_brat	0	50	their	_	_	_	_	_	_	_	_	(12)
+173	171_charlotte_temple_brat	0	51	devotions	_	_	_	_	_	_	_	_	
+174	171_charlotte_temple_brat	0	52	.	_	_	_	_	_	_	_	_	
+175	171_charlotte_temple_brat	0	0	They	_	_	_	_	_	_	_	_	(3)
+176	171_charlotte_temple_brat	0	1	had	_	_	_	_	_	_	_	_	
+177	171_charlotte_temple_brat	0	2	gratified	_	_	_	_	_	_	_	_	
+178	171_charlotte_temple_brat	0	3	their	_	_	_	_	_	_	_	_	(3)
+179	171_charlotte_temple_brat	0	4	curiosity	_	_	_	_	_	_	_	_	
+180	171_charlotte_temple_brat	0	5	,	_	_	_	_	_	_	_	_	
+181	171_charlotte_temple_brat	0	6	and	_	_	_	_	_	_	_	_	
+182	171_charlotte_temple_brat	0	7	were	_	_	_	_	_	_	_	_	
+183	171_charlotte_temple_brat	0	8	preparing	_	_	_	_	_	_	_	_	
+184	171_charlotte_temple_brat	0	9	to	_	_	_	_	_	_	_	_	
+185	171_charlotte_temple_brat	0	10	return	_	_	_	_	_	_	_	_	
+186	171_charlotte_temple_brat	0	11	to	_	_	_	_	_	_	_	_	
+187	171_charlotte_temple_brat	0	12	the	_	_	_	_	_	_	_	_	
+188	171_charlotte_temple_brat	0	13	inn	_	_	_	_	_	_	_	_	
+189	171_charlotte_temple_brat	0	14	without	_	_	_	_	_	_	_	_	
+190	171_charlotte_temple_brat	0	15	honouring	_	_	_	_	_	_	_	_	
+191	171_charlotte_temple_brat	0	16	any	_	_	_	_	_	_	_	_	
+192	171_charlotte_temple_brat	0	17	of	_	_	_	_	_	_	_	_	
+193	171_charlotte_temple_brat	0	18	the	_	_	_	_	_	_	_	_	(14
+194	171_charlotte_temple_brat	0	19	belles	_	_	_	_	_	_	_	_	14)
+195	171_charlotte_temple_brat	0	20	with	_	_	_	_	_	_	_	_	
+196	171_charlotte_temple_brat	0	21	particular	_	_	_	_	_	_	_	_	
+197	171_charlotte_temple_brat	0	22	notice	_	_	_	_	_	_	_	_	
+198	171_charlotte_temple_brat	0	23	,	_	_	_	_	_	_	_	_	
+199	171_charlotte_temple_brat	0	24	when	_	_	_	_	_	_	_	_	
+200	171_charlotte_temple_brat	0	25	Madame	_	_	_	_	_	_	_	_	(15
+201	171_charlotte_temple_brat	0	26	Du	_	_	_	_	_	_	_	_	
+202	171_charlotte_temple_brat	0	27	Pont	_	_	_	_	_	_	_	_	15)
+203	171_charlotte_temple_brat	0	28	,	_	_	_	_	_	_	_	_	
+204	171_charlotte_temple_brat	0	29	at	_	_	_	_	_	_	_	_	
+205	171_charlotte_temple_brat	0	30	the	_	_	_	_	_	_	_	_	
+206	171_charlotte_temple_brat	0	31	head	_	_	_	_	_	_	_	_	
+207	171_charlotte_temple_brat	0	32	of	_	_	_	_	_	_	_	_	
+208	171_charlotte_temple_brat	0	33	her	_	_	_	_	_	_	_	_	|(15)
+209	171_charlotte_temple_brat	0	34	school	_	_	_	_	_	_	_	_	
+210	171_charlotte_temple_brat	0	35	,	_	_	_	_	_	_	_	_	
+211	171_charlotte_temple_brat	0	36	descended	_	_	_	_	_	_	_	_	
+212	171_charlotte_temple_brat	0	37	from	_	_	_	_	_	_	_	_	
+213	171_charlotte_temple_brat	0	38	the	_	_	_	_	_	_	_	_	
+214	171_charlotte_temple_brat	0	39	church	_	_	_	_	_	_	_	_	
+215	171_charlotte_temple_brat	0	40	.	_	_	_	_	_	_	_	_	
+216	171_charlotte_temple_brat	0	0	Such	_	_	_	_	_	_	_	_	
+217	171_charlotte_temple_brat	0	1	an	_	_	_	_	_	_	_	_	(16
+218	171_charlotte_temple_brat	0	2	assemblage	_	_	_	_	_	_	_	_	
+219	171_charlotte_temple_brat	0	3	of	_	_	_	_	_	_	_	_	
+220	171_charlotte_temple_brat	0	4	youth	_	_	_	_	_	_	_	_	
+221	171_charlotte_temple_brat	0	5	and	_	_	_	_	_	_	_	_	
+222	171_charlotte_temple_brat	0	6	innocence	_	_	_	_	_	_	_	_	16)
+223	171_charlotte_temple_brat	0	7	naturally	_	_	_	_	_	_	_	_	
+224	171_charlotte_temple_brat	0	8	attracted	_	_	_	_	_	_	_	_	
+225	171_charlotte_temple_brat	0	9	the	_	_	_	_	_	_	_	_	(3
+226	171_charlotte_temple_brat	0	10	young	_	_	_	_	_	_	_	_	
+227	171_charlotte_temple_brat	0	11	soldiers	_	_	_	_	_	_	_	_	3)
+228	171_charlotte_temple_brat	0	12	:	_	_	_	_	_	_	_	_	
+229	171_charlotte_temple_brat	0	13	they	_	_	_	_	_	_	_	_	(3)
+230	171_charlotte_temple_brat	0	14	stopped	_	_	_	_	_	_	_	_	
+231	171_charlotte_temple_brat	0	15	;	_	_	_	_	_	_	_	_	
+232	171_charlotte_temple_brat	0	16	and	_	_	_	_	_	_	_	_	
+233	171_charlotte_temple_brat	0	17	,	_	_	_	_	_	_	_	_	
+234	171_charlotte_temple_brat	0	18	as	_	_	_	_	_	_	_	_	
+235	171_charlotte_temple_brat	0	19	the	_	_	_	_	_	_	_	_	(16
+236	171_charlotte_temple_brat	0	20	little	_	_	_	_	_	_	_	_	
+237	171_charlotte_temple_brat	0	21	cavalcade	_	_	_	_	_	_	_	_	16)
+238	171_charlotte_temple_brat	0	22	passed	_	_	_	_	_	_	_	_	
+239	171_charlotte_temple_brat	0	23	,	_	_	_	_	_	_	_	_	
+240	171_charlotte_temple_brat	0	24	almost	_	_	_	_	_	_	_	_	
+241	171_charlotte_temple_brat	0	25	involuntarily	_	_	_	_	_	_	_	_	
+242	171_charlotte_temple_brat	0	26	pulled	_	_	_	_	_	_	_	_	
+243	171_charlotte_temple_brat	0	27	off	_	_	_	_	_	_	_	_	
+244	171_charlotte_temple_brat	0	28	their	_	_	_	_	_	_	_	_	(3)
+245	171_charlotte_temple_brat	0	29	hats	_	_	_	_	_	_	_	_	
+246	171_charlotte_temple_brat	0	30	.	_	_	_	_	_	_	_	_	
+247	171_charlotte_temple_brat	0	0	A	_	_	_	_	_	_	_	_	(17
+248	171_charlotte_temple_brat	0	1	tall	_	_	_	_	_	_	_	_	
+249	171_charlotte_temple_brat	0	2	,	_	_	_	_	_	_	_	_	
+250	171_charlotte_temple_brat	0	3	elegant	_	_	_	_	_	_	_	_	
+251	171_charlotte_temple_brat	0	4	girl	_	_	_	_	_	_	_	_	17)
+252	171_charlotte_temple_brat	0	5	looked	_	_	_	_	_	_	_	_	
+253	171_charlotte_temple_brat	0	6	at	_	_	_	_	_	_	_	_	
+254	171_charlotte_temple_brat	0	7	Montraville	_	_	_	_	_	_	_	_	(2)
+255	171_charlotte_temple_brat	0	8	and	_	_	_	_	_	_	_	_	
+256	171_charlotte_temple_brat	0	9	blushed	_	_	_	_	_	_	_	_	
+257	171_charlotte_temple_brat	0	10	:	_	_	_	_	_	_	_	_	
+258	171_charlotte_temple_brat	0	11	he	_	_	_	_	_	_	_	_	(2)
+259	171_charlotte_temple_brat	0	12	instantly	_	_	_	_	_	_	_	_	
+260	171_charlotte_temple_brat	0	13	recollected	_	_	_	_	_	_	_	_	
+261	171_charlotte_temple_brat	0	14	the	_	_	_	_	_	_	_	_	
+262	171_charlotte_temple_brat	0	15	features	_	_	_	_	_	_	_	_	
+263	171_charlotte_temple_brat	0	16	of	_	_	_	_	_	_	_	_	
+264	171_charlotte_temple_brat	0	17	Charlotte	_	_	_	_	_	_	_	_	(17
+265	171_charlotte_temple_brat	0	18	Temple	_	_	_	_	_	_	_	_	
+266	171_charlotte_temple_brat	0	19	,	_	_	_	_	_	_	_	_	
+267	171_charlotte_temple_brat	0	20	whom	_	_	_	_	_	_	_	_	
+268	171_charlotte_temple_brat	0	21	he	_	_	_	_	_	_	_	_	(2)
+269	171_charlotte_temple_brat	0	22	had	_	_	_	_	_	_	_	_	
+270	171_charlotte_temple_brat	0	23	once	_	_	_	_	_	_	_	_	
+271	171_charlotte_temple_brat	0	24	seen	_	_	_	_	_	_	_	_	
+272	171_charlotte_temple_brat	0	25	and	_	_	_	_	_	_	_	_	
+273	171_charlotte_temple_brat	0	26	danced	_	_	_	_	_	_	_	_	
+274	171_charlotte_temple_brat	0	27	with	_	_	_	_	_	_	_	_	
+275	171_charlotte_temple_brat	0	28	at	_	_	_	_	_	_	_	_	
+276	171_charlotte_temple_brat	0	29	a	_	_	_	_	_	_	_	_	
+277	171_charlotte_temple_brat	0	30	ball	_	_	_	_	_	_	_	_	
+278	171_charlotte_temple_brat	0	31	at	_	_	_	_	_	_	_	_	
+279	171_charlotte_temple_brat	0	32	Portsmouth	_	_	_	_	_	_	_	_	|17)
+280	171_charlotte_temple_brat	0	33	.	_	_	_	_	_	_	_	_	
+281	171_charlotte_temple_brat	0	0	At	_	_	_	_	_	_	_	_	
+282	171_charlotte_temple_brat	0	1	that	_	_	_	_	_	_	_	_	
+283	171_charlotte_temple_brat	0	2	time	_	_	_	_	_	_	_	_	
+284	171_charlotte_temple_brat	0	3	he	_	_	_	_	_	_	_	_	(2)
+285	171_charlotte_temple_brat	0	4	thought	_	_	_	_	_	_	_	_	
+286	171_charlotte_temple_brat	0	5	on	_	_	_	_	_	_	_	_	
+287	171_charlotte_temple_brat	0	6	her	_	_	_	_	_	_	_	_	(17)
+288	171_charlotte_temple_brat	0	7	only	_	_	_	_	_	_	_	_	
+289	171_charlotte_temple_brat	0	8	as	_	_	_	_	_	_	_	_	
+290	171_charlotte_temple_brat	0	9	a	_	_	_	_	_	_	_	_	(57
+291	171_charlotte_temple_brat	0	10	very	_	_	_	_	_	_	_	_	
+292	171_charlotte_temple_brat	0	11	lovely	_	_	_	_	_	_	_	_	
+293	171_charlotte_temple_brat	0	12	child	_	_	_	_	_	_	_	_	57)
+294	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+295	171_charlotte_temple_brat	0	14	she	_	_	_	_	_	_	_	_	(17)
+296	171_charlotte_temple_brat	0	15	being	_	_	_	_	_	_	_	_	
+297	171_charlotte_temple_brat	0	16	then	_	_	_	_	_	_	_	_	
+298	171_charlotte_temple_brat	0	17	only	_	_	_	_	_	_	_	_	
+299	171_charlotte_temple_brat	0	18	thirteen	_	_	_	_	_	_	_	_	
+300	171_charlotte_temple_brat	0	19	;	_	_	_	_	_	_	_	_	
+301	171_charlotte_temple_brat	0	20	but	_	_	_	_	_	_	_	_	
+302	171_charlotte_temple_brat	0	21	the	_	_	_	_	_	_	_	_	
+303	171_charlotte_temple_brat	0	22	improvement	_	_	_	_	_	_	_	_	
+304	171_charlotte_temple_brat	0	23	two	_	_	_	_	_	_	_	_	
+305	171_charlotte_temple_brat	0	24	years	_	_	_	_	_	_	_	_	
+306	171_charlotte_temple_brat	0	25	had	_	_	_	_	_	_	_	_	
+307	171_charlotte_temple_brat	0	26	made	_	_	_	_	_	_	_	_	
+308	171_charlotte_temple_brat	0	27	in	_	_	_	_	_	_	_	_	
+309	171_charlotte_temple_brat	0	28	her	_	_	_	_	_	_	_	_	(17|(17)
+310	171_charlotte_temple_brat	0	29	person	_	_	_	_	_	_	_	_	
+311	171_charlotte_temple_brat	0	30	,	_	_	_	_	_	_	_	_	
+312	171_charlotte_temple_brat	0	31	and	_	_	_	_	_	_	_	_	
+313	171_charlotte_temple_brat	0	32	the	_	_	_	_	_	_	_	_	
+314	171_charlotte_temple_brat	0	33	blush	_	_	_	_	_	_	_	_	
+315	171_charlotte_temple_brat	0	34	of	_	_	_	_	_	_	_	_	
+316	171_charlotte_temple_brat	0	35	recollection	_	_	_	_	_	_	_	_	
+317	171_charlotte_temple_brat	0	36	which	_	_	_	_	_	_	_	_	
+318	171_charlotte_temple_brat	0	37	suffused	_	_	_	_	_	_	_	_	
+319	171_charlotte_temple_brat	0	38	her	_	_	_	_	_	_	_	_	(17)
+320	171_charlotte_temple_brat	0	39	cheeks	_	_	_	_	_	_	_	_	
+321	171_charlotte_temple_brat	0	40	as	_	_	_	_	_	_	_	_	
+322	171_charlotte_temple_brat	0	41	she	_	_	_	_	_	_	_	_	(17)
+323	171_charlotte_temple_brat	0	42	passed	_	_	_	_	_	_	_	_	
+324	171_charlotte_temple_brat	0	43	,	_	_	_	_	_	_	_	_	
+325	171_charlotte_temple_brat	0	44	awakened	_	_	_	_	_	_	_	_	
+326	171_charlotte_temple_brat	0	45	in	_	_	_	_	_	_	_	_	
+327	171_charlotte_temple_brat	0	46	his	_	_	_	_	_	_	_	_	(2)
+328	171_charlotte_temple_brat	0	47	bosom	_	_	_	_	_	_	_	_	
+329	171_charlotte_temple_brat	0	48	new	_	_	_	_	_	_	_	_	
+330	171_charlotte_temple_brat	0	49	and	_	_	_	_	_	_	_	_	
+331	171_charlotte_temple_brat	0	50	pleasing	_	_	_	_	_	_	_	_	
+332	171_charlotte_temple_brat	0	51	ideas	_	_	_	_	_	_	_	_	
+333	171_charlotte_temple_brat	0	52	.	_	_	_	_	_	_	_	_	
+334	171_charlotte_temple_brat	0	0	Vanity	_	_	_	_	_	_	_	_	
+335	171_charlotte_temple_brat	0	1	led	_	_	_	_	_	_	_	_	
+336	171_charlotte_temple_brat	0	2	him	_	_	_	_	_	_	_	_	(2)
+337	171_charlotte_temple_brat	0	3	to	_	_	_	_	_	_	_	_	
+338	171_charlotte_temple_brat	0	4	think	_	_	_	_	_	_	_	_	
+339	171_charlotte_temple_brat	0	5	that	_	_	_	_	_	_	_	_	
+340	171_charlotte_temple_brat	0	6	pleasure	_	_	_	_	_	_	_	_	
+341	171_charlotte_temple_brat	0	7	at	_	_	_	_	_	_	_	_	
+342	171_charlotte_temple_brat	0	8	again	_	_	_	_	_	_	_	_	
+343	171_charlotte_temple_brat	0	9	beholding	_	_	_	_	_	_	_	_	
+344	171_charlotte_temple_brat	0	10	him	_	_	_	_	_	_	_	_	(2)
+345	171_charlotte_temple_brat	0	11	might	_	_	_	_	_	_	_	_	
+346	171_charlotte_temple_brat	0	12	have	_	_	_	_	_	_	_	_	
+347	171_charlotte_temple_brat	0	13	occasioned	_	_	_	_	_	_	_	_	
+348	171_charlotte_temple_brat	0	14	the	_	_	_	_	_	_	_	_	
+349	171_charlotte_temple_brat	0	15	emotion	_	_	_	_	_	_	_	_	
+350	171_charlotte_temple_brat	0	16	he	_	_	_	_	_	_	_	_	(2)
+351	171_charlotte_temple_brat	0	17	had	_	_	_	_	_	_	_	_	
+352	171_charlotte_temple_brat	0	18	witnessed	_	_	_	_	_	_	_	_	
+353	171_charlotte_temple_brat	0	19	,	_	_	_	_	_	_	_	_	
+354	171_charlotte_temple_brat	0	20	and	_	_	_	_	_	_	_	_	
+355	171_charlotte_temple_brat	0	21	the	_	_	_	_	_	_	_	_	
+356	171_charlotte_temple_brat	0	22	same	_	_	_	_	_	_	_	_	
+357	171_charlotte_temple_brat	0	23	vanity	_	_	_	_	_	_	_	_	
+358	171_charlotte_temple_brat	0	24	led	_	_	_	_	_	_	_	_	
+359	171_charlotte_temple_brat	0	25	him	_	_	_	_	_	_	_	_	(2)
+360	171_charlotte_temple_brat	0	26	to	_	_	_	_	_	_	_	_	
+361	171_charlotte_temple_brat	0	27	wish	_	_	_	_	_	_	_	_	
+362	171_charlotte_temple_brat	0	28	to	_	_	_	_	_	_	_	_	
+363	171_charlotte_temple_brat	0	29	see	_	_	_	_	_	_	_	_	
+364	171_charlotte_temple_brat	0	30	her	_	_	_	_	_	_	_	_	(17)
+365	171_charlotte_temple_brat	0	31	again	_	_	_	_	_	_	_	_	
+366	171_charlotte_temple_brat	0	32	.	_	_	_	_	_	_	_	_	
+367	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+368	171_charlotte_temple_brat	0	1	She	_	_	_	_	_	_	_	_	(17)
+369	171_charlotte_temple_brat	0	2	is	_	_	_	_	_	_	_	_	
+370	171_charlotte_temple_brat	0	3	the	_	_	_	_	_	_	_	_	(58
+371	171_charlotte_temple_brat	0	4	sweetest	_	_	_	_	_	_	_	_	
+372	171_charlotte_temple_brat	0	5	girl	_	_	_	_	_	_	_	_	
+373	171_charlotte_temple_brat	0	6	in	_	_	_	_	_	_	_	_	
+374	171_charlotte_temple_brat	0	7	the	_	_	_	_	_	_	_	_	
+375	171_charlotte_temple_brat	0	8	world	_	_	_	_	_	_	_	_	|58)
+376	171_charlotte_temple_brat	0	9	,	_	_	_	_	_	_	_	_	
+377	171_charlotte_temple_brat	0	10	”	_	_	_	_	_	_	_	_	
+378	171_charlotte_temple_brat	0	11	said	_	_	_	_	_	_	_	_	
+379	171_charlotte_temple_brat	0	12	he	_	_	_	_	_	_	_	_	(2)
+380	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+381	171_charlotte_temple_brat	0	14	as	_	_	_	_	_	_	_	_	
+382	171_charlotte_temple_brat	0	15	he	_	_	_	_	_	_	_	_	(2)
+383	171_charlotte_temple_brat	0	16	entered	_	_	_	_	_	_	_	_	
+384	171_charlotte_temple_brat	0	17	the	_	_	_	_	_	_	_	_	
+385	171_charlotte_temple_brat	0	18	inn	_	_	_	_	_	_	_	_	
+386	171_charlotte_temple_brat	0	19	.	_	_	_	_	_	_	_	_	
+387	171_charlotte_temple_brat	0	0	Belcour	_	_	_	_	_	_	_	_	(1)
+388	171_charlotte_temple_brat	0	1	stared	_	_	_	_	_	_	_	_	
+389	171_charlotte_temple_brat	0	2	.	_	_	_	_	_	_	_	_	
+390	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+391	171_charlotte_temple_brat	0	1	Did	_	_	_	_	_	_	_	_	
+392	171_charlotte_temple_brat	0	2	you	_	_	_	_	_	_	_	_	(1)
+393	171_charlotte_temple_brat	0	3	not	_	_	_	_	_	_	_	_	
+394	171_charlotte_temple_brat	0	4	notice	_	_	_	_	_	_	_	_	
+395	171_charlotte_temple_brat	0	5	her	_	_	_	_	_	_	_	_	(17)
+396	171_charlotte_temple_brat	0	6	?	_	_	_	_	_	_	_	_	
+397	171_charlotte_temple_brat	0	7	”	_	_	_	_	_	_	_	_	
+398	171_charlotte_temple_brat	0	8	continued	_	_	_	_	_	_	_	_	
+399	171_charlotte_temple_brat	0	9	Montraville	_	_	_	_	_	_	_	_	(2)
+400	171_charlotte_temple_brat	0	10	:	_	_	_	_	_	_	_	_	
+401	171_charlotte_temple_brat	0	11	“	_	_	_	_	_	_	_	_	
+402	171_charlotte_temple_brat	0	12	she	_	_	_	_	_	_	_	_	(17)
+403	171_charlotte_temple_brat	0	13	had	_	_	_	_	_	_	_	_	
+404	171_charlotte_temple_brat	0	14	on	_	_	_	_	_	_	_	_	
+405	171_charlotte_temple_brat	0	15	a	_	_	_	_	_	_	_	_	
+406	171_charlotte_temple_brat	0	16	blue	_	_	_	_	_	_	_	_	
+407	171_charlotte_temple_brat	0	17	bonnet	_	_	_	_	_	_	_	_	
+408	171_charlotte_temple_brat	0	18	,	_	_	_	_	_	_	_	_	
+409	171_charlotte_temple_brat	0	19	and	_	_	_	_	_	_	_	_	
+410	171_charlotte_temple_brat	0	20	with	_	_	_	_	_	_	_	_	
+411	171_charlotte_temple_brat	0	21	a	_	_	_	_	_	_	_	_	
+412	171_charlotte_temple_brat	0	22	pair	_	_	_	_	_	_	_	_	
+413	171_charlotte_temple_brat	0	23	of	_	_	_	_	_	_	_	_	
+414	171_charlotte_temple_brat	0	24	lovely	_	_	_	_	_	_	_	_	
+415	171_charlotte_temple_brat	0	25	eyes	_	_	_	_	_	_	_	_	
+416	171_charlotte_temple_brat	0	26	of	_	_	_	_	_	_	_	_	
+417	171_charlotte_temple_brat	0	27	the	_	_	_	_	_	_	_	_	
+418	171_charlotte_temple_brat	0	28	same	_	_	_	_	_	_	_	_	
+419	171_charlotte_temple_brat	0	29	colour	_	_	_	_	_	_	_	_	
+420	171_charlotte_temple_brat	0	30	,	_	_	_	_	_	_	_	_	
+421	171_charlotte_temple_brat	0	31	has	_	_	_	_	_	_	_	_	
+422	171_charlotte_temple_brat	0	32	contrived	_	_	_	_	_	_	_	_	
+423	171_charlotte_temple_brat	0	33	to	_	_	_	_	_	_	_	_	
+424	171_charlotte_temple_brat	0	34	make	_	_	_	_	_	_	_	_	
+425	171_charlotte_temple_brat	0	35	me	_	_	_	_	_	_	_	_	(2)
+426	171_charlotte_temple_brat	0	36	feel	_	_	_	_	_	_	_	_	
+427	171_charlotte_temple_brat	0	37	devilish	_	_	_	_	_	_	_	_	
+428	171_charlotte_temple_brat	0	38	odd	_	_	_	_	_	_	_	_	
+429	171_charlotte_temple_brat	0	39	about	_	_	_	_	_	_	_	_	
+430	171_charlotte_temple_brat	0	40	the	_	_	_	_	_	_	_	_	
+431	171_charlotte_temple_brat	0	41	heart	_	_	_	_	_	_	_	_	
+432	171_charlotte_temple_brat	0	42	.	_	_	_	_	_	_	_	_	
+433	171_charlotte_temple_brat	0	43	”	_	_	_	_	_	_	_	_	
+434	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+435	171_charlotte_temple_brat	0	1	Pho	_	_	_	_	_	_	_	_	
+436	171_charlotte_temple_brat	0	2	,	_	_	_	_	_	_	_	_	
+437	171_charlotte_temple_brat	0	3	”	_	_	_	_	_	_	_	_	
+438	171_charlotte_temple_brat	0	4	said	_	_	_	_	_	_	_	_	
+439	171_charlotte_temple_brat	0	5	Belcour	_	_	_	_	_	_	_	_	(1)
+440	171_charlotte_temple_brat	0	6	,	_	_	_	_	_	_	_	_	
+441	171_charlotte_temple_brat	0	7	“	_	_	_	_	_	_	_	_	
+442	171_charlotte_temple_brat	0	8	a	_	_	_	_	_	_	_	_	
+443	171_charlotte_temple_brat	0	9	musket	_	_	_	_	_	_	_	_	
+444	171_charlotte_temple_brat	0	10	ball	_	_	_	_	_	_	_	_	
+445	171_charlotte_temple_brat	0	11	from	_	_	_	_	_	_	_	_	
+446	171_charlotte_temple_brat	0	12	our	_	_	_	_	_	_	_	_	(19|(3)
+447	171_charlotte_temple_brat	0	13	friends	_	_	_	_	_	_	_	_	19)
+448	171_charlotte_temple_brat	0	14	,	_	_	_	_	_	_	_	_	
+449	171_charlotte_temple_brat	0	15	the	_	_	_	_	_	_	_	_	(59
+450	171_charlotte_temple_brat	0	16	Americans	_	_	_	_	_	_	_	_	59)
+451	171_charlotte_temple_brat	0	17	,	_	_	_	_	_	_	_	_	
+452	171_charlotte_temple_brat	0	18	may	_	_	_	_	_	_	_	_	
+453	171_charlotte_temple_brat	0	19	in	_	_	_	_	_	_	_	_	
+454	171_charlotte_temple_brat	0	20	less	_	_	_	_	_	_	_	_	
+455	171_charlotte_temple_brat	0	21	than	_	_	_	_	_	_	_	_	
+456	171_charlotte_temple_brat	0	22	two	_	_	_	_	_	_	_	_	
+457	171_charlotte_temple_brat	0	23	months	_	_	_	_	_	_	_	_	
+458	171_charlotte_temple_brat	0	24	make	_	_	_	_	_	_	_	_	
+459	171_charlotte_temple_brat	0	25	you	_	_	_	_	_	_	_	_	(2)
+460	171_charlotte_temple_brat	0	26	feel	_	_	_	_	_	_	_	_	
+461	171_charlotte_temple_brat	0	27	worse	_	_	_	_	_	_	_	_	
+462	171_charlotte_temple_brat	0	28	.	_	_	_	_	_	_	_	_	
+463	171_charlotte_temple_brat	0	29	”	_	_	_	_	_	_	_	_	
+464	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+465	171_charlotte_temple_brat	0	1	I	_	_	_	_	_	_	_	_	(2)
+466	171_charlotte_temple_brat	0	2	never	_	_	_	_	_	_	_	_	
+467	171_charlotte_temple_brat	0	3	think	_	_	_	_	_	_	_	_	
+468	171_charlotte_temple_brat	0	4	of	_	_	_	_	_	_	_	_	
+469	171_charlotte_temple_brat	0	5	the	_	_	_	_	_	_	_	_	
+470	171_charlotte_temple_brat	0	6	future	_	_	_	_	_	_	_	_	
+471	171_charlotte_temple_brat	0	7	,	_	_	_	_	_	_	_	_	
+472	171_charlotte_temple_brat	0	8	”	_	_	_	_	_	_	_	_	
+473	171_charlotte_temple_brat	0	9	replied	_	_	_	_	_	_	_	_	
+474	171_charlotte_temple_brat	0	10	Montraville	_	_	_	_	_	_	_	_	(2)
+475	171_charlotte_temple_brat	0	11	;	_	_	_	_	_	_	_	_	
+476	171_charlotte_temple_brat	0	12	“	_	_	_	_	_	_	_	_	
+477	171_charlotte_temple_brat	0	13	but	_	_	_	_	_	_	_	_	
+478	171_charlotte_temple_brat	0	14	am	_	_	_	_	_	_	_	_	
+479	171_charlotte_temple_brat	0	15	determined	_	_	_	_	_	_	_	_	
+480	171_charlotte_temple_brat	0	16	to	_	_	_	_	_	_	_	_	
+481	171_charlotte_temple_brat	0	17	make	_	_	_	_	_	_	_	_	
+482	171_charlotte_temple_brat	0	18	the	_	_	_	_	_	_	_	_	
+483	171_charlotte_temple_brat	0	19	most	_	_	_	_	_	_	_	_	
+484	171_charlotte_temple_brat	0	20	of	_	_	_	_	_	_	_	_	
+485	171_charlotte_temple_brat	0	21	the	_	_	_	_	_	_	_	_	
+486	171_charlotte_temple_brat	0	22	present	_	_	_	_	_	_	_	_	
+487	171_charlotte_temple_brat	0	23	,	_	_	_	_	_	_	_	_	
+488	171_charlotte_temple_brat	0	24	and	_	_	_	_	_	_	_	_	
+489	171_charlotte_temple_brat	0	25	would	_	_	_	_	_	_	_	_	
+490	171_charlotte_temple_brat	0	26	willingly	_	_	_	_	_	_	_	_	
+491	171_charlotte_temple_brat	0	27	compound	_	_	_	_	_	_	_	_	
+492	171_charlotte_temple_brat	0	28	with	_	_	_	_	_	_	_	_	
+493	171_charlotte_temple_brat	0	29	any	_	_	_	_	_	_	_	_	(20
+494	171_charlotte_temple_brat	0	30	kind	_	_	_	_	_	_	_	_	
+495	171_charlotte_temple_brat	0	31	Familiar	_	_	_	_	_	_	_	_	
+496	171_charlotte_temple_brat	0	32	who	_	_	_	_	_	_	_	_	
+497	171_charlotte_temple_brat	0	33	would	_	_	_	_	_	_	_	_	
+498	171_charlotte_temple_brat	0	34	inform	_	_	_	_	_	_	_	_	
+499	171_charlotte_temple_brat	0	35	me	_	_	_	_	_	_	_	_	(2)
+500	171_charlotte_temple_brat	0	36	who	_	_	_	_	_	_	_	_	
+501	171_charlotte_temple_brat	0	37	the	_	_	_	_	_	_	_	_	(17
+502	171_charlotte_temple_brat	0	38	girl	_	_	_	_	_	_	_	_	17)
+503	171_charlotte_temple_brat	0	39	is	_	_	_	_	_	_	_	_	
+504	171_charlotte_temple_brat	0	40	,	_	_	_	_	_	_	_	_	
+505	171_charlotte_temple_brat	0	41	and	_	_	_	_	_	_	_	_	
+506	171_charlotte_temple_brat	0	42	how	_	_	_	_	_	_	_	_	
+507	171_charlotte_temple_brat	0	43	I	_	_	_	_	_	_	_	_	(2)
+508	171_charlotte_temple_brat	0	44	might	_	_	_	_	_	_	_	_	
+509	171_charlotte_temple_brat	0	45	be	_	_	_	_	_	_	_	_	
+510	171_charlotte_temple_brat	0	46	likely	_	_	_	_	_	_	_	_	
+511	171_charlotte_temple_brat	0	47	to	_	_	_	_	_	_	_	_	
+512	171_charlotte_temple_brat	0	48	obtain	_	_	_	_	_	_	_	_	
+513	171_charlotte_temple_brat	0	49	an	_	_	_	_	_	_	_	_	
+514	171_charlotte_temple_brat	0	50	interview	_	_	_	_	_	_	_	_	20)
+515	171_charlotte_temple_brat	0	51	.	_	_	_	_	_	_	_	_	
+516	171_charlotte_temple_brat	0	52	”	_	_	_	_	_	_	_	_	
+517	171_charlotte_temple_brat	0	0	But	_	_	_	_	_	_	_	_	
+518	171_charlotte_temple_brat	0	1	no	_	_	_	_	_	_	_	_	(21
+519	171_charlotte_temple_brat	0	2	kind	_	_	_	_	_	_	_	_	
+520	171_charlotte_temple_brat	0	3	Familiar	_	_	_	_	_	_	_	_	21)
+521	171_charlotte_temple_brat	0	4	at	_	_	_	_	_	_	_	_	
+522	171_charlotte_temple_brat	0	5	that	_	_	_	_	_	_	_	_	
+523	171_charlotte_temple_brat	0	6	time	_	_	_	_	_	_	_	_	
+524	171_charlotte_temple_brat	0	7	appearing	_	_	_	_	_	_	_	_	
+525	171_charlotte_temple_brat	0	8	,	_	_	_	_	_	_	_	_	
+526	171_charlotte_temple_brat	0	9	and	_	_	_	_	_	_	_	_	
+527	171_charlotte_temple_brat	0	10	the	_	_	_	_	_	_	_	_	
+528	171_charlotte_temple_brat	0	11	chaise	_	_	_	_	_	_	_	_	
+529	171_charlotte_temple_brat	0	12	which	_	_	_	_	_	_	_	_	
+530	171_charlotte_temple_brat	0	13	they	_	_	_	_	_	_	_	_	(3)
+531	171_charlotte_temple_brat	0	14	had	_	_	_	_	_	_	_	_	
+532	171_charlotte_temple_brat	0	15	ordered	_	_	_	_	_	_	_	_	
+533	171_charlotte_temple_brat	0	16	,	_	_	_	_	_	_	_	_	
+534	171_charlotte_temple_brat	0	17	driving	_	_	_	_	_	_	_	_	
+535	171_charlotte_temple_brat	0	18	up	_	_	_	_	_	_	_	_	
+536	171_charlotte_temple_brat	0	19	to	_	_	_	_	_	_	_	_	
+537	171_charlotte_temple_brat	0	20	the	_	_	_	_	_	_	_	_	
+538	171_charlotte_temple_brat	0	21	door	_	_	_	_	_	_	_	_	
+539	171_charlotte_temple_brat	0	22	,	_	_	_	_	_	_	_	_	
+540	171_charlotte_temple_brat	0	23	Montraville	_	_	_	_	_	_	_	_	(2)
+541	171_charlotte_temple_brat	0	24	and	_	_	_	_	_	_	_	_	
+542	171_charlotte_temple_brat	0	25	his	_	_	_	_	_	_	_	_	(1|(2)
+543	171_charlotte_temple_brat	0	26	companion	_	_	_	_	_	_	_	_	1)
+544	171_charlotte_temple_brat	0	27	were	_	_	_	_	_	_	_	_	
+545	171_charlotte_temple_brat	0	28	obliged	_	_	_	_	_	_	_	_	
+546	171_charlotte_temple_brat	0	29	to	_	_	_	_	_	_	_	_	
+547	171_charlotte_temple_brat	0	30	take	_	_	_	_	_	_	_	_	
+548	171_charlotte_temple_brat	0	31	leave	_	_	_	_	_	_	_	_	
+549	171_charlotte_temple_brat	0	32	of	_	_	_	_	_	_	_	_	
+550	171_charlotte_temple_brat	0	33	Chichester	_	_	_	_	_	_	_	_	
+551	171_charlotte_temple_brat	0	34	and	_	_	_	_	_	_	_	_	
+552	171_charlotte_temple_brat	0	35	its	_	_	_	_	_	_	_	_	(17|
+553	171_charlotte_temple_brat	0	36	fair	_	_	_	_	_	_	_	_	
+554	171_charlotte_temple_brat	0	37	inhabitant	_	_	_	_	_	_	_	_	17)
+555	171_charlotte_temple_brat	0	38	,	_	_	_	_	_	_	_	_	
+556	171_charlotte_temple_brat	0	39	and	_	_	_	_	_	_	_	_	
+557	171_charlotte_temple_brat	0	40	proceed	_	_	_	_	_	_	_	_	
+558	171_charlotte_temple_brat	0	41	on	_	_	_	_	_	_	_	_	
+559	171_charlotte_temple_brat	0	42	their	_	_	_	_	_	_	_	_	(3)
+560	171_charlotte_temple_brat	0	43	journey	_	_	_	_	_	_	_	_	
+561	171_charlotte_temple_brat	0	44	.	_	_	_	_	_	_	_	_	
+562	171_charlotte_temple_brat	0	0	But	_	_	_	_	_	_	_	_	
+563	171_charlotte_temple_brat	0	1	Charlotte	_	_	_	_	_	_	_	_	(17)
+564	171_charlotte_temple_brat	0	2	had	_	_	_	_	_	_	_	_	
+565	171_charlotte_temple_brat	0	3	made	_	_	_	_	_	_	_	_	
+566	171_charlotte_temple_brat	0	4	too	_	_	_	_	_	_	_	_	
+567	171_charlotte_temple_brat	0	5	great	_	_	_	_	_	_	_	_	
+568	171_charlotte_temple_brat	0	6	an	_	_	_	_	_	_	_	_	
+569	171_charlotte_temple_brat	0	7	impression	_	_	_	_	_	_	_	_	
+570	171_charlotte_temple_brat	0	8	on	_	_	_	_	_	_	_	_	
+571	171_charlotte_temple_brat	0	9	his	_	_	_	_	_	_	_	_	(2)
+572	171_charlotte_temple_brat	0	10	mind	_	_	_	_	_	_	_	_	
+573	171_charlotte_temple_brat	0	11	to	_	_	_	_	_	_	_	_	
+574	171_charlotte_temple_brat	0	12	be	_	_	_	_	_	_	_	_	
+575	171_charlotte_temple_brat	0	13	easily	_	_	_	_	_	_	_	_	
+576	171_charlotte_temple_brat	0	14	eradicated	_	_	_	_	_	_	_	_	
+577	171_charlotte_temple_brat	0	15	:	_	_	_	_	_	_	_	_	
+578	171_charlotte_temple_brat	0	16	having	_	_	_	_	_	_	_	_	
+579	171_charlotte_temple_brat	0	17	therefore	_	_	_	_	_	_	_	_	
+580	171_charlotte_temple_brat	0	18	spent	_	_	_	_	_	_	_	_	
+581	171_charlotte_temple_brat	0	19	three	_	_	_	_	_	_	_	_	
+582	171_charlotte_temple_brat	0	20	whole	_	_	_	_	_	_	_	_	
+583	171_charlotte_temple_brat	0	21	days	_	_	_	_	_	_	_	_	
+584	171_charlotte_temple_brat	0	22	in	_	_	_	_	_	_	_	_	
+585	171_charlotte_temple_brat	0	23	thinking	_	_	_	_	_	_	_	_	
+586	171_charlotte_temple_brat	0	24	on	_	_	_	_	_	_	_	_	
+587	171_charlotte_temple_brat	0	25	her	_	_	_	_	_	_	_	_	(17)
+588	171_charlotte_temple_brat	0	26	and	_	_	_	_	_	_	_	_	
+589	171_charlotte_temple_brat	0	27	in	_	_	_	_	_	_	_	_	
+590	171_charlotte_temple_brat	0	28	endeavouring	_	_	_	_	_	_	_	_	
+591	171_charlotte_temple_brat	0	29	to	_	_	_	_	_	_	_	_	
+592	171_charlotte_temple_brat	0	30	form	_	_	_	_	_	_	_	_	
+593	171_charlotte_temple_brat	0	31	some	_	_	_	_	_	_	_	_	
+594	171_charlotte_temple_brat	0	32	plan	_	_	_	_	_	_	_	_	
+595	171_charlotte_temple_brat	0	33	for	_	_	_	_	_	_	_	_	
+596	171_charlotte_temple_brat	0	34	seeing	_	_	_	_	_	_	_	_	
+597	171_charlotte_temple_brat	0	35	her	_	_	_	_	_	_	_	_	(17)
+598	171_charlotte_temple_brat	0	36	,	_	_	_	_	_	_	_	_	
+599	171_charlotte_temple_brat	0	37	he	_	_	_	_	_	_	_	_	(2)
+600	171_charlotte_temple_brat	0	38	determined	_	_	_	_	_	_	_	_	
+601	171_charlotte_temple_brat	0	39	to	_	_	_	_	_	_	_	_	
+602	171_charlotte_temple_brat	0	40	set	_	_	_	_	_	_	_	_	
+603	171_charlotte_temple_brat	0	41	off	_	_	_	_	_	_	_	_	
+604	171_charlotte_temple_brat	0	42	for	_	_	_	_	_	_	_	_	
+605	171_charlotte_temple_brat	0	43	Chichester	_	_	_	_	_	_	_	_	
+606	171_charlotte_temple_brat	0	44	,	_	_	_	_	_	_	_	_	
+607	171_charlotte_temple_brat	0	45	and	_	_	_	_	_	_	_	_	
+608	171_charlotte_temple_brat	0	46	trust	_	_	_	_	_	_	_	_	
+609	171_charlotte_temple_brat	0	47	to	_	_	_	_	_	_	_	_	
+610	171_charlotte_temple_brat	0	48	chance	_	_	_	_	_	_	_	_	
+611	171_charlotte_temple_brat	0	49	either	_	_	_	_	_	_	_	_	
+612	171_charlotte_temple_brat	0	50	to	_	_	_	_	_	_	_	_	
+613	171_charlotte_temple_brat	0	51	favour	_	_	_	_	_	_	_	_	
+614	171_charlotte_temple_brat	0	52	or	_	_	_	_	_	_	_	_	
+615	171_charlotte_temple_brat	0	53	frustrate	_	_	_	_	_	_	_	_	
+616	171_charlotte_temple_brat	0	54	his	_	_	_	_	_	_	_	_	(2)
+617	171_charlotte_temple_brat	0	55	designs	_	_	_	_	_	_	_	_	
+618	171_charlotte_temple_brat	0	56	.	_	_	_	_	_	_	_	_	
+619	171_charlotte_temple_brat	0	0	Arriving	_	_	_	_	_	_	_	_	
+620	171_charlotte_temple_brat	0	1	at	_	_	_	_	_	_	_	_	
+621	171_charlotte_temple_brat	0	2	the	_	_	_	_	_	_	_	_	
+622	171_charlotte_temple_brat	0	3	verge	_	_	_	_	_	_	_	_	
+623	171_charlotte_temple_brat	0	4	of	_	_	_	_	_	_	_	_	
+624	171_charlotte_temple_brat	0	5	the	_	_	_	_	_	_	_	_	
+625	171_charlotte_temple_brat	0	6	town	_	_	_	_	_	_	_	_	
+626	171_charlotte_temple_brat	0	7	,	_	_	_	_	_	_	_	_	
+627	171_charlotte_temple_brat	0	8	he	_	_	_	_	_	_	_	_	(2)
+628	171_charlotte_temple_brat	0	9	dismounted	_	_	_	_	_	_	_	_	
+629	171_charlotte_temple_brat	0	10	,	_	_	_	_	_	_	_	_	
+630	171_charlotte_temple_brat	0	11	and	_	_	_	_	_	_	_	_	
+631	171_charlotte_temple_brat	0	12	sending	_	_	_	_	_	_	_	_	
+632	171_charlotte_temple_brat	0	13	the	_	_	_	_	_	_	_	_	(22
+633	171_charlotte_temple_brat	0	14	servant	_	_	_	_	_	_	_	_	22)
+634	171_charlotte_temple_brat	0	15	forward	_	_	_	_	_	_	_	_	
+635	171_charlotte_temple_brat	0	16	with	_	_	_	_	_	_	_	_	
+636	171_charlotte_temple_brat	0	17	the	_	_	_	_	_	_	_	_	
+637	171_charlotte_temple_brat	0	18	horses	_	_	_	_	_	_	_	_	
+638	171_charlotte_temple_brat	0	19	,	_	_	_	_	_	_	_	_	
+639	171_charlotte_temple_brat	0	20	proceeded	_	_	_	_	_	_	_	_	
+640	171_charlotte_temple_brat	0	21	toward	_	_	_	_	_	_	_	_	
+641	171_charlotte_temple_brat	0	22	the	_	_	_	_	_	_	_	_	
+642	171_charlotte_temple_brat	0	23	place	_	_	_	_	_	_	_	_	
+643	171_charlotte_temple_brat	0	24	,	_	_	_	_	_	_	_	_	
+644	171_charlotte_temple_brat	0	25	where	_	_	_	_	_	_	_	_	
+645	171_charlotte_temple_brat	0	26	,	_	_	_	_	_	_	_	_	
+646	171_charlotte_temple_brat	0	27	in	_	_	_	_	_	_	_	_	
+647	171_charlotte_temple_brat	0	28	the	_	_	_	_	_	_	_	_	
+648	171_charlotte_temple_brat	0	29	midst	_	_	_	_	_	_	_	_	
+649	171_charlotte_temple_brat	0	30	of	_	_	_	_	_	_	_	_	
+650	171_charlotte_temple_brat	0	31	an	_	_	_	_	_	_	_	_	
+651	171_charlotte_temple_brat	0	32	extensive	_	_	_	_	_	_	_	_	
+652	171_charlotte_temple_brat	0	33	pleasure	_	_	_	_	_	_	_	_	
+653	171_charlotte_temple_brat	0	34	ground	_	_	_	_	_	_	_	_	
+654	171_charlotte_temple_brat	0	35	,	_	_	_	_	_	_	_	_	
+655	171_charlotte_temple_brat	0	36	stood	_	_	_	_	_	_	_	_	
+656	171_charlotte_temple_brat	0	37	the	_	_	_	_	_	_	_	_	
+657	171_charlotte_temple_brat	0	38	mansion	_	_	_	_	_	_	_	_	
+658	171_charlotte_temple_brat	0	39	which	_	_	_	_	_	_	_	_	
+659	171_charlotte_temple_brat	0	40	contained	_	_	_	_	_	_	_	_	
+660	171_charlotte_temple_brat	0	41	the	_	_	_	_	_	_	_	_	(17
+661	171_charlotte_temple_brat	0	42	lovely	_	_	_	_	_	_	_	_	
+662	171_charlotte_temple_brat	0	43	Charlotte	_	_	_	_	_	_	_	_	
+663	171_charlotte_temple_brat	0	44	Temple	_	_	_	_	_	_	_	_	17)|
+664	171_charlotte_temple_brat	0	45	.	_	_	_	_	_	_	_	_	
+665	171_charlotte_temple_brat	0	0	Montraville	_	_	_	_	_	_	_	_	(2)
+666	171_charlotte_temple_brat	0	1	leaned	_	_	_	_	_	_	_	_	
+667	171_charlotte_temple_brat	0	2	on	_	_	_	_	_	_	_	_	
+668	171_charlotte_temple_brat	0	3	a	_	_	_	_	_	_	_	_	
+669	171_charlotte_temple_brat	0	4	broken	_	_	_	_	_	_	_	_	
+670	171_charlotte_temple_brat	0	5	gate	_	_	_	_	_	_	_	_	
+671	171_charlotte_temple_brat	0	6	,	_	_	_	_	_	_	_	_	
+672	171_charlotte_temple_brat	0	7	and	_	_	_	_	_	_	_	_	
+673	171_charlotte_temple_brat	0	8	looked	_	_	_	_	_	_	_	_	
+674	171_charlotte_temple_brat	0	9	earnestly	_	_	_	_	_	_	_	_	
+675	171_charlotte_temple_brat	0	10	at	_	_	_	_	_	_	_	_	
+676	171_charlotte_temple_brat	0	11	the	_	_	_	_	_	_	_	_	
+677	171_charlotte_temple_brat	0	12	house	_	_	_	_	_	_	_	_	
+678	171_charlotte_temple_brat	0	13	.	_	_	_	_	_	_	_	_	
+679	171_charlotte_temple_brat	0	0	The	_	_	_	_	_	_	_	_	
+680	171_charlotte_temple_brat	0	1	wall	_	_	_	_	_	_	_	_	
+681	171_charlotte_temple_brat	0	2	which	_	_	_	_	_	_	_	_	
+682	171_charlotte_temple_brat	0	3	surrounded	_	_	_	_	_	_	_	_	
+683	171_charlotte_temple_brat	0	4	it	_	_	_	_	_	_	_	_	
+684	171_charlotte_temple_brat	0	5	was	_	_	_	_	_	_	_	_	
+685	171_charlotte_temple_brat	0	6	high	_	_	_	_	_	_	_	_	
+686	171_charlotte_temple_brat	0	7	,	_	_	_	_	_	_	_	_	
+687	171_charlotte_temple_brat	0	8	and	_	_	_	_	_	_	_	_	
+688	171_charlotte_temple_brat	0	9	perhaps	_	_	_	_	_	_	_	_	
+689	171_charlotte_temple_brat	0	10	the	_	_	_	_	_	_	_	_	
+690	171_charlotte_temple_brat	0	11	Argus	_	_	_	_	_	_	_	_	
+691	171_charlotte_temple_brat	0	12	’s	_	_	_	_	_	_	_	_	
+692	171_charlotte_temple_brat	0	13	who	_	_	_	_	_	_	_	_	
+693	171_charlotte_temple_brat	0	14	guarded	_	_	_	_	_	_	_	_	
+694	171_charlotte_temple_brat	0	15	the	_	_	_	_	_	_	_	_	
+695	171_charlotte_temple_brat	0	16	Hesperian	_	_	_	_	_	_	_	_	
+696	171_charlotte_temple_brat	0	17	fruit	_	_	_	_	_	_	_	_	
+697	171_charlotte_temple_brat	0	18	within	_	_	_	_	_	_	_	_	
+698	171_charlotte_temple_brat	0	19	,	_	_	_	_	_	_	_	_	
+699	171_charlotte_temple_brat	0	20	were	_	_	_	_	_	_	_	_	
+700	171_charlotte_temple_brat	0	21	more	_	_	_	_	_	_	_	_	
+701	171_charlotte_temple_brat	0	22	watchful	_	_	_	_	_	_	_	_	
+702	171_charlotte_temple_brat	0	23	than	_	_	_	_	_	_	_	_	
+703	171_charlotte_temple_brat	0	24	those	_	_	_	_	_	_	_	_	
+704	171_charlotte_temple_brat	0	25	famed	_	_	_	_	_	_	_	_	
+705	171_charlotte_temple_brat	0	26	of	_	_	_	_	_	_	_	_	
+706	171_charlotte_temple_brat	0	27	old	_	_	_	_	_	_	_	_	
+707	171_charlotte_temple_brat	0	28	.	_	_	_	_	_	_	_	_	
+708	171_charlotte_temple_brat	0	0	“‘	_	_	_	_	_	_	_	_	
+709	171_charlotte_temple_brat	0	1	Tis	_	_	_	_	_	_	_	_	
+710	171_charlotte_temple_brat	0	2	a	_	_	_	_	_	_	_	_	
+711	171_charlotte_temple_brat	0	3	romantic	_	_	_	_	_	_	_	_	
+712	171_charlotte_temple_brat	0	4	attempt	_	_	_	_	_	_	_	_	
+713	171_charlotte_temple_brat	0	5	,	_	_	_	_	_	_	_	_	
+714	171_charlotte_temple_brat	0	6	”	_	_	_	_	_	_	_	_	
+715	171_charlotte_temple_brat	0	7	said	_	_	_	_	_	_	_	_	
+716	171_charlotte_temple_brat	0	8	he	_	_	_	_	_	_	_	_	(2)
+717	171_charlotte_temple_brat	0	9	;	_	_	_	_	_	_	_	_	
+718	171_charlotte_temple_brat	0	10	“	_	_	_	_	_	_	_	_	
+719	171_charlotte_temple_brat	0	11	and	_	_	_	_	_	_	_	_	
+720	171_charlotte_temple_brat	0	12	should	_	_	_	_	_	_	_	_	
+721	171_charlotte_temple_brat	0	13	I	_	_	_	_	_	_	_	_	(2)
+722	171_charlotte_temple_brat	0	14	even	_	_	_	_	_	_	_	_	
+723	171_charlotte_temple_brat	0	15	succeed	_	_	_	_	_	_	_	_	
+724	171_charlotte_temple_brat	0	16	in	_	_	_	_	_	_	_	_	
+725	171_charlotte_temple_brat	0	17	seeing	_	_	_	_	_	_	_	_	
+726	171_charlotte_temple_brat	0	18	and	_	_	_	_	_	_	_	_	
+727	171_charlotte_temple_brat	0	19	conversing	_	_	_	_	_	_	_	_	
+728	171_charlotte_temple_brat	0	20	with	_	_	_	_	_	_	_	_	
+729	171_charlotte_temple_brat	0	21	her	_	_	_	_	_	_	_	_	(17)
+730	171_charlotte_temple_brat	0	22	,	_	_	_	_	_	_	_	_	
+731	171_charlotte_temple_brat	0	23	it	_	_	_	_	_	_	_	_	
+732	171_charlotte_temple_brat	0	24	can	_	_	_	_	_	_	_	_	
+733	171_charlotte_temple_brat	0	25	be	_	_	_	_	_	_	_	_	
+734	171_charlotte_temple_brat	0	26	productive	_	_	_	_	_	_	_	_	
+735	171_charlotte_temple_brat	0	27	of	_	_	_	_	_	_	_	_	
+736	171_charlotte_temple_brat	0	28	no	_	_	_	_	_	_	_	_	
+737	171_charlotte_temple_brat	0	29	good	_	_	_	_	_	_	_	_	
+738	171_charlotte_temple_brat	0	30	:	_	_	_	_	_	_	_	_	
+739	171_charlotte_temple_brat	0	31	I	_	_	_	_	_	_	_	_	(2)
+740	171_charlotte_temple_brat	0	32	must	_	_	_	_	_	_	_	_	
+741	171_charlotte_temple_brat	0	33	of	_	_	_	_	_	_	_	_	
+742	171_charlotte_temple_brat	0	34	necessity	_	_	_	_	_	_	_	_	
+743	171_charlotte_temple_brat	0	35	leave	_	_	_	_	_	_	_	_	
+744	171_charlotte_temple_brat	0	36	England	_	_	_	_	_	_	_	_	
+745	171_charlotte_temple_brat	0	37	in	_	_	_	_	_	_	_	_	
+746	171_charlotte_temple_brat	0	38	a	_	_	_	_	_	_	_	_	
+747	171_charlotte_temple_brat	0	39	few	_	_	_	_	_	_	_	_	
+748	171_charlotte_temple_brat	0	40	days	_	_	_	_	_	_	_	_	
+749	171_charlotte_temple_brat	0	41	,	_	_	_	_	_	_	_	_	
+750	171_charlotte_temple_brat	0	42	and	_	_	_	_	_	_	_	_	
+751	171_charlotte_temple_brat	0	43	probably	_	_	_	_	_	_	_	_	
+752	171_charlotte_temple_brat	0	44	may	_	_	_	_	_	_	_	_	
+753	171_charlotte_temple_brat	0	45	never	_	_	_	_	_	_	_	_	
+754	171_charlotte_temple_brat	0	46	return	_	_	_	_	_	_	_	_	
+755	171_charlotte_temple_brat	0	47	;	_	_	_	_	_	_	_	_	
+756	171_charlotte_temple_brat	0	48	why	_	_	_	_	_	_	_	_	
+757	171_charlotte_temple_brat	0	49	then	_	_	_	_	_	_	_	_	
+758	171_charlotte_temple_brat	0	50	should	_	_	_	_	_	_	_	_	
+759	171_charlotte_temple_brat	0	51	I	_	_	_	_	_	_	_	_	(2)
+760	171_charlotte_temple_brat	0	52	endeavour	_	_	_	_	_	_	_	_	
+761	171_charlotte_temple_brat	0	53	to	_	_	_	_	_	_	_	_	
+762	171_charlotte_temple_brat	0	54	engage	_	_	_	_	_	_	_	_	
+763	171_charlotte_temple_brat	0	55	the	_	_	_	_	_	_	_	_	
+764	171_charlotte_temple_brat	0	56	affections	_	_	_	_	_	_	_	_	
+765	171_charlotte_temple_brat	0	57	of	_	_	_	_	_	_	_	_	
+766	171_charlotte_temple_brat	0	58	this	_	_	_	_	_	_	_	_	(17
+767	171_charlotte_temple_brat	0	59	lovely	_	_	_	_	_	_	_	_	
+768	171_charlotte_temple_brat	0	60	girl	_	_	_	_	_	_	_	_	17)
+769	171_charlotte_temple_brat	0	61	,	_	_	_	_	_	_	_	_	
+770	171_charlotte_temple_brat	0	62	only	_	_	_	_	_	_	_	_	
+771	171_charlotte_temple_brat	0	63	to	_	_	_	_	_	_	_	_	
+772	171_charlotte_temple_brat	0	64	leave	_	_	_	_	_	_	_	_	
+773	171_charlotte_temple_brat	0	65	her	_	_	_	_	_	_	_	_	(17)
+774	171_charlotte_temple_brat	0	66	a	_	_	_	_	_	_	_	_	
+775	171_charlotte_temple_brat	0	67	prey	_	_	_	_	_	_	_	_	
+776	171_charlotte_temple_brat	0	68	to	_	_	_	_	_	_	_	_	
+777	171_charlotte_temple_brat	0	69	a	_	_	_	_	_	_	_	_	
+778	171_charlotte_temple_brat	0	70	thousand	_	_	_	_	_	_	_	_	
+779	171_charlotte_temple_brat	0	71	inquietudes	_	_	_	_	_	_	_	_	
+780	171_charlotte_temple_brat	0	72	,	_	_	_	_	_	_	_	_	
+781	171_charlotte_temple_brat	0	73	of	_	_	_	_	_	_	_	_	
+782	171_charlotte_temple_brat	0	74	which	_	_	_	_	_	_	_	_	
+783	171_charlotte_temple_brat	0	75	at	_	_	_	_	_	_	_	_	
+784	171_charlotte_temple_brat	0	76	present	_	_	_	_	_	_	_	_	
+785	171_charlotte_temple_brat	0	77	she	_	_	_	_	_	_	_	_	(17)
+786	171_charlotte_temple_brat	0	78	has	_	_	_	_	_	_	_	_	
+787	171_charlotte_temple_brat	0	79	no	_	_	_	_	_	_	_	_	
+788	171_charlotte_temple_brat	0	80	idea	_	_	_	_	_	_	_	_	
+789	171_charlotte_temple_brat	0	81	?	_	_	_	_	_	_	_	_	
+790	171_charlotte_temple_brat	0	0	I	_	_	_	_	_	_	_	_	(2)
+791	171_charlotte_temple_brat	0	1	will	_	_	_	_	_	_	_	_	
+792	171_charlotte_temple_brat	0	2	return	_	_	_	_	_	_	_	_	
+793	171_charlotte_temple_brat	0	3	to	_	_	_	_	_	_	_	_	
+794	171_charlotte_temple_brat	0	4	Portsmouth	_	_	_	_	_	_	_	_	
+795	171_charlotte_temple_brat	0	5	and	_	_	_	_	_	_	_	_	
+796	171_charlotte_temple_brat	0	6	think	_	_	_	_	_	_	_	_	
+797	171_charlotte_temple_brat	0	7	no	_	_	_	_	_	_	_	_	
+798	171_charlotte_temple_brat	0	8	more	_	_	_	_	_	_	_	_	
+799	171_charlotte_temple_brat	0	9	about	_	_	_	_	_	_	_	_	
+800	171_charlotte_temple_brat	0	10	her	_	_	_	_	_	_	_	_	(17)
+801	171_charlotte_temple_brat	0	11	.	_	_	_	_	_	_	_	_	
+802	171_charlotte_temple_brat	0	12	”	_	_	_	_	_	_	_	_	
+803	171_charlotte_temple_brat	0	0	The	_	_	_	_	_	_	_	_	
+804	171_charlotte_temple_brat	0	1	evening	_	_	_	_	_	_	_	_	
+805	171_charlotte_temple_brat	0	2	now	_	_	_	_	_	_	_	_	
+806	171_charlotte_temple_brat	0	3	was	_	_	_	_	_	_	_	_	
+807	171_charlotte_temple_brat	0	4	closed	_	_	_	_	_	_	_	_	
+808	171_charlotte_temple_brat	0	5	;	_	_	_	_	_	_	_	_	
+809	171_charlotte_temple_brat	0	6	a	_	_	_	_	_	_	_	_	
+810	171_charlotte_temple_brat	0	7	serene	_	_	_	_	_	_	_	_	
+811	171_charlotte_temple_brat	0	8	stillness	_	_	_	_	_	_	_	_	
+812	171_charlotte_temple_brat	0	9	reigned	_	_	_	_	_	_	_	_	
+813	171_charlotte_temple_brat	0	10	;	_	_	_	_	_	_	_	_	
+814	171_charlotte_temple_brat	0	11	and	_	_	_	_	_	_	_	_	
+815	171_charlotte_temple_brat	0	12	the	_	_	_	_	_	_	_	_	
+816	171_charlotte_temple_brat	0	13	chaste	_	_	_	_	_	_	_	_	
+817	171_charlotte_temple_brat	0	14	Queen	_	_	_	_	_	_	_	_	
+818	171_charlotte_temple_brat	0	15	of	_	_	_	_	_	_	_	_	
+819	171_charlotte_temple_brat	0	16	Night	_	_	_	_	_	_	_	_	
+820	171_charlotte_temple_brat	0	17	with	_	_	_	_	_	_	_	_	
+821	171_charlotte_temple_brat	0	18	her	_	_	_	_	_	_	_	_	
+822	171_charlotte_temple_brat	0	19	silver	_	_	_	_	_	_	_	_	
+823	171_charlotte_temple_brat	0	20	crescent	_	_	_	_	_	_	_	_	
+824	171_charlotte_temple_brat	0	21	faintly	_	_	_	_	_	_	_	_	
+825	171_charlotte_temple_brat	0	22	illuminated	_	_	_	_	_	_	_	_	
+826	171_charlotte_temple_brat	0	23	the	_	_	_	_	_	_	_	_	
+827	171_charlotte_temple_brat	0	24	hemisphere	_	_	_	_	_	_	_	_	
+828	171_charlotte_temple_brat	0	25	.	_	_	_	_	_	_	_	_	
+829	171_charlotte_temple_brat	0	0	The	_	_	_	_	_	_	_	_	
+830	171_charlotte_temple_brat	0	1	mind	_	_	_	_	_	_	_	_	
+831	171_charlotte_temple_brat	0	2	of	_	_	_	_	_	_	_	_	
+832	171_charlotte_temple_brat	0	3	Montraville	_	_	_	_	_	_	_	_	(2)
+833	171_charlotte_temple_brat	0	4	was	_	_	_	_	_	_	_	_	
+834	171_charlotte_temple_brat	0	5	hushed	_	_	_	_	_	_	_	_	
+835	171_charlotte_temple_brat	0	6	into	_	_	_	_	_	_	_	_	
+836	171_charlotte_temple_brat	0	7	composure	_	_	_	_	_	_	_	_	
+837	171_charlotte_temple_brat	0	8	by	_	_	_	_	_	_	_	_	
+838	171_charlotte_temple_brat	0	9	the	_	_	_	_	_	_	_	_	
+839	171_charlotte_temple_brat	0	10	serenity	_	_	_	_	_	_	_	_	
+840	171_charlotte_temple_brat	0	11	of	_	_	_	_	_	_	_	_	
+841	171_charlotte_temple_brat	0	12	the	_	_	_	_	_	_	_	_	
+842	171_charlotte_temple_brat	0	13	surrounding	_	_	_	_	_	_	_	_	
+843	171_charlotte_temple_brat	0	14	objects	_	_	_	_	_	_	_	_	
+844	171_charlotte_temple_brat	0	15	.	_	_	_	_	_	_	_	_	
+845	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+846	171_charlotte_temple_brat	0	1	I	_	_	_	_	_	_	_	_	(2)
+847	171_charlotte_temple_brat	0	2	will	_	_	_	_	_	_	_	_	
+848	171_charlotte_temple_brat	0	3	think	_	_	_	_	_	_	_	_	
+849	171_charlotte_temple_brat	0	4	on	_	_	_	_	_	_	_	_	
+850	171_charlotte_temple_brat	0	5	her	_	_	_	_	_	_	_	_	(17)
+851	171_charlotte_temple_brat	0	6	no	_	_	_	_	_	_	_	_	
+852	171_charlotte_temple_brat	0	7	more	_	_	_	_	_	_	_	_	
+853	171_charlotte_temple_brat	0	8	,	_	_	_	_	_	_	_	_	
+854	171_charlotte_temple_brat	0	9	”	_	_	_	_	_	_	_	_	
+855	171_charlotte_temple_brat	0	10	said	_	_	_	_	_	_	_	_	
+856	171_charlotte_temple_brat	0	11	he	_	_	_	_	_	_	_	_	(2)
+857	171_charlotte_temple_brat	0	12	,	_	_	_	_	_	_	_	_	
+858	171_charlotte_temple_brat	0	13	and	_	_	_	_	_	_	_	_	
+859	171_charlotte_temple_brat	0	14	turned	_	_	_	_	_	_	_	_	
+860	171_charlotte_temple_brat	0	15	with	_	_	_	_	_	_	_	_	
+861	171_charlotte_temple_brat	0	16	an	_	_	_	_	_	_	_	_	
+862	171_charlotte_temple_brat	0	17	intention	_	_	_	_	_	_	_	_	
+863	171_charlotte_temple_brat	0	18	to	_	_	_	_	_	_	_	_	
+864	171_charlotte_temple_brat	0	19	leave	_	_	_	_	_	_	_	_	
+865	171_charlotte_temple_brat	0	20	the	_	_	_	_	_	_	_	_	
+866	171_charlotte_temple_brat	0	21	place	_	_	_	_	_	_	_	_	
+867	171_charlotte_temple_brat	0	22	;	_	_	_	_	_	_	_	_	
+868	171_charlotte_temple_brat	0	23	but	_	_	_	_	_	_	_	_	
+869	171_charlotte_temple_brat	0	24	as	_	_	_	_	_	_	_	_	
+870	171_charlotte_temple_brat	0	25	he	_	_	_	_	_	_	_	_	(2)
+871	171_charlotte_temple_brat	0	26	turned	_	_	_	_	_	_	_	_	
+872	171_charlotte_temple_brat	0	27	,	_	_	_	_	_	_	_	_	
+873	171_charlotte_temple_brat	0	28	he	_	_	_	_	_	_	_	_	(2)
+874	171_charlotte_temple_brat	0	29	saw	_	_	_	_	_	_	_	_	
+875	171_charlotte_temple_brat	0	30	the	_	_	_	_	_	_	_	_	
+876	171_charlotte_temple_brat	0	31	gate	_	_	_	_	_	_	_	_	
+877	171_charlotte_temple_brat	0	32	which	_	_	_	_	_	_	_	_	
+878	171_charlotte_temple_brat	0	33	led	_	_	_	_	_	_	_	_	
+879	171_charlotte_temple_brat	0	34	to	_	_	_	_	_	_	_	_	
+880	171_charlotte_temple_brat	0	35	the	_	_	_	_	_	_	_	_	
+881	171_charlotte_temple_brat	0	36	pleasure	_	_	_	_	_	_	_	_	
+882	171_charlotte_temple_brat	0	37	grounds	_	_	_	_	_	_	_	_	
+883	171_charlotte_temple_brat	0	38	open	_	_	_	_	_	_	_	_	
+884	171_charlotte_temple_brat	0	39	,	_	_	_	_	_	_	_	_	
+885	171_charlotte_temple_brat	0	40	and	_	_	_	_	_	_	_	_	
+886	171_charlotte_temple_brat	0	41	two	_	_	_	_	_	_	_	_	(26
+887	171_charlotte_temple_brat	0	42	women	_	_	_	_	_	_	_	_	26)
+888	171_charlotte_temple_brat	0	43	come	_	_	_	_	_	_	_	_	
+889	171_charlotte_temple_brat	0	44	out	_	_	_	_	_	_	_	_	
+890	171_charlotte_temple_brat	0	45	,	_	_	_	_	_	_	_	_	
+891	171_charlotte_temple_brat	0	46	who	_	_	_	_	_	_	_	_	
+892	171_charlotte_temple_brat	0	47	walked	_	_	_	_	_	_	_	_	
+893	171_charlotte_temple_brat	0	48	arm-in-arm	_	_	_	_	_	_	_	_	
+894	171_charlotte_temple_brat	0	49	across	_	_	_	_	_	_	_	_	
+895	171_charlotte_temple_brat	0	50	the	_	_	_	_	_	_	_	_	
+896	171_charlotte_temple_brat	0	51	field	_	_	_	_	_	_	_	_	
+897	171_charlotte_temple_brat	0	52	.	_	_	_	_	_	_	_	_	
+898	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+899	171_charlotte_temple_brat	0	1	I	_	_	_	_	_	_	_	_	(2)
+900	171_charlotte_temple_brat	0	2	will	_	_	_	_	_	_	_	_	
+901	171_charlotte_temple_brat	0	3	at	_	_	_	_	_	_	_	_	
+902	171_charlotte_temple_brat	0	4	least	_	_	_	_	_	_	_	_	
+903	171_charlotte_temple_brat	0	5	see	_	_	_	_	_	_	_	_	
+904	171_charlotte_temple_brat	0	6	who	_	_	_	_	_	_	_	_	
+905	171_charlotte_temple_brat	0	7	these	_	_	_	_	_	_	_	_	
+906	171_charlotte_temple_brat	0	8	are	_	_	_	_	_	_	_	_	
+907	171_charlotte_temple_brat	0	9	,	_	_	_	_	_	_	_	_	
+908	171_charlotte_temple_brat	0	10	”	_	_	_	_	_	_	_	_	
+909	171_charlotte_temple_brat	0	11	said	_	_	_	_	_	_	_	_	
+910	171_charlotte_temple_brat	0	12	he	_	_	_	_	_	_	_	_	(2)
+911	171_charlotte_temple_brat	0	13	.	_	_	_	_	_	_	_	_	
+912	171_charlotte_temple_brat	0	0	He	_	_	_	_	_	_	_	_	(2)
+913	171_charlotte_temple_brat	0	1	overtook	_	_	_	_	_	_	_	_	
+914	171_charlotte_temple_brat	0	2	them	_	_	_	_	_	_	_	_	(26)
+915	171_charlotte_temple_brat	0	3	,	_	_	_	_	_	_	_	_	
+916	171_charlotte_temple_brat	0	4	and	_	_	_	_	_	_	_	_	
+917	171_charlotte_temple_brat	0	5	giving	_	_	_	_	_	_	_	_	
+918	171_charlotte_temple_brat	0	6	them	_	_	_	_	_	_	_	_	(26)
+919	171_charlotte_temple_brat	0	7	the	_	_	_	_	_	_	_	_	
+920	171_charlotte_temple_brat	0	8	compliments	_	_	_	_	_	_	_	_	
+921	171_charlotte_temple_brat	0	9	of	_	_	_	_	_	_	_	_	
+922	171_charlotte_temple_brat	0	10	the	_	_	_	_	_	_	_	_	
+923	171_charlotte_temple_brat	0	11	evening	_	_	_	_	_	_	_	_	
+924	171_charlotte_temple_brat	0	12	,	_	_	_	_	_	_	_	_	
+925	171_charlotte_temple_brat	0	13	begged	_	_	_	_	_	_	_	_	
+926	171_charlotte_temple_brat	0	14	leave	_	_	_	_	_	_	_	_	
+927	171_charlotte_temple_brat	0	15	to	_	_	_	_	_	_	_	_	
+928	171_charlotte_temple_brat	0	16	see	_	_	_	_	_	_	_	_	
+929	171_charlotte_temple_brat	0	17	them	_	_	_	_	_	_	_	_	(26)
+930	171_charlotte_temple_brat	0	18	into	_	_	_	_	_	_	_	_	
+931	171_charlotte_temple_brat	0	19	the	_	_	_	_	_	_	_	_	
+932	171_charlotte_temple_brat	0	20	more	_	_	_	_	_	_	_	_	
+933	171_charlotte_temple_brat	0	21	frequented	_	_	_	_	_	_	_	_	
+934	171_charlotte_temple_brat	0	22	parts	_	_	_	_	_	_	_	_	
+935	171_charlotte_temple_brat	0	23	of	_	_	_	_	_	_	_	_	
+936	171_charlotte_temple_brat	0	24	the	_	_	_	_	_	_	_	_	
+937	171_charlotte_temple_brat	0	25	town	_	_	_	_	_	_	_	_	
+938	171_charlotte_temple_brat	0	26	:	_	_	_	_	_	_	_	_	
+939	171_charlotte_temple_brat	0	27	but	_	_	_	_	_	_	_	_	
+940	171_charlotte_temple_brat	0	28	how	_	_	_	_	_	_	_	_	
+941	171_charlotte_temple_brat	0	29	was	_	_	_	_	_	_	_	_	
+942	171_charlotte_temple_brat	0	30	he	_	_	_	_	_	_	_	_	(2)
+943	171_charlotte_temple_brat	0	31	delighted	_	_	_	_	_	_	_	_	
+944	171_charlotte_temple_brat	0	32	,	_	_	_	_	_	_	_	_	
+945	171_charlotte_temple_brat	0	33	when	_	_	_	_	_	_	_	_	
+946	171_charlotte_temple_brat	0	34	,	_	_	_	_	_	_	_	_	
+947	171_charlotte_temple_brat	0	35	waiting	_	_	_	_	_	_	_	_	
+948	171_charlotte_temple_brat	0	36	for	_	_	_	_	_	_	_	_	
+949	171_charlotte_temple_brat	0	37	an	_	_	_	_	_	_	_	_	
+950	171_charlotte_temple_brat	0	38	answer	_	_	_	_	_	_	_	_	
+951	171_charlotte_temple_brat	0	39	,	_	_	_	_	_	_	_	_	
+952	171_charlotte_temple_brat	0	40	he	_	_	_	_	_	_	_	_	(2)
+953	171_charlotte_temple_brat	0	41	discovered	_	_	_	_	_	_	_	_	
+954	171_charlotte_temple_brat	0	42	,	_	_	_	_	_	_	_	_	
+955	171_charlotte_temple_brat	0	43	under	_	_	_	_	_	_	_	_	
+956	171_charlotte_temple_brat	0	44	the	_	_	_	_	_	_	_	_	
+957	171_charlotte_temple_brat	0	45	concealment	_	_	_	_	_	_	_	_	
+958	171_charlotte_temple_brat	0	46	of	_	_	_	_	_	_	_	_	
+959	171_charlotte_temple_brat	0	47	a	_	_	_	_	_	_	_	_	
+960	171_charlotte_temple_brat	0	48	large	_	_	_	_	_	_	_	_	
+961	171_charlotte_temple_brat	0	49	bonnet	_	_	_	_	_	_	_	_	
+962	171_charlotte_temple_brat	0	50	,	_	_	_	_	_	_	_	_	
+963	171_charlotte_temple_brat	0	51	the	_	_	_	_	_	_	_	_	
+964	171_charlotte_temple_brat	0	52	face	_	_	_	_	_	_	_	_	
+965	171_charlotte_temple_brat	0	53	of	_	_	_	_	_	_	_	_	
+966	171_charlotte_temple_brat	0	54	Charlotte	_	_	_	_	_	_	_	_	(17
+967	171_charlotte_temple_brat	0	55	Temple	_	_	_	_	_	_	_	_	17)
+968	171_charlotte_temple_brat	0	56	.	_	_	_	_	_	_	_	_	
+969	171_charlotte_temple_brat	0	0	He	_	_	_	_	_	_	_	_	(2)
+970	171_charlotte_temple_brat	0	1	soon	_	_	_	_	_	_	_	_	
+971	171_charlotte_temple_brat	0	2	found	_	_	_	_	_	_	_	_	
+972	171_charlotte_temple_brat	0	3	means	_	_	_	_	_	_	_	_	
+973	171_charlotte_temple_brat	0	4	to	_	_	_	_	_	_	_	_	
+974	171_charlotte_temple_brat	0	5	ingratiate	_	_	_	_	_	_	_	_	
+975	171_charlotte_temple_brat	0	6	himself	_	_	_	_	_	_	_	_	(2)
+976	171_charlotte_temple_brat	0	7	with	_	_	_	_	_	_	_	_	
+977	171_charlotte_temple_brat	0	8	her	_	_	_	_	_	_	_	_	(27|(17)
+978	171_charlotte_temple_brat	0	9	companion	_	_	_	_	_	_	_	_	
+979	171_charlotte_temple_brat	0	10	,	_	_	_	_	_	_	_	_	
+980	171_charlotte_temple_brat	0	11	who	_	_	_	_	_	_	_	_	
+981	171_charlotte_temple_brat	0	12	was	_	_	_	_	_	_	_	_	
+982	171_charlotte_temple_brat	0	13	a	_	_	_	_	_	_	_	_	(27
+983	171_charlotte_temple_brat	0	14	French	_	_	_	_	_	_	_	_	
+984	171_charlotte_temple_brat	0	15	teacher	_	_	_	_	_	_	_	_	
+985	171_charlotte_temple_brat	0	16	at	_	_	_	_	_	_	_	_	
+986	171_charlotte_temple_brat	0	17	the	_	_	_	_	_	_	_	_	
+987	171_charlotte_temple_brat	0	18	school	_	_	_	_	_	_	_	_	27)|27)
+988	171_charlotte_temple_brat	0	19	,	_	_	_	_	_	_	_	_	
+989	171_charlotte_temple_brat	0	20	and	_	_	_	_	_	_	_	_	
+990	171_charlotte_temple_brat	0	21	,	_	_	_	_	_	_	_	_	
+991	171_charlotte_temple_brat	0	22	at	_	_	_	_	_	_	_	_	
+992	171_charlotte_temple_brat	0	23	parting	_	_	_	_	_	_	_	_	
+993	171_charlotte_temple_brat	0	24	,	_	_	_	_	_	_	_	_	
+994	171_charlotte_temple_brat	0	25	slipped	_	_	_	_	_	_	_	_	
+995	171_charlotte_temple_brat	0	26	a	_	_	_	_	_	_	_	_	
+996	171_charlotte_temple_brat	0	27	letter	_	_	_	_	_	_	_	_	
+997	171_charlotte_temple_brat	0	28	he	_	_	_	_	_	_	_	_	(2)
+998	171_charlotte_temple_brat	0	29	had	_	_	_	_	_	_	_	_	
+999	171_charlotte_temple_brat	0	30	purposely	_	_	_	_	_	_	_	_	
+1000	171_charlotte_temple_brat	0	31	written	_	_	_	_	_	_	_	_	
+1001	171_charlotte_temple_brat	0	32	,	_	_	_	_	_	_	_	_	
+1002	171_charlotte_temple_brat	0	33	into	_	_	_	_	_	_	_	_	
+1003	171_charlotte_temple_brat	0	34	Charlotte	_	_	_	_	_	_	_	_	(17)
+1004	171_charlotte_temple_brat	0	35	’s	_	_	_	_	_	_	_	_	
+1005	171_charlotte_temple_brat	0	36	hand	_	_	_	_	_	_	_	_	
+1006	171_charlotte_temple_brat	0	37	,	_	_	_	_	_	_	_	_	
+1007	171_charlotte_temple_brat	0	38	and	_	_	_	_	_	_	_	_	
+1008	171_charlotte_temple_brat	0	39	five	_	_	_	_	_	_	_	_	
+1009	171_charlotte_temple_brat	0	40	guineas	_	_	_	_	_	_	_	_	
+1010	171_charlotte_temple_brat	0	41	into	_	_	_	_	_	_	_	_	
+1011	171_charlotte_temple_brat	0	42	that	_	_	_	_	_	_	_	_	
+1012	171_charlotte_temple_brat	0	43	of	_	_	_	_	_	_	_	_	
+1013	171_charlotte_temple_brat	0	44	Mademoiselle	_	_	_	_	_	_	_	_	(27)
+1014	171_charlotte_temple_brat	0	45	,	_	_	_	_	_	_	_	_	
+1015	171_charlotte_temple_brat	0	46	who	_	_	_	_	_	_	_	_	
+1016	171_charlotte_temple_brat	0	47	promised	_	_	_	_	_	_	_	_	
+1017	171_charlotte_temple_brat	0	48	she	_	_	_	_	_	_	_	_	(27)
+1018	171_charlotte_temple_brat	0	49	would	_	_	_	_	_	_	_	_	
+1019	171_charlotte_temple_brat	0	50	endeavour	_	_	_	_	_	_	_	_	
+1020	171_charlotte_temple_brat	0	51	to	_	_	_	_	_	_	_	_	
+1021	171_charlotte_temple_brat	0	52	bring	_	_	_	_	_	_	_	_	
+1022	171_charlotte_temple_brat	0	53	her	_	_	_	_	_	_	_	_	(17|(27)
+1023	171_charlotte_temple_brat	0	54	young	_	_	_	_	_	_	_	_	
+1024	171_charlotte_temple_brat	0	55	charge	_	_	_	_	_	_	_	_	17)
+1025	171_charlotte_temple_brat	0	56	into	_	_	_	_	_	_	_	_	
+1026	171_charlotte_temple_brat	0	57	the	_	_	_	_	_	_	_	_	
+1027	171_charlotte_temple_brat	0	58	field	_	_	_	_	_	_	_	_	
+1028	171_charlotte_temple_brat	0	59	again	_	_	_	_	_	_	_	_	
+1029	171_charlotte_temple_brat	0	60	the	_	_	_	_	_	_	_	_	
+1030	171_charlotte_temple_brat	0	61	next	_	_	_	_	_	_	_	_	
+1031	171_charlotte_temple_brat	0	62	evening	_	_	_	_	_	_	_	_	
+1032	171_charlotte_temple_brat	0	63	.	_	_	_	_	_	_	_	_	
+1033	171_charlotte_temple_brat	0	0	CHAPTER	_	_	_	_	_	_	_	_	
+1034	171_charlotte_temple_brat	0	1	II	_	_	_	_	_	_	_	_	
+1035	171_charlotte_temple_brat	0	2	.	_	_	_	_	_	_	_	_	
+1036	171_charlotte_temple_brat	0	0	DOMESTIC	_	_	_	_	_	_	_	_	
+1037	171_charlotte_temple_brat	0	1	CONCERNS	_	_	_	_	_	_	_	_	
+1038	171_charlotte_temple_brat	0	2	.	_	_	_	_	_	_	_	_	
+1039	171_charlotte_temple_brat	0	0	MR.	_	_	_	_	_	_	_	_	(28
+1040	171_charlotte_temple_brat	0	1	Temple	_	_	_	_	_	_	_	_	28)
+1041	171_charlotte_temple_brat	0	2	was	_	_	_	_	_	_	_	_	
+1042	171_charlotte_temple_brat	0	3	the	_	_	_	_	_	_	_	_	(63
+1043	171_charlotte_temple_brat	0	4	youngest	_	_	_	_	_	_	_	_	
+1044	171_charlotte_temple_brat	0	5	son	_	_	_	_	_	_	_	_	
+1045	171_charlotte_temple_brat	0	6	of	_	_	_	_	_	_	_	_	
+1046	171_charlotte_temple_brat	0	7	a	_	_	_	_	_	_	_	_	(29
+1047	171_charlotte_temple_brat	0	8	nobleman	_	_	_	_	_	_	_	_	
+1048	171_charlotte_temple_brat	0	9	whose	_	_	_	_	_	_	_	_	
+1049	171_charlotte_temple_brat	0	10	fortune	_	_	_	_	_	_	_	_	
+1050	171_charlotte_temple_brat	0	11	was	_	_	_	_	_	_	_	_	
+1051	171_charlotte_temple_brat	0	12	by	_	_	_	_	_	_	_	_	
+1052	171_charlotte_temple_brat	0	13	no	_	_	_	_	_	_	_	_	
+1053	171_charlotte_temple_brat	0	14	means	_	_	_	_	_	_	_	_	
+1054	171_charlotte_temple_brat	0	15	adequate	_	_	_	_	_	_	_	_	
+1055	171_charlotte_temple_brat	0	16	to	_	_	_	_	_	_	_	_	
+1056	171_charlotte_temple_brat	0	17	the	_	_	_	_	_	_	_	_	
+1057	171_charlotte_temple_brat	0	18	antiquity	_	_	_	_	_	_	_	_	
+1058	171_charlotte_temple_brat	0	19	,	_	_	_	_	_	_	_	_	
+1059	171_charlotte_temple_brat	0	20	grandeur	_	_	_	_	_	_	_	_	
+1060	171_charlotte_temple_brat	0	21	,	_	_	_	_	_	_	_	_	
+1061	171_charlotte_temple_brat	0	22	and	_	_	_	_	_	_	_	_	
+1062	171_charlotte_temple_brat	0	23	I	_	_	_	_	_	_	_	_	(30)
+1063	171_charlotte_temple_brat	0	24	may	_	_	_	_	_	_	_	_	
+1064	171_charlotte_temple_brat	0	25	add	_	_	_	_	_	_	_	_	
+1065	171_charlotte_temple_brat	0	26	,	_	_	_	_	_	_	_	_	
+1066	171_charlotte_temple_brat	0	27	pride	_	_	_	_	_	_	_	_	
+1067	171_charlotte_temple_brat	0	28	of	_	_	_	_	_	_	_	_	
+1068	171_charlotte_temple_brat	0	29	the	_	_	_	_	_	_	_	_	
+1069	171_charlotte_temple_brat	0	30	family	_	_	_	_	_	_	_	_	29)|63)|
+1070	171_charlotte_temple_brat	0	31	.	_	_	_	_	_	_	_	_	
+1071	171_charlotte_temple_brat	0	0	He	_	_	_	_	_	_	_	_	(28)
+1072	171_charlotte_temple_brat	0	1	saw	_	_	_	_	_	_	_	_	
+1073	171_charlotte_temple_brat	0	2	his	_	_	_	_	_	_	_	_	(31|(28)
+1074	171_charlotte_temple_brat	0	3	elder	_	_	_	_	_	_	_	_	
+1075	171_charlotte_temple_brat	0	4	brother	_	_	_	_	_	_	_	_	31)
+1076	171_charlotte_temple_brat	0	5	made	_	_	_	_	_	_	_	_	
+1077	171_charlotte_temple_brat	0	6	completely	_	_	_	_	_	_	_	_	
+1078	171_charlotte_temple_brat	0	7	wretched	_	_	_	_	_	_	_	_	
+1079	171_charlotte_temple_brat	0	8	by	_	_	_	_	_	_	_	_	
+1080	171_charlotte_temple_brat	0	9	marrying	_	_	_	_	_	_	_	_	
+1081	171_charlotte_temple_brat	0	10	a	_	_	_	_	_	_	_	_	(32
+1082	171_charlotte_temple_brat	0	11	disagreeable	_	_	_	_	_	_	_	_	
+1083	171_charlotte_temple_brat	0	12	woman	_	_	_	_	_	_	_	_	
+1084	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+1085	171_charlotte_temple_brat	0	14	whose	_	_	_	_	_	_	_	_	
+1086	171_charlotte_temple_brat	0	15	fortune	_	_	_	_	_	_	_	_	
+1087	171_charlotte_temple_brat	0	16	helped	_	_	_	_	_	_	_	_	
+1088	171_charlotte_temple_brat	0	17	to	_	_	_	_	_	_	_	_	
+1089	171_charlotte_temple_brat	0	18	prop	_	_	_	_	_	_	_	_	
+1090	171_charlotte_temple_brat	0	19	the	_	_	_	_	_	_	_	_	
+1091	171_charlotte_temple_brat	0	20	sinking	_	_	_	_	_	_	_	_	
+1092	171_charlotte_temple_brat	0	21	dignity	_	_	_	_	_	_	_	_	
+1093	171_charlotte_temple_brat	0	22	of	_	_	_	_	_	_	_	_	
+1094	171_charlotte_temple_brat	0	23	the	_	_	_	_	_	_	_	_	
+1095	171_charlotte_temple_brat	0	24	house	_	_	_	_	_	_	_	_	|32)
+1096	171_charlotte_temple_brat	0	25	;	_	_	_	_	_	_	_	_	
+1097	171_charlotte_temple_brat	0	26	and	_	_	_	_	_	_	_	_	
+1098	171_charlotte_temple_brat	0	27	he	_	_	_	_	_	_	_	_	(28)
+1099	171_charlotte_temple_brat	0	28	beheld	_	_	_	_	_	_	_	_	
+1100	171_charlotte_temple_brat	0	29	his	_	_	_	_	_	_	_	_	(34|(28)
+1101	171_charlotte_temple_brat	0	30	sisters	_	_	_	_	_	_	_	_	34)
+1102	171_charlotte_temple_brat	0	31	legally	_	_	_	_	_	_	_	_	
+1103	171_charlotte_temple_brat	0	32	prostituted	_	_	_	_	_	_	_	_	
+1104	171_charlotte_temple_brat	0	33	to	_	_	_	_	_	_	_	_	
+1105	171_charlotte_temple_brat	0	34	old	_	_	_	_	_	_	_	_	(35
+1106	171_charlotte_temple_brat	0	35	,	_	_	_	_	_	_	_	_	
+1107	171_charlotte_temple_brat	0	36	decrepid	_	_	_	_	_	_	_	_	
+1108	171_charlotte_temple_brat	0	37	men	_	_	_	_	_	_	_	_	35)
+1109	171_charlotte_temple_brat	0	38	,	_	_	_	_	_	_	_	_	
+1110	171_charlotte_temple_brat	0	39	whose	_	_	_	_	_	_	_	_	
+1111	171_charlotte_temple_brat	0	40	titles	_	_	_	_	_	_	_	_	
+1112	171_charlotte_temple_brat	0	41	gave	_	_	_	_	_	_	_	_	
+1113	171_charlotte_temple_brat	0	42	them	_	_	_	_	_	_	_	_	(34)
+1114	171_charlotte_temple_brat	0	43	consequence	_	_	_	_	_	_	_	_	
+1115	171_charlotte_temple_brat	0	44	in	_	_	_	_	_	_	_	_	
+1116	171_charlotte_temple_brat	0	45	the	_	_	_	_	_	_	_	_	
+1117	171_charlotte_temple_brat	0	46	eyes	_	_	_	_	_	_	_	_	
+1118	171_charlotte_temple_brat	0	47	of	_	_	_	_	_	_	_	_	
+1119	171_charlotte_temple_brat	0	48	the	_	_	_	_	_	_	_	_	
+1120	171_charlotte_temple_brat	0	49	world	_	_	_	_	_	_	_	_	
+1121	171_charlotte_temple_brat	0	50	,	_	_	_	_	_	_	_	_	
+1122	171_charlotte_temple_brat	0	51	and	_	_	_	_	_	_	_	_	
+1123	171_charlotte_temple_brat	0	52	whose	_	_	_	_	_	_	_	_	
+1124	171_charlotte_temple_brat	0	53	affluence	_	_	_	_	_	_	_	_	
+1125	171_charlotte_temple_brat	0	54	rendered	_	_	_	_	_	_	_	_	
+1126	171_charlotte_temple_brat	0	55	them	_	_	_	_	_	_	_	_	(34)
+1127	171_charlotte_temple_brat	0	56	splendidly	_	_	_	_	_	_	_	_	
+1128	171_charlotte_temple_brat	0	57	miserable	_	_	_	_	_	_	_	_	
+1129	171_charlotte_temple_brat	0	58	.	_	_	_	_	_	_	_	_	
+1130	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+1131	171_charlotte_temple_brat	0	1	I	_	_	_	_	_	_	_	_	(28)
+1132	171_charlotte_temple_brat	0	2	will	_	_	_	_	_	_	_	_	
+1133	171_charlotte_temple_brat	0	3	not	_	_	_	_	_	_	_	_	
+1134	171_charlotte_temple_brat	0	4	sacrifice	_	_	_	_	_	_	_	_	
+1135	171_charlotte_temple_brat	0	5	internal	_	_	_	_	_	_	_	_	
+1136	171_charlotte_temple_brat	0	6	happiness	_	_	_	_	_	_	_	_	
+1137	171_charlotte_temple_brat	0	7	for	_	_	_	_	_	_	_	_	
+1138	171_charlotte_temple_brat	0	8	outward	_	_	_	_	_	_	_	_	
+1139	171_charlotte_temple_brat	0	9	shew	_	_	_	_	_	_	_	_	
+1140	171_charlotte_temple_brat	0	10	,	_	_	_	_	_	_	_	_	
+1141	171_charlotte_temple_brat	0	11	”	_	_	_	_	_	_	_	_	
+1142	171_charlotte_temple_brat	0	12	said	_	_	_	_	_	_	_	_	
+1143	171_charlotte_temple_brat	0	13	he	_	_	_	_	_	_	_	_	(28)
+1144	171_charlotte_temple_brat	0	14	:	_	_	_	_	_	_	_	_	
+1145	171_charlotte_temple_brat	0	15	“	_	_	_	_	_	_	_	_	
+1146	171_charlotte_temple_brat	0	16	I	_	_	_	_	_	_	_	_	(28)
+1147	171_charlotte_temple_brat	0	17	will	_	_	_	_	_	_	_	_	
+1148	171_charlotte_temple_brat	0	18	seek	_	_	_	_	_	_	_	_	
+1149	171_charlotte_temple_brat	0	19	Content	_	_	_	_	_	_	_	_	
+1150	171_charlotte_temple_brat	0	20	;	_	_	_	_	_	_	_	_	
+1151	171_charlotte_temple_brat	0	21	and	_	_	_	_	_	_	_	_	
+1152	171_charlotte_temple_brat	0	22	,	_	_	_	_	_	_	_	_	
+1153	171_charlotte_temple_brat	0	23	if	_	_	_	_	_	_	_	_	
+1154	171_charlotte_temple_brat	0	24	I	_	_	_	_	_	_	_	_	(28)
+1155	171_charlotte_temple_brat	0	25	find	_	_	_	_	_	_	_	_	
+1156	171_charlotte_temple_brat	0	26	her	_	_	_	_	_	_	_	_	
+1157	171_charlotte_temple_brat	0	27	in	_	_	_	_	_	_	_	_	
+1158	171_charlotte_temple_brat	0	28	a	_	_	_	_	_	_	_	_	
+1159	171_charlotte_temple_brat	0	29	cottage	_	_	_	_	_	_	_	_	
+1160	171_charlotte_temple_brat	0	30	,	_	_	_	_	_	_	_	_	
+1161	171_charlotte_temple_brat	0	31	will	_	_	_	_	_	_	_	_	
+1162	171_charlotte_temple_brat	0	32	embrace	_	_	_	_	_	_	_	_	
+1163	171_charlotte_temple_brat	0	33	her	_	_	_	_	_	_	_	_	
+1164	171_charlotte_temple_brat	0	34	with	_	_	_	_	_	_	_	_	
+1165	171_charlotte_temple_brat	0	35	as	_	_	_	_	_	_	_	_	
+1166	171_charlotte_temple_brat	0	36	much	_	_	_	_	_	_	_	_	
+1167	171_charlotte_temple_brat	0	37	cordiality	_	_	_	_	_	_	_	_	
+1168	171_charlotte_temple_brat	0	38	as	_	_	_	_	_	_	_	_	
+1169	171_charlotte_temple_brat	0	39	I	_	_	_	_	_	_	_	_	(28)
+1170	171_charlotte_temple_brat	0	40	should	_	_	_	_	_	_	_	_	
+1171	171_charlotte_temple_brat	0	41	if	_	_	_	_	_	_	_	_	
+1172	171_charlotte_temple_brat	0	42	seated	_	_	_	_	_	_	_	_	
+1173	171_charlotte_temple_brat	0	43	on	_	_	_	_	_	_	_	_	
+1174	171_charlotte_temple_brat	0	44	a	_	_	_	_	_	_	_	_	
+1175	171_charlotte_temple_brat	0	45	throne	_	_	_	_	_	_	_	_	
+1176	171_charlotte_temple_brat	0	46	.	_	_	_	_	_	_	_	_	
+1177	171_charlotte_temple_brat	0	47	”	_	_	_	_	_	_	_	_	
+1178	171_charlotte_temple_brat	0	0	Mr.	_	_	_	_	_	_	_	_	(28
+1179	171_charlotte_temple_brat	0	1	Temple	_	_	_	_	_	_	_	_	28)
+1180	171_charlotte_temple_brat	0	2	possessed	_	_	_	_	_	_	_	_	
+1181	171_charlotte_temple_brat	0	3	a	_	_	_	_	_	_	_	_	
+1182	171_charlotte_temple_brat	0	4	small	_	_	_	_	_	_	_	_	
+1183	171_charlotte_temple_brat	0	5	estate	_	_	_	_	_	_	_	_	
+1184	171_charlotte_temple_brat	0	6	of	_	_	_	_	_	_	_	_	
+1185	171_charlotte_temple_brat	0	7	about	_	_	_	_	_	_	_	_	
+1186	171_charlotte_temple_brat	0	8	five	_	_	_	_	_	_	_	_	
+1187	171_charlotte_temple_brat	0	9	hundred	_	_	_	_	_	_	_	_	
+1188	171_charlotte_temple_brat	0	10	pounds	_	_	_	_	_	_	_	_	
+1189	171_charlotte_temple_brat	0	11	a	_	_	_	_	_	_	_	_	
+1190	171_charlotte_temple_brat	0	12	year	_	_	_	_	_	_	_	_	
+1191	171_charlotte_temple_brat	0	13	;	_	_	_	_	_	_	_	_	
+1192	171_charlotte_temple_brat	0	14	and	_	_	_	_	_	_	_	_	
+1193	171_charlotte_temple_brat	0	15	with	_	_	_	_	_	_	_	_	
+1194	171_charlotte_temple_brat	0	16	that	_	_	_	_	_	_	_	_	
+1195	171_charlotte_temple_brat	0	17	he	_	_	_	_	_	_	_	_	(28)
+1196	171_charlotte_temple_brat	0	18	resolved	_	_	_	_	_	_	_	_	
+1197	171_charlotte_temple_brat	0	19	to	_	_	_	_	_	_	_	_	
+1198	171_charlotte_temple_brat	0	20	preserve	_	_	_	_	_	_	_	_	
+1199	171_charlotte_temple_brat	0	21	independence	_	_	_	_	_	_	_	_	
+1200	171_charlotte_temple_brat	0	22	,	_	_	_	_	_	_	_	_	
+1201	171_charlotte_temple_brat	0	23	to	_	_	_	_	_	_	_	_	
+1202	171_charlotte_temple_brat	0	24	marry	_	_	_	_	_	_	_	_	
+1203	171_charlotte_temple_brat	0	25	where	_	_	_	_	_	_	_	_	
+1204	171_charlotte_temple_brat	0	26	the	_	_	_	_	_	_	_	_	
+1205	171_charlotte_temple_brat	0	27	feelings	_	_	_	_	_	_	_	_	
+1206	171_charlotte_temple_brat	0	28	of	_	_	_	_	_	_	_	_	
+1207	171_charlotte_temple_brat	0	29	his	_	_	_	_	_	_	_	_	(28)
+1208	171_charlotte_temple_brat	0	30	heart	_	_	_	_	_	_	_	_	
+1209	171_charlotte_temple_brat	0	31	should	_	_	_	_	_	_	_	_	
+1210	171_charlotte_temple_brat	0	32	direct	_	_	_	_	_	_	_	_	
+1211	171_charlotte_temple_brat	0	33	him	_	_	_	_	_	_	_	_	(28)
+1212	171_charlotte_temple_brat	0	34	,	_	_	_	_	_	_	_	_	
+1213	171_charlotte_temple_brat	0	35	and	_	_	_	_	_	_	_	_	
+1214	171_charlotte_temple_brat	0	36	to	_	_	_	_	_	_	_	_	
+1215	171_charlotte_temple_brat	0	37	confine	_	_	_	_	_	_	_	_	
+1216	171_charlotte_temple_brat	0	38	his	_	_	_	_	_	_	_	_	(28)
+1217	171_charlotte_temple_brat	0	39	expenses	_	_	_	_	_	_	_	_	
+1218	171_charlotte_temple_brat	0	40	within	_	_	_	_	_	_	_	_	
+1219	171_charlotte_temple_brat	0	41	the	_	_	_	_	_	_	_	_	
+1220	171_charlotte_temple_brat	0	42	limits	_	_	_	_	_	_	_	_	
+1221	171_charlotte_temple_brat	0	43	of	_	_	_	_	_	_	_	_	
+1222	171_charlotte_temple_brat	0	44	his	_	_	_	_	_	_	_	_	(28)
+1223	171_charlotte_temple_brat	0	45	income	_	_	_	_	_	_	_	_	
+1224	171_charlotte_temple_brat	0	46	.	_	_	_	_	_	_	_	_	
+1225	171_charlotte_temple_brat	0	0	He	_	_	_	_	_	_	_	_	(28)
+1226	171_charlotte_temple_brat	0	1	had	_	_	_	_	_	_	_	_	
+1227	171_charlotte_temple_brat	0	2	a	_	_	_	_	_	_	_	_	
+1228	171_charlotte_temple_brat	0	3	heart	_	_	_	_	_	_	_	_	
+1229	171_charlotte_temple_brat	0	4	open	_	_	_	_	_	_	_	_	
+1230	171_charlotte_temple_brat	0	5	to	_	_	_	_	_	_	_	_	
+1231	171_charlotte_temple_brat	0	6	every	_	_	_	_	_	_	_	_	
+1232	171_charlotte_temple_brat	0	7	generous	_	_	_	_	_	_	_	_	
+1233	171_charlotte_temple_brat	0	8	feeling	_	_	_	_	_	_	_	_	
+1234	171_charlotte_temple_brat	0	9	of	_	_	_	_	_	_	_	_	
+1235	171_charlotte_temple_brat	0	10	humanity	_	_	_	_	_	_	_	_	
+1236	171_charlotte_temple_brat	0	11	,	_	_	_	_	_	_	_	_	
+1237	171_charlotte_temple_brat	0	12	and	_	_	_	_	_	_	_	_	
+1238	171_charlotte_temple_brat	0	13	a	_	_	_	_	_	_	_	_	
+1239	171_charlotte_temple_brat	0	14	hand	_	_	_	_	_	_	_	_	
+1240	171_charlotte_temple_brat	0	15	ready	_	_	_	_	_	_	_	_	
+1241	171_charlotte_temple_brat	0	16	to	_	_	_	_	_	_	_	_	
+1242	171_charlotte_temple_brat	0	17	dispense	_	_	_	_	_	_	_	_	
+1243	171_charlotte_temple_brat	0	18	to	_	_	_	_	_	_	_	_	
+1244	171_charlotte_temple_brat	0	19	those	_	_	_	_	_	_	_	_	
+1245	171_charlotte_temple_brat	0	20	who	_	_	_	_	_	_	_	_	
+1246	171_charlotte_temple_brat	0	21	wanted	_	_	_	_	_	_	_	_	
+1247	171_charlotte_temple_brat	0	22	part	_	_	_	_	_	_	_	_	
+1248	171_charlotte_temple_brat	0	23	of	_	_	_	_	_	_	_	_	
+1249	171_charlotte_temple_brat	0	24	the	_	_	_	_	_	_	_	_	
+1250	171_charlotte_temple_brat	0	25	blessings	_	_	_	_	_	_	_	_	
+1251	171_charlotte_temple_brat	0	26	he	_	_	_	_	_	_	_	_	(28)
+1252	171_charlotte_temple_brat	0	27	enjoyed	_	_	_	_	_	_	_	_	
+1253	171_charlotte_temple_brat	0	28	himself	_	_	_	_	_	_	_	_	(28)
+1254	171_charlotte_temple_brat	0	29	.	_	_	_	_	_	_	_	_	
+1255	171_charlotte_temple_brat	0	0	As	_	_	_	_	_	_	_	_	
+1256	171_charlotte_temple_brat	0	1	he	_	_	_	_	_	_	_	_	(28)
+1257	171_charlotte_temple_brat	0	2	was	_	_	_	_	_	_	_	_	
+1258	171_charlotte_temple_brat	0	3	universally	_	_	_	_	_	_	_	_	
+1259	171_charlotte_temple_brat	0	4	known	_	_	_	_	_	_	_	_	
+1260	171_charlotte_temple_brat	0	5	to	_	_	_	_	_	_	_	_	
+1261	171_charlotte_temple_brat	0	6	be	_	_	_	_	_	_	_	_	
+1262	171_charlotte_temple_brat	0	7	the	_	_	_	_	_	_	_	_	(64
+1263	171_charlotte_temple_brat	0	8	friend	_	_	_	_	_	_	_	_	
+1264	171_charlotte_temple_brat	0	9	of	_	_	_	_	_	_	_	_	
+1265	171_charlotte_temple_brat	0	10	the	_	_	_	_	_	_	_	_	(37
+1266	171_charlotte_temple_brat	0	11	unfortunate	_	_	_	_	_	_	_	_	37)|64)
+1267	171_charlotte_temple_brat	0	12	,	_	_	_	_	_	_	_	_	
+1268	171_charlotte_temple_brat	0	13	his	_	_	_	_	_	_	_	_	(28)
+1269	171_charlotte_temple_brat	0	14	advice	_	_	_	_	_	_	_	_	
+1270	171_charlotte_temple_brat	0	15	and	_	_	_	_	_	_	_	_	
+1271	171_charlotte_temple_brat	0	16	bounty	_	_	_	_	_	_	_	_	
+1272	171_charlotte_temple_brat	0	17	was	_	_	_	_	_	_	_	_	
+1273	171_charlotte_temple_brat	0	18	frequently	_	_	_	_	_	_	_	_	
+1274	171_charlotte_temple_brat	0	19	solicited	_	_	_	_	_	_	_	_	
+1275	171_charlotte_temple_brat	0	20	;	_	_	_	_	_	_	_	_	
+1276	171_charlotte_temple_brat	0	21	nor	_	_	_	_	_	_	_	_	
+1277	171_charlotte_temple_brat	0	22	was	_	_	_	_	_	_	_	_	
+1278	171_charlotte_temple_brat	0	23	it	_	_	_	_	_	_	_	_	
+1279	171_charlotte_temple_brat	0	24	seldom	_	_	_	_	_	_	_	_	
+1280	171_charlotte_temple_brat	0	25	that	_	_	_	_	_	_	_	_	
+1281	171_charlotte_temple_brat	0	26	he	_	_	_	_	_	_	_	_	(28)
+1282	171_charlotte_temple_brat	0	27	sought	_	_	_	_	_	_	_	_	
+1283	171_charlotte_temple_brat	0	28	out	_	_	_	_	_	_	_	_	
+1284	171_charlotte_temple_brat	0	29	indigent	_	_	_	_	_	_	_	_	
+1285	171_charlotte_temple_brat	0	30	merit	_	_	_	_	_	_	_	_	
+1286	171_charlotte_temple_brat	0	31	,	_	_	_	_	_	_	_	_	
+1287	171_charlotte_temple_brat	0	32	and	_	_	_	_	_	_	_	_	
+1288	171_charlotte_temple_brat	0	33	raised	_	_	_	_	_	_	_	_	
+1289	171_charlotte_temple_brat	0	34	it	_	_	_	_	_	_	_	_	
+1290	171_charlotte_temple_brat	0	35	from	_	_	_	_	_	_	_	_	
+1291	171_charlotte_temple_brat	0	36	obscurity	_	_	_	_	_	_	_	_	
+1292	171_charlotte_temple_brat	0	37	,	_	_	_	_	_	_	_	_	
+1293	171_charlotte_temple_brat	0	38	confining	_	_	_	_	_	_	_	_	
+1294	171_charlotte_temple_brat	0	39	his	_	_	_	_	_	_	_	_	(28)
+1295	171_charlotte_temple_brat	0	40	own	_	_	_	_	_	_	_	_	
+1296	171_charlotte_temple_brat	0	41	expenses	_	_	_	_	_	_	_	_	
+1297	171_charlotte_temple_brat	0	42	within	_	_	_	_	_	_	_	_	
+1298	171_charlotte_temple_brat	0	43	a	_	_	_	_	_	_	_	_	
+1299	171_charlotte_temple_brat	0	44	very	_	_	_	_	_	_	_	_	
+1300	171_charlotte_temple_brat	0	45	narrow	_	_	_	_	_	_	_	_	
+1301	171_charlotte_temple_brat	0	46	compass	_	_	_	_	_	_	_	_	
+1302	171_charlotte_temple_brat	0	47	.	_	_	_	_	_	_	_	_	
+1303	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+1304	171_charlotte_temple_brat	0	1	You	_	_	_	_	_	_	_	_	(28)
+1305	171_charlotte_temple_brat	0	2	are	_	_	_	_	_	_	_	_	
+1306	171_charlotte_temple_brat	0	3	a	_	_	_	_	_	_	_	_	(60
+1307	171_charlotte_temple_brat	0	4	benevolent	_	_	_	_	_	_	_	_	
+1308	171_charlotte_temple_brat	0	5	fellow	_	_	_	_	_	_	_	_	60)
+1309	171_charlotte_temple_brat	0	6	,	_	_	_	_	_	_	_	_	
+1310	171_charlotte_temple_brat	0	7	”	_	_	_	_	_	_	_	_	
+1311	171_charlotte_temple_brat	0	8	said	_	_	_	_	_	_	_	_	
+1312	171_charlotte_temple_brat	0	9	a	_	_	_	_	_	_	_	_	(38
+1313	171_charlotte_temple_brat	0	10	young	_	_	_	_	_	_	_	_	
+1314	171_charlotte_temple_brat	0	11	officer	_	_	_	_	_	_	_	_	38)
+1315	171_charlotte_temple_brat	0	12	to	_	_	_	_	_	_	_	_	
+1316	171_charlotte_temple_brat	0	13	him	_	_	_	_	_	_	_	_	(28)
+1317	171_charlotte_temple_brat	0	14	one	_	_	_	_	_	_	_	_	
+1318	171_charlotte_temple_brat	0	15	day	_	_	_	_	_	_	_	_	
+1319	171_charlotte_temple_brat	0	16	;	_	_	_	_	_	_	_	_	
+1320	171_charlotte_temple_brat	0	17	“	_	_	_	_	_	_	_	_	
+1321	171_charlotte_temple_brat	0	18	and	_	_	_	_	_	_	_	_	
+1322	171_charlotte_temple_brat	0	19	I	_	_	_	_	_	_	_	_	(38)
+1323	171_charlotte_temple_brat	0	20	have	_	_	_	_	_	_	_	_	
+1324	171_charlotte_temple_brat	0	21	a	_	_	_	_	_	_	_	_	
+1325	171_charlotte_temple_brat	0	22	great	_	_	_	_	_	_	_	_	
+1326	171_charlotte_temple_brat	0	23	mind	_	_	_	_	_	_	_	_	
+1327	171_charlotte_temple_brat	0	24	to	_	_	_	_	_	_	_	_	
+1328	171_charlotte_temple_brat	0	25	give	_	_	_	_	_	_	_	_	
+1329	171_charlotte_temple_brat	0	26	you	_	_	_	_	_	_	_	_	(28)
+1330	171_charlotte_temple_brat	0	27	a	_	_	_	_	_	_	_	_	
+1331	171_charlotte_temple_brat	0	28	fine	_	_	_	_	_	_	_	_	
+1332	171_charlotte_temple_brat	0	29	subject	_	_	_	_	_	_	_	_	
+1333	171_charlotte_temple_brat	0	30	to	_	_	_	_	_	_	_	_	
+1334	171_charlotte_temple_brat	0	31	exercise	_	_	_	_	_	_	_	_	
+1335	171_charlotte_temple_brat	0	32	the	_	_	_	_	_	_	_	_	
+1336	171_charlotte_temple_brat	0	33	goodness	_	_	_	_	_	_	_	_	
+1337	171_charlotte_temple_brat	0	34	of	_	_	_	_	_	_	_	_	
+1338	171_charlotte_temple_brat	0	35	your	_	_	_	_	_	_	_	_	(28)
+1339	171_charlotte_temple_brat	0	36	heart	_	_	_	_	_	_	_	_	
+1340	171_charlotte_temple_brat	0	37	upon	_	_	_	_	_	_	_	_	
+1341	171_charlotte_temple_brat	0	38	.	_	_	_	_	_	_	_	_	
+1342	171_charlotte_temple_brat	0	39	”	_	_	_	_	_	_	_	_	
+1343	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+1344	171_charlotte_temple_brat	0	1	You	_	_	_	_	_	_	_	_	(38)
+1345	171_charlotte_temple_brat	0	2	can	_	_	_	_	_	_	_	_	
+1346	171_charlotte_temple_brat	0	3	not	_	_	_	_	_	_	_	_	
+1347	171_charlotte_temple_brat	0	4	oblige	_	_	_	_	_	_	_	_	
+1348	171_charlotte_temple_brat	0	5	me	_	_	_	_	_	_	_	_	(28)
+1349	171_charlotte_temple_brat	0	6	more	_	_	_	_	_	_	_	_	
+1350	171_charlotte_temple_brat	0	7	,	_	_	_	_	_	_	_	_	
+1351	171_charlotte_temple_brat	0	8	”	_	_	_	_	_	_	_	_	
+1352	171_charlotte_temple_brat	0	9	said	_	_	_	_	_	_	_	_	
+1353	171_charlotte_temple_brat	0	10	Temple	_	_	_	_	_	_	_	_	(28)
+1354	171_charlotte_temple_brat	0	11	,	_	_	_	_	_	_	_	_	
+1355	171_charlotte_temple_brat	0	12	“	_	_	_	_	_	_	_	_	
+1356	171_charlotte_temple_brat	0	13	than	_	_	_	_	_	_	_	_	
+1357	171_charlotte_temple_brat	0	14	to	_	_	_	_	_	_	_	_	
+1358	171_charlotte_temple_brat	0	15	point	_	_	_	_	_	_	_	_	
+1359	171_charlotte_temple_brat	0	16	out	_	_	_	_	_	_	_	_	
+1360	171_charlotte_temple_brat	0	17	any	_	_	_	_	_	_	_	_	
+1361	171_charlotte_temple_brat	0	18	way	_	_	_	_	_	_	_	_	
+1362	171_charlotte_temple_brat	0	19	by	_	_	_	_	_	_	_	_	
+1363	171_charlotte_temple_brat	0	20	which	_	_	_	_	_	_	_	_	
+1364	171_charlotte_temple_brat	0	21	I	_	_	_	_	_	_	_	_	(28)
+1365	171_charlotte_temple_brat	0	22	can	_	_	_	_	_	_	_	_	
+1366	171_charlotte_temple_brat	0	23	be	_	_	_	_	_	_	_	_	
+1367	171_charlotte_temple_brat	0	24	serviceable	_	_	_	_	_	_	_	_	
+1368	171_charlotte_temple_brat	0	25	to	_	_	_	_	_	_	_	_	
+1369	171_charlotte_temple_brat	0	26	my	_	_	_	_	_	_	_	_	(39|(28)
+1370	171_charlotte_temple_brat	0	27	fellow	_	_	_	_	_	_	_	_	
+1371	171_charlotte_temple_brat	0	28	creatures	_	_	_	_	_	_	_	_	39)
+1372	171_charlotte_temple_brat	0	29	.	_	_	_	_	_	_	_	_	
+1373	171_charlotte_temple_brat	0	30	”	_	_	_	_	_	_	_	_	
+1374	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+1375	171_charlotte_temple_brat	0	1	Come	_	_	_	_	_	_	_	_	
+1376	171_charlotte_temple_brat	0	2	along	_	_	_	_	_	_	_	_	
+1377	171_charlotte_temple_brat	0	3	then	_	_	_	_	_	_	_	_	
+1378	171_charlotte_temple_brat	0	4	,	_	_	_	_	_	_	_	_	
+1379	171_charlotte_temple_brat	0	5	”	_	_	_	_	_	_	_	_	
+1380	171_charlotte_temple_brat	0	6	said	_	_	_	_	_	_	_	_	
+1381	171_charlotte_temple_brat	0	7	the	_	_	_	_	_	_	_	_	(38
+1382	171_charlotte_temple_brat	0	8	young	_	_	_	_	_	_	_	_	
+1383	171_charlotte_temple_brat	0	9	man	_	_	_	_	_	_	_	_	38)
+1384	171_charlotte_temple_brat	0	10	,	_	_	_	_	_	_	_	_	
+1385	171_charlotte_temple_brat	0	11	“	_	_	_	_	_	_	_	_	
+1386	171_charlotte_temple_brat	0	12	we	_	_	_	_	_	_	_	_	(40)
+1387	171_charlotte_temple_brat	0	13	will	_	_	_	_	_	_	_	_	
+1388	171_charlotte_temple_brat	0	14	go	_	_	_	_	_	_	_	_	
+1389	171_charlotte_temple_brat	0	15	and	_	_	_	_	_	_	_	_	
+1390	171_charlotte_temple_brat	0	16	visit	_	_	_	_	_	_	_	_	
+1391	171_charlotte_temple_brat	0	17	a	_	_	_	_	_	_	_	_	
+1392	171_charlotte_temple_brat	0	18	man	_	_	_	_	_	_	_	_	
+1393	171_charlotte_temple_brat	0	19	who	_	_	_	_	_	_	_	_	
+1394	171_charlotte_temple_brat	0	20	is	_	_	_	_	_	_	_	_	
+1395	171_charlotte_temple_brat	0	21	not	_	_	_	_	_	_	_	_	
+1396	171_charlotte_temple_brat	0	22	in	_	_	_	_	_	_	_	_	
+1397	171_charlotte_temple_brat	0	23	so	_	_	_	_	_	_	_	_	
+1398	171_charlotte_temple_brat	0	24	good	_	_	_	_	_	_	_	_	
+1399	171_charlotte_temple_brat	0	25	a	_	_	_	_	_	_	_	_	
+1400	171_charlotte_temple_brat	0	26	lodging	_	_	_	_	_	_	_	_	
+1401	171_charlotte_temple_brat	0	27	as	_	_	_	_	_	_	_	_	
+1402	171_charlotte_temple_brat	0	28	he	_	_	_	_	_	_	_	_	
+1403	171_charlotte_temple_brat	0	29	deserves	_	_	_	_	_	_	_	_	
+1404	171_charlotte_temple_brat	0	30	;	_	_	_	_	_	_	_	_	
+1405	171_charlotte_temple_brat	0	31	and	_	_	_	_	_	_	_	_	
+1406	171_charlotte_temple_brat	0	32	,	_	_	_	_	_	_	_	_	
+1407	171_charlotte_temple_brat	0	33	were	_	_	_	_	_	_	_	_	
+1408	171_charlotte_temple_brat	0	34	it	_	_	_	_	_	_	_	_	
+1409	171_charlotte_temple_brat	0	35	not	_	_	_	_	_	_	_	_	
+1410	171_charlotte_temple_brat	0	36	that	_	_	_	_	_	_	_	_	
+1411	171_charlotte_temple_brat	0	37	he	_	_	_	_	_	_	_	_	
+1412	171_charlotte_temple_brat	0	38	has	_	_	_	_	_	_	_	_	
+1413	171_charlotte_temple_brat	0	39	an	_	_	_	_	_	_	_	_	(43
+1414	171_charlotte_temple_brat	0	40	angel	_	_	_	_	_	_	_	_	43)
+1415	171_charlotte_temple_brat	0	41	with	_	_	_	_	_	_	_	_	
+1416	171_charlotte_temple_brat	0	42	him	_	_	_	_	_	_	_	_	
+1417	171_charlotte_temple_brat	0	43	,	_	_	_	_	_	_	_	_	
+1418	171_charlotte_temple_brat	0	44	who	_	_	_	_	_	_	_	_	
+1419	171_charlotte_temple_brat	0	45	comforts	_	_	_	_	_	_	_	_	
+1420	171_charlotte_temple_brat	0	46	and	_	_	_	_	_	_	_	_	
+1421	171_charlotte_temple_brat	0	47	supports	_	_	_	_	_	_	_	_	
+1422	171_charlotte_temple_brat	0	48	him	_	_	_	_	_	_	_	_	
+1423	171_charlotte_temple_brat	0	49	,	_	_	_	_	_	_	_	_	
+1424	171_charlotte_temple_brat	0	50	he	_	_	_	_	_	_	_	_	
+1425	171_charlotte_temple_brat	0	51	must	_	_	_	_	_	_	_	_	
+1426	171_charlotte_temple_brat	0	52	long	_	_	_	_	_	_	_	_	
+1427	171_charlotte_temple_brat	0	53	since	_	_	_	_	_	_	_	_	
+1428	171_charlotte_temple_brat	0	54	have	_	_	_	_	_	_	_	_	
+1429	171_charlotte_temple_brat	0	55	sunk	_	_	_	_	_	_	_	_	
+1430	171_charlotte_temple_brat	0	56	under	_	_	_	_	_	_	_	_	
+1431	171_charlotte_temple_brat	0	57	his	_	_	_	_	_	_	_	_	
+1432	171_charlotte_temple_brat	0	58	misfortunes	_	_	_	_	_	_	_	_	
+1433	171_charlotte_temple_brat	0	59	.	_	_	_	_	_	_	_	_	
+1434	171_charlotte_temple_brat	0	60	”	_	_	_	_	_	_	_	_	
+1435	171_charlotte_temple_brat	0	0	The	_	_	_	_	_	_	_	_	(38
+1436	171_charlotte_temple_brat	0	1	young	_	_	_	_	_	_	_	_	
+1437	171_charlotte_temple_brat	0	2	man	_	_	_	_	_	_	_	_	38)
+1438	171_charlotte_temple_brat	0	3	’s	_	_	_	_	_	_	_	_	
+1439	171_charlotte_temple_brat	0	4	heart	_	_	_	_	_	_	_	_	
+1440	171_charlotte_temple_brat	0	5	was	_	_	_	_	_	_	_	_	
+1441	171_charlotte_temple_brat	0	6	too	_	_	_	_	_	_	_	_	
+1442	171_charlotte_temple_brat	0	7	full	_	_	_	_	_	_	_	_	
+1443	171_charlotte_temple_brat	0	8	to	_	_	_	_	_	_	_	_	
+1444	171_charlotte_temple_brat	0	9	proceed	_	_	_	_	_	_	_	_	
+1445	171_charlotte_temple_brat	0	10	;	_	_	_	_	_	_	_	_	
+1446	171_charlotte_temple_brat	0	11	and	_	_	_	_	_	_	_	_	
+1447	171_charlotte_temple_brat	0	12	Temple	_	_	_	_	_	_	_	_	(28)
+1448	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+1449	171_charlotte_temple_brat	0	14	unwilling	_	_	_	_	_	_	_	_	
+1450	171_charlotte_temple_brat	0	15	to	_	_	_	_	_	_	_	_	
+1451	171_charlotte_temple_brat	0	16	irritate	_	_	_	_	_	_	_	_	
+1452	171_charlotte_temple_brat	0	17	his	_	_	_	_	_	_	_	_	(38)
+1453	171_charlotte_temple_brat	0	18	feelings	_	_	_	_	_	_	_	_	
+1454	171_charlotte_temple_brat	0	19	by	_	_	_	_	_	_	_	_	
+1455	171_charlotte_temple_brat	0	20	making	_	_	_	_	_	_	_	_	
+1456	171_charlotte_temple_brat	0	21	further	_	_	_	_	_	_	_	_	
+1457	171_charlotte_temple_brat	0	22	enquiries	_	_	_	_	_	_	_	_	
+1458	171_charlotte_temple_brat	0	23	,	_	_	_	_	_	_	_	_	
+1459	171_charlotte_temple_brat	0	24	followed	_	_	_	_	_	_	_	_	
+1460	171_charlotte_temple_brat	0	25	him	_	_	_	_	_	_	_	_	(38)
+1461	171_charlotte_temple_brat	0	26	in	_	_	_	_	_	_	_	_	
+1462	171_charlotte_temple_brat	0	27	silence	_	_	_	_	_	_	_	_	
+1463	171_charlotte_temple_brat	0	28	,	_	_	_	_	_	_	_	_	
+1464	171_charlotte_temple_brat	0	29	til	_	_	_	_	_	_	_	_	
+1465	171_charlotte_temple_brat	0	30	they	_	_	_	_	_	_	_	_	(40)
+1466	171_charlotte_temple_brat	0	31	arrived	_	_	_	_	_	_	_	_	
+1467	171_charlotte_temple_brat	0	32	at	_	_	_	_	_	_	_	_	
+1468	171_charlotte_temple_brat	0	33	the	_	_	_	_	_	_	_	_	
+1469	171_charlotte_temple_brat	0	34	Fleet	_	_	_	_	_	_	_	_	
+1470	171_charlotte_temple_brat	0	35	prison	_	_	_	_	_	_	_	_	
+1471	171_charlotte_temple_brat	0	36	.	_	_	_	_	_	_	_	_	
+1472	171_charlotte_temple_brat	0	0	The	_	_	_	_	_	_	_	_	(38
+1473	171_charlotte_temple_brat	0	1	officer	_	_	_	_	_	_	_	_	38)
+1474	171_charlotte_temple_brat	0	2	enquired	_	_	_	_	_	_	_	_	
+1475	171_charlotte_temple_brat	0	3	for	_	_	_	_	_	_	_	_	
+1476	171_charlotte_temple_brat	0	4	Captain	_	_	_	_	_	_	_	_	
+1477	171_charlotte_temple_brat	0	5	Eldridge	_	_	_	_	_	_	_	_	
+1478	171_charlotte_temple_brat	0	6	:	_	_	_	_	_	_	_	_	
+1479	171_charlotte_temple_brat	0	7	a	_	_	_	_	_	_	_	_	(44
+1480	171_charlotte_temple_brat	0	8	person	_	_	_	_	_	_	_	_	44)
+1481	171_charlotte_temple_brat	0	9	led	_	_	_	_	_	_	_	_	
+1482	171_charlotte_temple_brat	0	10	them	_	_	_	_	_	_	_	_	(40)
+1483	171_charlotte_temple_brat	0	11	up	_	_	_	_	_	_	_	_	
+1484	171_charlotte_temple_brat	0	12	several	_	_	_	_	_	_	_	_	
+1485	171_charlotte_temple_brat	0	13	pair	_	_	_	_	_	_	_	_	
+1486	171_charlotte_temple_brat	0	14	of	_	_	_	_	_	_	_	_	
+1487	171_charlotte_temple_brat	0	15	dirty	_	_	_	_	_	_	_	_	
+1488	171_charlotte_temple_brat	0	16	stairs	_	_	_	_	_	_	_	_	
+1489	171_charlotte_temple_brat	0	17	,	_	_	_	_	_	_	_	_	
+1490	171_charlotte_temple_brat	0	18	and	_	_	_	_	_	_	_	_	
+1491	171_charlotte_temple_brat	0	19	pointing	_	_	_	_	_	_	_	_	
+1492	171_charlotte_temple_brat	0	20	to	_	_	_	_	_	_	_	_	
+1493	171_charlotte_temple_brat	0	21	a	_	_	_	_	_	_	_	_	
+1494	171_charlotte_temple_brat	0	22	door	_	_	_	_	_	_	_	_	
+1495	171_charlotte_temple_brat	0	23	which	_	_	_	_	_	_	_	_	
+1496	171_charlotte_temple_brat	0	24	led	_	_	_	_	_	_	_	_	
+1497	171_charlotte_temple_brat	0	25	to	_	_	_	_	_	_	_	_	
+1498	171_charlotte_temple_brat	0	26	a	_	_	_	_	_	_	_	_	
+1499	171_charlotte_temple_brat	0	27	miserable	_	_	_	_	_	_	_	_	
+1500	171_charlotte_temple_brat	0	28	,	_	_	_	_	_	_	_	_	
+1501	171_charlotte_temple_brat	0	29	small	_	_	_	_	_	_	_	_	
+1502	171_charlotte_temple_brat	0	30	apartment	_	_	_	_	_	_	_	_	
+1503	171_charlotte_temple_brat	0	31	,	_	_	_	_	_	_	_	_	
+1504	171_charlotte_temple_brat	0	32	said	_	_	_	_	_	_	_	_	
+1505	171_charlotte_temple_brat	0	33	that	_	_	_	_	_	_	_	_	
+1506	171_charlotte_temple_brat	0	34	was	_	_	_	_	_	_	_	_	
+1507	171_charlotte_temple_brat	0	35	the	_	_	_	_	_	_	_	_	|
+1508	171_charlotte_temple_brat	0	36	Captain	_	_	_	_	_	_	_	_	
+1509	171_charlotte_temple_brat	0	37	’s	_	_	_	_	_	_	_	_	
+1510	171_charlotte_temple_brat	0	38	room	_	_	_	_	_	_	_	_	
+1511	171_charlotte_temple_brat	0	39	,	_	_	_	_	_	_	_	_	
+1512	171_charlotte_temple_brat	0	40	and	_	_	_	_	_	_	_	_	
+1513	171_charlotte_temple_brat	0	41	retired	_	_	_	_	_	_	_	_	
+1514	171_charlotte_temple_brat	0	42	.	_	_	_	_	_	_	_	_	
+1515	171_charlotte_temple_brat	0	0	The	_	_	_	_	_	_	_	_	(38
+1516	171_charlotte_temple_brat	0	1	officer	_	_	_	_	_	_	_	_	
+1517	171_charlotte_temple_brat	0	2	,	_	_	_	_	_	_	_	_	
+1518	171_charlotte_temple_brat	0	3	whose	_	_	_	_	_	_	_	_	
+1519	171_charlotte_temple_brat	0	4	name	_	_	_	_	_	_	_	_	
+1520	171_charlotte_temple_brat	0	5	was	_	_	_	_	_	_	_	_	
+1521	171_charlotte_temple_brat	0	6	Blakeney	_	_	_	_	_	_	_	_	38)
+1522	171_charlotte_temple_brat	0	7	,	_	_	_	_	_	_	_	_	
+1523	171_charlotte_temple_brat	0	8	tapped	_	_	_	_	_	_	_	_	
+1524	171_charlotte_temple_brat	0	9	at	_	_	_	_	_	_	_	_	
+1525	171_charlotte_temple_brat	0	10	the	_	_	_	_	_	_	_	_	
+1526	171_charlotte_temple_brat	0	11	door	_	_	_	_	_	_	_	_	
+1527	171_charlotte_temple_brat	0	12	,	_	_	_	_	_	_	_	_	
+1528	171_charlotte_temple_brat	0	13	and	_	_	_	_	_	_	_	_	
+1529	171_charlotte_temple_brat	0	14	was	_	_	_	_	_	_	_	_	
+1530	171_charlotte_temple_brat	0	15	bid	_	_	_	_	_	_	_	_	
+1531	171_charlotte_temple_brat	0	16	to	_	_	_	_	_	_	_	_	
+1532	171_charlotte_temple_brat	0	17	enter	_	_	_	_	_	_	_	_	
+1533	171_charlotte_temple_brat	0	18	by	_	_	_	_	_	_	_	_	
+1534	171_charlotte_temple_brat	0	19	a	_	_	_	_	_	_	_	_	
+1535	171_charlotte_temple_brat	0	20	voice	_	_	_	_	_	_	_	_	
+1536	171_charlotte_temple_brat	0	21	melodiously	_	_	_	_	_	_	_	_	
+1537	171_charlotte_temple_brat	0	22	soft	_	_	_	_	_	_	_	_	
+1538	171_charlotte_temple_brat	0	23	.	_	_	_	_	_	_	_	_	
+1539	171_charlotte_temple_brat	0	0	He	_	_	_	_	_	_	_	_	(38)
+1540	171_charlotte_temple_brat	0	1	opened	_	_	_	_	_	_	_	_	
+1541	171_charlotte_temple_brat	0	2	the	_	_	_	_	_	_	_	_	
+1542	171_charlotte_temple_brat	0	3	door	_	_	_	_	_	_	_	_	
+1543	171_charlotte_temple_brat	0	4	,	_	_	_	_	_	_	_	_	
+1544	171_charlotte_temple_brat	0	5	and	_	_	_	_	_	_	_	_	
+1545	171_charlotte_temple_brat	0	6	discovered	_	_	_	_	_	_	_	_	
+1546	171_charlotte_temple_brat	0	7	to	_	_	_	_	_	_	_	_	
+1547	171_charlotte_temple_brat	0	8	Temple	_	_	_	_	_	_	_	_	(28)
+1548	171_charlotte_temple_brat	0	9	a	_	_	_	_	_	_	_	_	
+1549	171_charlotte_temple_brat	0	10	scene	_	_	_	_	_	_	_	_	
+1550	171_charlotte_temple_brat	0	11	which	_	_	_	_	_	_	_	_	
+1551	171_charlotte_temple_brat	0	12	rivetted	_	_	_	_	_	_	_	_	
+1552	171_charlotte_temple_brat	0	13	him	_	_	_	_	_	_	_	_	(27)
+1553	171_charlotte_temple_brat	0	14	to	_	_	_	_	_	_	_	_	
+1554	171_charlotte_temple_brat	0	15	the	_	_	_	_	_	_	_	_	
+1555	171_charlotte_temple_brat	0	16	spot	_	_	_	_	_	_	_	_	
+1556	171_charlotte_temple_brat	0	17	with	_	_	_	_	_	_	_	_	
+1557	171_charlotte_temple_brat	0	18	astonishment	_	_	_	_	_	_	_	_	
+1558	171_charlotte_temple_brat	0	19	.	_	_	_	_	_	_	_	_	
+1559	171_charlotte_temple_brat	0	0	The	_	_	_	_	_	_	_	_	
+1560	171_charlotte_temple_brat	0	1	apartment	_	_	_	_	_	_	_	_	
+1561	171_charlotte_temple_brat	0	2	,	_	_	_	_	_	_	_	_	
+1562	171_charlotte_temple_brat	0	3	though	_	_	_	_	_	_	_	_	
+1563	171_charlotte_temple_brat	0	4	small	_	_	_	_	_	_	_	_	
+1564	171_charlotte_temple_brat	0	5	,	_	_	_	_	_	_	_	_	
+1565	171_charlotte_temple_brat	0	6	and	_	_	_	_	_	_	_	_	
+1566	171_charlotte_temple_brat	0	7	bearing	_	_	_	_	_	_	_	_	
+1567	171_charlotte_temple_brat	0	8	strong	_	_	_	_	_	_	_	_	
+1568	171_charlotte_temple_brat	0	9	marks	_	_	_	_	_	_	_	_	
+1569	171_charlotte_temple_brat	0	10	of	_	_	_	_	_	_	_	_	
+1570	171_charlotte_temple_brat	0	11	poverty	_	_	_	_	_	_	_	_	
+1571	171_charlotte_temple_brat	0	12	,	_	_	_	_	_	_	_	_	
+1572	171_charlotte_temple_brat	0	13	was	_	_	_	_	_	_	_	_	
+1573	171_charlotte_temple_brat	0	14	neat	_	_	_	_	_	_	_	_	
+1574	171_charlotte_temple_brat	0	15	in	_	_	_	_	_	_	_	_	
+1575	171_charlotte_temple_brat	0	16	the	_	_	_	_	_	_	_	_	
+1576	171_charlotte_temple_brat	0	17	extreme	_	_	_	_	_	_	_	_	
+1577	171_charlotte_temple_brat	0	18	.	_	_	_	_	_	_	_	_	
+1578	171_charlotte_temple_brat	0	0	In	_	_	_	_	_	_	_	_	
+1579	171_charlotte_temple_brat	0	1	an	_	_	_	_	_	_	_	_	
+1580	171_charlotte_temple_brat	0	2	arm-chair	_	_	_	_	_	_	_	_	
+1581	171_charlotte_temple_brat	0	3	,	_	_	_	_	_	_	_	_	
+1582	171_charlotte_temple_brat	0	4	his	_	_	_	_	_	_	_	_	
+1583	171_charlotte_temple_brat	0	5	head	_	_	_	_	_	_	_	_	
+1584	171_charlotte_temple_brat	0	6	reclined	_	_	_	_	_	_	_	_	
+1585	171_charlotte_temple_brat	0	7	upon	_	_	_	_	_	_	_	_	
+1586	171_charlotte_temple_brat	0	8	his	_	_	_	_	_	_	_	_	
+1587	171_charlotte_temple_brat	0	9	hand	_	_	_	_	_	_	_	_	
+1588	171_charlotte_temple_brat	0	10	,	_	_	_	_	_	_	_	_	
+1589	171_charlotte_temple_brat	0	11	his	_	_	_	_	_	_	_	_	
+1590	171_charlotte_temple_brat	0	12	eyes	_	_	_	_	_	_	_	_	
+1591	171_charlotte_temple_brat	0	13	fixed	_	_	_	_	_	_	_	_	
+1592	171_charlotte_temple_brat	0	14	on	_	_	_	_	_	_	_	_	
+1593	171_charlotte_temple_brat	0	15	a	_	_	_	_	_	_	_	_	
+1594	171_charlotte_temple_brat	0	16	book	_	_	_	_	_	_	_	_	
+1595	171_charlotte_temple_brat	0	17	which	_	_	_	_	_	_	_	_	
+1596	171_charlotte_temple_brat	0	18	lay	_	_	_	_	_	_	_	_	
+1597	171_charlotte_temple_brat	0	19	open	_	_	_	_	_	_	_	_	
+1598	171_charlotte_temple_brat	0	20	before	_	_	_	_	_	_	_	_	
+1599	171_charlotte_temple_brat	0	21	him	_	_	_	_	_	_	_	_	
+1600	171_charlotte_temple_brat	0	22	,	_	_	_	_	_	_	_	_	
+1601	171_charlotte_temple_brat	0	23	sat	_	_	_	_	_	_	_	_	
+1602	171_charlotte_temple_brat	0	24	an	_	_	_	_	_	_	_	_	
+1603	171_charlotte_temple_brat	0	25	aged	_	_	_	_	_	_	_	_	
+1604	171_charlotte_temple_brat	0	26	man	_	_	_	_	_	_	_	_	
+1605	171_charlotte_temple_brat	0	27	in	_	_	_	_	_	_	_	_	
+1606	171_charlotte_temple_brat	0	28	a	_	_	_	_	_	_	_	_	
+1607	171_charlotte_temple_brat	0	29	Lieutenant	_	_	_	_	_	_	_	_	
+1608	171_charlotte_temple_brat	0	30	’s	_	_	_	_	_	_	_	_	
+1609	171_charlotte_temple_brat	0	31	uniform	_	_	_	_	_	_	_	_	
+1610	171_charlotte_temple_brat	0	32	,	_	_	_	_	_	_	_	_	
+1611	171_charlotte_temple_brat	0	33	which	_	_	_	_	_	_	_	_	
+1612	171_charlotte_temple_brat	0	34	,	_	_	_	_	_	_	_	_	
+1613	171_charlotte_temple_brat	0	35	though	_	_	_	_	_	_	_	_	
+1614	171_charlotte_temple_brat	0	36	threadbare	_	_	_	_	_	_	_	_	
+1615	171_charlotte_temple_brat	0	37	,	_	_	_	_	_	_	_	_	
+1616	171_charlotte_temple_brat	0	38	would	_	_	_	_	_	_	_	_	
+1617	171_charlotte_temple_brat	0	39	sooner	_	_	_	_	_	_	_	_	
+1618	171_charlotte_temple_brat	0	40	call	_	_	_	_	_	_	_	_	
+1619	171_charlotte_temple_brat	0	41	a	_	_	_	_	_	_	_	_	
+1620	171_charlotte_temple_brat	0	42	blush	_	_	_	_	_	_	_	_	
+1621	171_charlotte_temple_brat	0	43	of	_	_	_	_	_	_	_	_	
+1622	171_charlotte_temple_brat	0	44	shame	_	_	_	_	_	_	_	_	
+1623	171_charlotte_temple_brat	0	45	into	_	_	_	_	_	_	_	_	
+1624	171_charlotte_temple_brat	0	46	the	_	_	_	_	_	_	_	_	
+1625	171_charlotte_temple_brat	0	47	face	_	_	_	_	_	_	_	_	
+1626	171_charlotte_temple_brat	0	48	of	_	_	_	_	_	_	_	_	
+1627	171_charlotte_temple_brat	0	49	those	_	_	_	_	_	_	_	_	(47
+1628	171_charlotte_temple_brat	0	50	who	_	_	_	_	_	_	_	_	
+1629	171_charlotte_temple_brat	0	51	could	_	_	_	_	_	_	_	_	
+1630	171_charlotte_temple_brat	0	52	neglect	_	_	_	_	_	_	_	_	
+1631	171_charlotte_temple_brat	0	53	real	_	_	_	_	_	_	_	_	
+1632	171_charlotte_temple_brat	0	54	merit	_	_	_	_	_	_	_	_	47)
+1633	171_charlotte_temple_brat	0	55	,	_	_	_	_	_	_	_	_	
+1634	171_charlotte_temple_brat	0	56	than	_	_	_	_	_	_	_	_	
+1635	171_charlotte_temple_brat	0	57	cause	_	_	_	_	_	_	_	_	
+1636	171_charlotte_temple_brat	0	58	the	_	_	_	_	_	_	_	_	
+1637	171_charlotte_temple_brat	0	59	hectic	_	_	_	_	_	_	_	_	
+1638	171_charlotte_temple_brat	0	60	of	_	_	_	_	_	_	_	_	
+1639	171_charlotte_temple_brat	0	61	confusion	_	_	_	_	_	_	_	_	
+1640	171_charlotte_temple_brat	0	62	to	_	_	_	_	_	_	_	_	
+1641	171_charlotte_temple_brat	0	63	glow	_	_	_	_	_	_	_	_	
+1642	171_charlotte_temple_brat	0	64	on	_	_	_	_	_	_	_	_	
+1643	171_charlotte_temple_brat	0	65	the	_	_	_	_	_	_	_	_	
+1644	171_charlotte_temple_brat	0	66	cheeks	_	_	_	_	_	_	_	_	
+1645	171_charlotte_temple_brat	0	67	of	_	_	_	_	_	_	_	_	
+1646	171_charlotte_temple_brat	0	68	him	_	_	_	_	_	_	_	_	(48
+1647	171_charlotte_temple_brat	0	69	who	_	_	_	_	_	_	_	_	
+1648	171_charlotte_temple_brat	0	70	wore	_	_	_	_	_	_	_	_	
+1649	171_charlotte_temple_brat	0	71	it	_	_	_	_	_	_	_	_	|48)
+1650	171_charlotte_temple_brat	0	72	.	_	_	_	_	_	_	_	_	
+1651	171_charlotte_temple_brat	0	0	Beside	_	_	_	_	_	_	_	_	
+1652	171_charlotte_temple_brat	0	1	him	_	_	_	_	_	_	_	_	
+1653	171_charlotte_temple_brat	0	2	sat	_	_	_	_	_	_	_	_	
+1654	171_charlotte_temple_brat	0	3	a	_	_	_	_	_	_	_	_	(49
+1655	171_charlotte_temple_brat	0	4	lovely	_	_	_	_	_	_	_	_	
+1656	171_charlotte_temple_brat	0	5	creature	_	_	_	_	_	_	_	_	
+1657	171_charlotte_temple_brat	0	6	busied	_	_	_	_	_	_	_	_	
+1658	171_charlotte_temple_brat	0	7	in	_	_	_	_	_	_	_	_	
+1659	171_charlotte_temple_brat	0	8	painting	_	_	_	_	_	_	_	_	
+1660	171_charlotte_temple_brat	0	9	a	_	_	_	_	_	_	_	_	
+1661	171_charlotte_temple_brat	0	10	fan	_	_	_	_	_	_	_	_	
+1662	171_charlotte_temple_brat	0	11	mount	_	_	_	_	_	_	_	_	49)
+1663	171_charlotte_temple_brat	0	12	.	_	_	_	_	_	_	_	_	
+1664	171_charlotte_temple_brat	0	0	She	_	_	_	_	_	_	_	_	(49)
+1665	171_charlotte_temple_brat	0	1	was	_	_	_	_	_	_	_	_	
+1666	171_charlotte_temple_brat	0	2	fair	_	_	_	_	_	_	_	_	
+1667	171_charlotte_temple_brat	0	3	as	_	_	_	_	_	_	_	_	
+1668	171_charlotte_temple_brat	0	4	the	_	_	_	_	_	_	_	_	
+1669	171_charlotte_temple_brat	0	5	lily	_	_	_	_	_	_	_	_	
+1670	171_charlotte_temple_brat	0	6	,	_	_	_	_	_	_	_	_	
+1671	171_charlotte_temple_brat	0	7	but	_	_	_	_	_	_	_	_	
+1672	171_charlotte_temple_brat	0	8	sorrow	_	_	_	_	_	_	_	_	
+1673	171_charlotte_temple_brat	0	9	had	_	_	_	_	_	_	_	_	
+1674	171_charlotte_temple_brat	0	10	nipped	_	_	_	_	_	_	_	_	
+1675	171_charlotte_temple_brat	0	11	the	_	_	_	_	_	_	_	_	
+1676	171_charlotte_temple_brat	0	12	rose	_	_	_	_	_	_	_	_	
+1677	171_charlotte_temple_brat	0	13	in	_	_	_	_	_	_	_	_	
+1678	171_charlotte_temple_brat	0	14	her	_	_	_	_	_	_	_	_	(49)
+1679	171_charlotte_temple_brat	0	15	cheek	_	_	_	_	_	_	_	_	
+1680	171_charlotte_temple_brat	0	16	before	_	_	_	_	_	_	_	_	
+1681	171_charlotte_temple_brat	0	17	it	_	_	_	_	_	_	_	_	
+1682	171_charlotte_temple_brat	0	18	was	_	_	_	_	_	_	_	_	
+1683	171_charlotte_temple_brat	0	19	half	_	_	_	_	_	_	_	_	
+1684	171_charlotte_temple_brat	0	20	blown	_	_	_	_	_	_	_	_	
+1685	171_charlotte_temple_brat	0	21	.	_	_	_	_	_	_	_	_	
+1686	171_charlotte_temple_brat	0	0	Her	_	_	_	_	_	_	_	_	(49)
+1687	171_charlotte_temple_brat	0	1	eyes	_	_	_	_	_	_	_	_	
+1688	171_charlotte_temple_brat	0	2	were	_	_	_	_	_	_	_	_	
+1689	171_charlotte_temple_brat	0	3	blue	_	_	_	_	_	_	_	_	
+1690	171_charlotte_temple_brat	0	4	;	_	_	_	_	_	_	_	_	
+1691	171_charlotte_temple_brat	0	5	and	_	_	_	_	_	_	_	_	
+1692	171_charlotte_temple_brat	0	6	her	_	_	_	_	_	_	_	_	(49)
+1693	171_charlotte_temple_brat	0	7	hair	_	_	_	_	_	_	_	_	
+1694	171_charlotte_temple_brat	0	8	,	_	_	_	_	_	_	_	_	
+1695	171_charlotte_temple_brat	0	9	which	_	_	_	_	_	_	_	_	
+1696	171_charlotte_temple_brat	0	10	was	_	_	_	_	_	_	_	_	
+1697	171_charlotte_temple_brat	0	11	light	_	_	_	_	_	_	_	_	
+1698	171_charlotte_temple_brat	0	12	brown	_	_	_	_	_	_	_	_	
+1699	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+1700	171_charlotte_temple_brat	0	14	was	_	_	_	_	_	_	_	_	
+1701	171_charlotte_temple_brat	0	15	slightly	_	_	_	_	_	_	_	_	
+1702	171_charlotte_temple_brat	0	16	confined	_	_	_	_	_	_	_	_	
+1703	171_charlotte_temple_brat	0	17	under	_	_	_	_	_	_	_	_	
+1704	171_charlotte_temple_brat	0	18	a	_	_	_	_	_	_	_	_	
+1705	171_charlotte_temple_brat	0	19	plain	_	_	_	_	_	_	_	_	
+1706	171_charlotte_temple_brat	0	20	muslin	_	_	_	_	_	_	_	_	
+1707	171_charlotte_temple_brat	0	21	cap	_	_	_	_	_	_	_	_	
+1708	171_charlotte_temple_brat	0	22	,	_	_	_	_	_	_	_	_	
+1709	171_charlotte_temple_brat	0	23	tied	_	_	_	_	_	_	_	_	
+1710	171_charlotte_temple_brat	0	24	round	_	_	_	_	_	_	_	_	
+1711	171_charlotte_temple_brat	0	25	with	_	_	_	_	_	_	_	_	
+1712	171_charlotte_temple_brat	0	26	a	_	_	_	_	_	_	_	_	
+1713	171_charlotte_temple_brat	0	27	black	_	_	_	_	_	_	_	_	
+1714	171_charlotte_temple_brat	0	28	ribbon	_	_	_	_	_	_	_	_	
+1715	171_charlotte_temple_brat	0	29	;	_	_	_	_	_	_	_	_	
+1716	171_charlotte_temple_brat	0	30	a	_	_	_	_	_	_	_	_	
+1717	171_charlotte_temple_brat	0	31	white	_	_	_	_	_	_	_	_	
+1718	171_charlotte_temple_brat	0	32	linen	_	_	_	_	_	_	_	_	
+1719	171_charlotte_temple_brat	0	33	gown	_	_	_	_	_	_	_	_	
+1720	171_charlotte_temple_brat	0	34	and	_	_	_	_	_	_	_	_	
+1721	171_charlotte_temple_brat	0	35	plain	_	_	_	_	_	_	_	_	
+1722	171_charlotte_temple_brat	0	36	lawn	_	_	_	_	_	_	_	_	
+1723	171_charlotte_temple_brat	0	37	handkerchief	_	_	_	_	_	_	_	_	
+1724	171_charlotte_temple_brat	0	38	composed	_	_	_	_	_	_	_	_	
+1725	171_charlotte_temple_brat	0	39	the	_	_	_	_	_	_	_	_	
+1726	171_charlotte_temple_brat	0	40	remainder	_	_	_	_	_	_	_	_	
+1727	171_charlotte_temple_brat	0	41	of	_	_	_	_	_	_	_	_	
+1728	171_charlotte_temple_brat	0	42	her	_	_	_	_	_	_	_	_	(49)
+1729	171_charlotte_temple_brat	0	43	dress	_	_	_	_	_	_	_	_	
+1730	171_charlotte_temple_brat	0	44	;	_	_	_	_	_	_	_	_	
+1731	171_charlotte_temple_brat	0	45	and	_	_	_	_	_	_	_	_	
+1732	171_charlotte_temple_brat	0	46	in	_	_	_	_	_	_	_	_	
+1733	171_charlotte_temple_brat	0	47	this	_	_	_	_	_	_	_	_	
+1734	171_charlotte_temple_brat	0	48	simple	_	_	_	_	_	_	_	_	
+1735	171_charlotte_temple_brat	0	49	attire	_	_	_	_	_	_	_	_	
+1736	171_charlotte_temple_brat	0	50	,	_	_	_	_	_	_	_	_	
+1737	171_charlotte_temple_brat	0	51	she	_	_	_	_	_	_	_	_	(49)
+1738	171_charlotte_temple_brat	0	52	was	_	_	_	_	_	_	_	_	
+1739	171_charlotte_temple_brat	0	53	more	_	_	_	_	_	_	_	_	
+1740	171_charlotte_temple_brat	0	54	irresistibly	_	_	_	_	_	_	_	_	
+1741	171_charlotte_temple_brat	0	55	charming	_	_	_	_	_	_	_	_	
+1742	171_charlotte_temple_brat	0	56	to	_	_	_	_	_	_	_	_	
+1743	171_charlotte_temple_brat	0	57	such	_	_	_	_	_	_	_	_	
+1744	171_charlotte_temple_brat	0	58	a	_	_	_	_	_	_	_	_	
+1745	171_charlotte_temple_brat	0	59	heart	_	_	_	_	_	_	_	_	
+1746	171_charlotte_temple_brat	0	60	as	_	_	_	_	_	_	_	_	
+1747	171_charlotte_temple_brat	0	61	Temple	_	_	_	_	_	_	_	_	(28)
+1748	171_charlotte_temple_brat	0	62	’s	_	_	_	_	_	_	_	_	
+1749	171_charlotte_temple_brat	0	63	,	_	_	_	_	_	_	_	_	
+1750	171_charlotte_temple_brat	0	64	than	_	_	_	_	_	_	_	_	
+1751	171_charlotte_temple_brat	0	65	she	_	_	_	_	_	_	_	_	(49)
+1752	171_charlotte_temple_brat	0	66	would	_	_	_	_	_	_	_	_	
+1753	171_charlotte_temple_brat	0	67	have	_	_	_	_	_	_	_	_	
+1754	171_charlotte_temple_brat	0	68	been	_	_	_	_	_	_	_	_	
+1755	171_charlotte_temple_brat	0	69	,	_	_	_	_	_	_	_	_	
+1756	171_charlotte_temple_brat	0	70	if	_	_	_	_	_	_	_	_	
+1757	171_charlotte_temple_brat	0	71	adorned	_	_	_	_	_	_	_	_	
+1758	171_charlotte_temple_brat	0	72	with	_	_	_	_	_	_	_	_	
+1759	171_charlotte_temple_brat	0	73	all	_	_	_	_	_	_	_	_	
+1760	171_charlotte_temple_brat	0	74	the	_	_	_	_	_	_	_	_	
+1761	171_charlotte_temple_brat	0	75	splendor	_	_	_	_	_	_	_	_	
+1762	171_charlotte_temple_brat	0	76	of	_	_	_	_	_	_	_	_	
+1763	171_charlotte_temple_brat	0	77	a	_	_	_	_	_	_	_	_	(50
+1764	171_charlotte_temple_brat	0	78	courtly	_	_	_	_	_	_	_	_	
+1765	171_charlotte_temple_brat	0	79	belle	_	_	_	_	_	_	_	_	50)
+1766	171_charlotte_temple_brat	0	80	.	_	_	_	_	_	_	_	_	
+1767	171_charlotte_temple_brat	0	0	When	_	_	_	_	_	_	_	_	
+1768	171_charlotte_temple_brat	0	1	they	_	_	_	_	_	_	_	_	(40)
+1769	171_charlotte_temple_brat	0	2	entered	_	_	_	_	_	_	_	_	
+1770	171_charlotte_temple_brat	0	3	,	_	_	_	_	_	_	_	_	
+1771	171_charlotte_temple_brat	0	4	the	_	_	_	_	_	_	_	_	
+1772	171_charlotte_temple_brat	0	5	old	_	_	_	_	_	_	_	_	
+1773	171_charlotte_temple_brat	0	6	man	_	_	_	_	_	_	_	_	
+1774	171_charlotte_temple_brat	0	7	arose	_	_	_	_	_	_	_	_	
+1775	171_charlotte_temple_brat	0	8	from	_	_	_	_	_	_	_	_	
+1776	171_charlotte_temple_brat	0	9	his	_	_	_	_	_	_	_	_	
+1777	171_charlotte_temple_brat	0	10	seat	_	_	_	_	_	_	_	_	
+1778	171_charlotte_temple_brat	0	11	,	_	_	_	_	_	_	_	_	
+1779	171_charlotte_temple_brat	0	12	and	_	_	_	_	_	_	_	_	
+1780	171_charlotte_temple_brat	0	13	shaking	_	_	_	_	_	_	_	_	
+1781	171_charlotte_temple_brat	0	14	Blakeney	_	_	_	_	_	_	_	_	(38)
+1782	171_charlotte_temple_brat	0	15	by	_	_	_	_	_	_	_	_	
+1783	171_charlotte_temple_brat	0	16	the	_	_	_	_	_	_	_	_	
+1784	171_charlotte_temple_brat	0	17	hand	_	_	_	_	_	_	_	_	
+1785	171_charlotte_temple_brat	0	18	with	_	_	_	_	_	_	_	_	
+1786	171_charlotte_temple_brat	0	19	great	_	_	_	_	_	_	_	_	
+1787	171_charlotte_temple_brat	0	20	cordiality	_	_	_	_	_	_	_	_	
+1788	171_charlotte_temple_brat	0	21	,	_	_	_	_	_	_	_	_	
+1789	171_charlotte_temple_brat	0	22	offered	_	_	_	_	_	_	_	_	
+1790	171_charlotte_temple_brat	0	23	Temple	_	_	_	_	_	_	_	_	(28)
+1791	171_charlotte_temple_brat	0	24	his	_	_	_	_	_	_	_	_	
+1792	171_charlotte_temple_brat	0	25	chair	_	_	_	_	_	_	_	_	
+1793	171_charlotte_temple_brat	0	26	;	_	_	_	_	_	_	_	_	
+1794	171_charlotte_temple_brat	0	27	and	_	_	_	_	_	_	_	_	
+1795	171_charlotte_temple_brat	0	28	there	_	_	_	_	_	_	_	_	
+1796	171_charlotte_temple_brat	0	29	being	_	_	_	_	_	_	_	_	
+1797	171_charlotte_temple_brat	0	30	but	_	_	_	_	_	_	_	_	
+1798	171_charlotte_temple_brat	0	31	three	_	_	_	_	_	_	_	_	
+1799	171_charlotte_temple_brat	0	32	in	_	_	_	_	_	_	_	_	
+1800	171_charlotte_temple_brat	0	33	the	_	_	_	_	_	_	_	_	
+1801	171_charlotte_temple_brat	0	34	room	_	_	_	_	_	_	_	_	
+1802	171_charlotte_temple_brat	0	35	,	_	_	_	_	_	_	_	_	
+1803	171_charlotte_temple_brat	0	36	seated	_	_	_	_	_	_	_	_	
+1804	171_charlotte_temple_brat	0	37	himself	_	_	_	_	_	_	_	_	
+1805	171_charlotte_temple_brat	0	38	on	_	_	_	_	_	_	_	_	
+1806	171_charlotte_temple_brat	0	39	the	_	_	_	_	_	_	_	_	
+1807	171_charlotte_temple_brat	0	40	side	_	_	_	_	_	_	_	_	
+1808	171_charlotte_temple_brat	0	41	of	_	_	_	_	_	_	_	_	
+1809	171_charlotte_temple_brat	0	42	his	_	_	_	_	_	_	_	_	
+1810	171_charlotte_temple_brat	0	43	little	_	_	_	_	_	_	_	_	
+1811	171_charlotte_temple_brat	0	44	bed	_	_	_	_	_	_	_	_	
+1812	171_charlotte_temple_brat	0	45	with	_	_	_	_	_	_	_	_	
+1813	171_charlotte_temple_brat	0	46	evident	_	_	_	_	_	_	_	_	
+1814	171_charlotte_temple_brat	0	47	composure	_	_	_	_	_	_	_	_	
+1815	171_charlotte_temple_brat	0	48	.	_	_	_	_	_	_	_	_	
+1816	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+1817	171_charlotte_temple_brat	0	1	This	_	_	_	_	_	_	_	_	
+1818	171_charlotte_temple_brat	0	2	is	_	_	_	_	_	_	_	_	
+1819	171_charlotte_temple_brat	0	3	a	_	_	_	_	_	_	_	_	
+1820	171_charlotte_temple_brat	0	4	strange	_	_	_	_	_	_	_	_	
+1821	171_charlotte_temple_brat	0	5	place	_	_	_	_	_	_	_	_	
+1822	171_charlotte_temple_brat	0	6	,	_	_	_	_	_	_	_	_	
+1823	171_charlotte_temple_brat	0	7	”	_	_	_	_	_	_	_	_	
+1824	171_charlotte_temple_brat	0	8	said	_	_	_	_	_	_	_	_	
+1825	171_charlotte_temple_brat	0	9	he	_	_	_	_	_	_	_	_	
+1826	171_charlotte_temple_brat	0	10	to	_	_	_	_	_	_	_	_	
+1827	171_charlotte_temple_brat	0	11	Temple	_	_	_	_	_	_	_	_	(28)
+1828	171_charlotte_temple_brat	0	12	,	_	_	_	_	_	_	_	_	
+1829	171_charlotte_temple_brat	0	13	“	_	_	_	_	_	_	_	_	
+1830	171_charlotte_temple_brat	0	14	to	_	_	_	_	_	_	_	_	
+1831	171_charlotte_temple_brat	0	15	receive	_	_	_	_	_	_	_	_	
+1832	171_charlotte_temple_brat	0	16	visitors	_	_	_	_	_	_	_	_	(51
+1833	171_charlotte_temple_brat	0	17	of	_	_	_	_	_	_	_	_	
+1834	171_charlotte_temple_brat	0	18	distinction	_	_	_	_	_	_	_	_	51)
+1835	171_charlotte_temple_brat	0	19	in	_	_	_	_	_	_	_	_	
+1836	171_charlotte_temple_brat	0	20	;	_	_	_	_	_	_	_	_	
+1837	171_charlotte_temple_brat	0	21	but	_	_	_	_	_	_	_	_	
+1838	171_charlotte_temple_brat	0	22	we	_	_	_	_	_	_	_	_	(52)
+1839	171_charlotte_temple_brat	0	23	must	_	_	_	_	_	_	_	_	
+1840	171_charlotte_temple_brat	0	24	fit	_	_	_	_	_	_	_	_	
+1841	171_charlotte_temple_brat	0	25	our	_	_	_	_	_	_	_	_	(52)
+1842	171_charlotte_temple_brat	0	26	feelings	_	_	_	_	_	_	_	_	
+1843	171_charlotte_temple_brat	0	27	to	_	_	_	_	_	_	_	_	
+1844	171_charlotte_temple_brat	0	28	our	_	_	_	_	_	_	_	_	(52)
+1845	171_charlotte_temple_brat	0	29	station	_	_	_	_	_	_	_	_	
+1846	171_charlotte_temple_brat	0	30	.	_	_	_	_	_	_	_	_	
+1847	171_charlotte_temple_brat	0	0	While	_	_	_	_	_	_	_	_	
+1848	171_charlotte_temple_brat	0	1	I	_	_	_	_	_	_	_	_	
+1849	171_charlotte_temple_brat	0	2	am	_	_	_	_	_	_	_	_	
+1850	171_charlotte_temple_brat	0	3	not	_	_	_	_	_	_	_	_	
+1851	171_charlotte_temple_brat	0	4	ashamed	_	_	_	_	_	_	_	_	
+1852	171_charlotte_temple_brat	0	5	to	_	_	_	_	_	_	_	_	
+1853	171_charlotte_temple_brat	0	6	own	_	_	_	_	_	_	_	_	
+1854	171_charlotte_temple_brat	0	7	the	_	_	_	_	_	_	_	_	
+1855	171_charlotte_temple_brat	0	8	cause	_	_	_	_	_	_	_	_	
+1856	171_charlotte_temple_brat	0	9	which	_	_	_	_	_	_	_	_	
+1857	171_charlotte_temple_brat	0	10	brought	_	_	_	_	_	_	_	_	
+1858	171_charlotte_temple_brat	0	11	me	_	_	_	_	_	_	_	_	
+1859	171_charlotte_temple_brat	0	12	here	_	_	_	_	_	_	_	_	
+1860	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+1861	171_charlotte_temple_brat	0	14	why	_	_	_	_	_	_	_	_	
+1862	171_charlotte_temple_brat	0	15	should	_	_	_	_	_	_	_	_	
+1863	171_charlotte_temple_brat	0	16	I	_	_	_	_	_	_	_	_	
+1864	171_charlotte_temple_brat	0	17	blush	_	_	_	_	_	_	_	_	
+1865	171_charlotte_temple_brat	0	18	at	_	_	_	_	_	_	_	_	
+1866	171_charlotte_temple_brat	0	19	my	_	_	_	_	_	_	_	_	
+1867	171_charlotte_temple_brat	0	20	situation	_	_	_	_	_	_	_	_	
+1868	171_charlotte_temple_brat	0	21	?	_	_	_	_	_	_	_	_	
+1869	171_charlotte_temple_brat	0	0	Our	_	_	_	_	_	_	_	_	(53)
+1870	171_charlotte_temple_brat	0	1	misfortunes	_	_	_	_	_	_	_	_	
+1871	171_charlotte_temple_brat	0	2	are	_	_	_	_	_	_	_	_	
+1872	171_charlotte_temple_brat	0	3	not	_	_	_	_	_	_	_	_	
+1873	171_charlotte_temple_brat	0	4	our	_	_	_	_	_	_	_	_	(53)
+1874	171_charlotte_temple_brat	0	5	faults	_	_	_	_	_	_	_	_	
+1875	171_charlotte_temple_brat	0	6	;	_	_	_	_	_	_	_	_	
+1876	171_charlotte_temple_brat	0	7	and	_	_	_	_	_	_	_	_	
+1877	171_charlotte_temple_brat	0	8	were	_	_	_	_	_	_	_	_	
+1878	171_charlotte_temple_brat	0	9	it	_	_	_	_	_	_	_	_	
+1879	171_charlotte_temple_brat	0	10	not	_	_	_	_	_	_	_	_	
+1880	171_charlotte_temple_brat	0	11	for	_	_	_	_	_	_	_	_	
+1881	171_charlotte_temple_brat	0	12	that	_	_	_	_	_	_	_	_	(49
+1882	171_charlotte_temple_brat	0	13	poor	_	_	_	_	_	_	_	_	
+1883	171_charlotte_temple_brat	0	14	girl	_	_	_	_	_	_	_	_	49)
+1884	171_charlotte_temple_brat	0	15	--	_	_	_	_	_	_	_	_	
+1885	171_charlotte_temple_brat	0	16	”	_	_	_	_	_	_	_	_	
+1886	171_charlotte_temple_brat	0	17	Here	_	_	_	_	_	_	_	_	
+1887	171_charlotte_temple_brat	0	18	the	_	_	_	_	_	_	_	_	(54
+1888	171_charlotte_temple_brat	0	19	philosopher	_	_	_	_	_	_	_	_	54)
+1889	171_charlotte_temple_brat	0	20	was	_	_	_	_	_	_	_	_	
+1890	171_charlotte_temple_brat	0	21	lost	_	_	_	_	_	_	_	_	
+1891	171_charlotte_temple_brat	0	22	in	_	_	_	_	_	_	_	_	
+1892	171_charlotte_temple_brat	0	23	the	_	_	_	_	_	_	_	_	(55
+1893	171_charlotte_temple_brat	0	24	father	_	_	_	_	_	_	_	_	55)
+1894	171_charlotte_temple_brat	0	25	.	_	_	_	_	_	_	_	_	
+1895	171_charlotte_temple_brat	0	0	He	_	_	_	_	_	_	_	_	
+1896	171_charlotte_temple_brat	0	1	rose	_	_	_	_	_	_	_	_	
+1897	171_charlotte_temple_brat	0	2	hastily	_	_	_	_	_	_	_	_	
+1898	171_charlotte_temple_brat	0	3	from	_	_	_	_	_	_	_	_	
+1899	171_charlotte_temple_brat	0	4	his	_	_	_	_	_	_	_	_	
+1900	171_charlotte_temple_brat	0	5	seat	_	_	_	_	_	_	_	_	
+1901	171_charlotte_temple_brat	0	6	,	_	_	_	_	_	_	_	_	
+1902	171_charlotte_temple_brat	0	7	and	_	_	_	_	_	_	_	_	
+1903	171_charlotte_temple_brat	0	8	walking	_	_	_	_	_	_	_	_	
+1904	171_charlotte_temple_brat	0	9	toward	_	_	_	_	_	_	_	_	
+1905	171_charlotte_temple_brat	0	10	the	_	_	_	_	_	_	_	_	
+1906	171_charlotte_temple_brat	0	11	window	_	_	_	_	_	_	_	_	
+1907	171_charlotte_temple_brat	0	12	,	_	_	_	_	_	_	_	_	
+1908	171_charlotte_temple_brat	0	13	wiped	_	_	_	_	_	_	_	_	
+1909	171_charlotte_temple_brat	0	14	off	_	_	_	_	_	_	_	_	
+1910	171_charlotte_temple_brat	0	15	a	_	_	_	_	_	_	_	_	
+1911	171_charlotte_temple_brat	0	16	tear	_	_	_	_	_	_	_	_	
+1912	171_charlotte_temple_brat	0	17	which	_	_	_	_	_	_	_	_	
+1913	171_charlotte_temple_brat	0	18	he	_	_	_	_	_	_	_	_	
+1914	171_charlotte_temple_brat	0	19	was	_	_	_	_	_	_	_	_	
+1915	171_charlotte_temple_brat	0	20	afraid	_	_	_	_	_	_	_	_	
+1916	171_charlotte_temple_brat	0	21	would	_	_	_	_	_	_	_	_	
+1917	171_charlotte_temple_brat	0	22	tarnish	_	_	_	_	_	_	_	_	
+1918	171_charlotte_temple_brat	0	23	the	_	_	_	_	_	_	_	_	
+1919	171_charlotte_temple_brat	0	24	cheek	_	_	_	_	_	_	_	_	
+1920	171_charlotte_temple_brat	0	25	of	_	_	_	_	_	_	_	_	
+1921	171_charlotte_temple_brat	0	26	a	_	_	_	_	_	_	_	_	(56
+1922	171_charlotte_temple_brat	0	27	sailor	_	_	_	_	_	_	_	_	56)
+1923	171_charlotte_temple_brat	0	28	.	_	_	_	_	_	_	_	_	
+1924	171_charlotte_temple_brat	0	0	Temple	_	_	_	_	_	_	_	_	(28)
+1925	171_charlotte_temple_brat	0	1	cast	_	_	_	_	_	_	_	_	
+1926	171_charlotte_temple_brat	0	2	his	_	_	_	_	_	_	_	_	(28)
+1927	171_charlotte_temple_brat	0	3	eye	_	_	_	_	_	_	_	_	
+1928	171_charlotte_temple_brat	0	4	on	_	_	_	_	_	_	_	_	
+1929	171_charlotte_temple_brat	0	5	Miss	_	_	_	_	_	_	_	_	(49
+1930	171_charlotte_temple_brat	0	6	Eldridge	_	_	_	_	_	_	_	_	49)
+1931	171_charlotte_temple_brat	0	7	:	_	_	_	_	_	_	_	_	
+1932	171_charlotte_temple_brat	0	8	a	_	_	_	_	_	_	_	_	
+1933	171_charlotte_temple_brat	0	9	pellucid	_	_	_	_	_	_	_	_	
+1934	171_charlotte_temple_brat	0	10	drop	_	_	_	_	_	_	_	_	
+1935	171_charlotte_temple_brat	0	11	had	_	_	_	_	_	_	_	_	
+1936	171_charlotte_temple_brat	0	12	stolen	_	_	_	_	_	_	_	_	
+1937	171_charlotte_temple_brat	0	13	from	_	_	_	_	_	_	_	_	
+1938	171_charlotte_temple_brat	0	14	her	_	_	_	_	_	_	_	_	(49)
+1939	171_charlotte_temple_brat	0	15	eyes	_	_	_	_	_	_	_	_	
+1940	171_charlotte_temple_brat	0	16	,	_	_	_	_	_	_	_	_	
+1941	171_charlotte_temple_brat	0	17	and	_	_	_	_	_	_	_	_	
+1942	171_charlotte_temple_brat	0	18	fallen	_	_	_	_	_	_	_	_	
+1943	171_charlotte_temple_brat	0	19	upon	_	_	_	_	_	_	_	_	
+1944	171_charlotte_temple_brat	0	20	a	_	_	_	_	_	_	_	_	
+1945	171_charlotte_temple_brat	0	21	rose	_	_	_	_	_	_	_	_	
+1946	171_charlotte_temple_brat	0	22	she	_	_	_	_	_	_	_	_	(49)
+1947	171_charlotte_temple_brat	0	23	was	_	_	_	_	_	_	_	_	
+1948	171_charlotte_temple_brat	0	24	painting	_	_	_	_	_	_	_	_	
+1949	171_charlotte_temple_brat	0	25	.	_	_	_	_	_	_	_	_	
+1950	171_charlotte_temple_brat	0	0	It	_	_	_	_	_	_	_	_	
+1951	171_charlotte_temple_brat	0	1	blotted	_	_	_	_	_	_	_	_	
+1952	171_charlotte_temple_brat	0	2	and	_	_	_	_	_	_	_	_	
+1953	171_charlotte_temple_brat	0	3	discoloured	_	_	_	_	_	_	_	_	
+1954	171_charlotte_temple_brat	0	4	the	_	_	_	_	_	_	_	_	
+1955	171_charlotte_temple_brat	0	5	flower	_	_	_	_	_	_	_	_	
+1956	171_charlotte_temple_brat	0	6	.	_	_	_	_	_	_	_	_	
+1957	171_charlotte_temple_brat	0	0	“‘	_	_	_	_	_	_	_	_	
+1958	171_charlotte_temple_brat	0	1	Tis	_	_	_	_	_	_	_	_	
+1959	171_charlotte_temple_brat	0	2	emblematic	_	_	_	_	_	_	_	_	
+1960	171_charlotte_temple_brat	0	3	,	_	_	_	_	_	_	_	_	
+1961	171_charlotte_temple_brat	0	4	”	_	_	_	_	_	_	_	_	
+1962	171_charlotte_temple_brat	0	5	said	_	_	_	_	_	_	_	_	
+1963	171_charlotte_temple_brat	0	6	he	_	_	_	_	_	_	_	_	
+1964	171_charlotte_temple_brat	0	7	mentally	_	_	_	_	_	_	_	_	
+1965	171_charlotte_temple_brat	0	8	:	_	_	_	_	_	_	_	_	
+1966	171_charlotte_temple_brat	0	9	“	_	_	_	_	_	_	_	_	
+1967	171_charlotte_temple_brat	0	10	the	_	_	_	_	_	_	_	_	
+1968	171_charlotte_temple_brat	0	11	rose	_	_	_	_	_	_	_	_	
+1969	171_charlotte_temple_brat	0	12	of	_	_	_	_	_	_	_	_	
+1970	171_charlotte_temple_brat	0	13	youth	_	_	_	_	_	_	_	_	
+1971	171_charlotte_temple_brat	0	14	and	_	_	_	_	_	_	_	_	
+1972	171_charlotte_temple_brat	0	15	health	_	_	_	_	_	_	_	_	
+1973	171_charlotte_temple_brat	0	16	soon	_	_	_	_	_	_	_	_	
+1974	171_charlotte_temple_brat	0	17	fades	_	_	_	_	_	_	_	_	
+1975	171_charlotte_temple_brat	0	18	when	_	_	_	_	_	_	_	_	
+1976	171_charlotte_temple_brat	0	19	watered	_	_	_	_	_	_	_	_	
+1977	171_charlotte_temple_brat	0	20	by	_	_	_	_	_	_	_	_	
+1978	171_charlotte_temple_brat	0	21	the	_	_	_	_	_	_	_	_	
+1979	171_charlotte_temple_brat	0	22	tear	_	_	_	_	_	_	_	_	
+1980	171_charlotte_temple_brat	0	23	of	_	_	_	_	_	_	_	_	
+1981	171_charlotte_temple_brat	0	24	affliction	_	_	_	_	_	_	_	_	
+1982	171_charlotte_temple_brat	0	25	.	_	_	_	_	_	_	_	_	
+1983	171_charlotte_temple_brat	0	26	”	_	_	_	_	_	_	_	_	
+1984	171_charlotte_temple_brat	0	0	“	_	_	_	_	_	_	_	_	
+1985	171_charlotte_temple_brat	0	1	My	_	_	_	_	_	_	_	_	(38|(28)
+1986	171_charlotte_temple_brat	0	2	friend	_	_	_	_	_	_	_	_	38)
+1987	171_charlotte_temple_brat	0	3	Blakeney	_	_	_	_	_	_	_	_	(38)
+1988	171_charlotte_temple_brat	0	4	,	_	_	_	_	_	_	_	_	
+1989	171_charlotte_temple_brat	0	5	”	_	_	_	_	_	_	_	_	
+1990	171_charlotte_temple_brat	0	6	said	_	_	_	_	_	_	_	_	
+1991	171_charlotte_temple_brat	0	7	he	_	_	_	_	_	_	_	_	(28)
+1992	171_charlotte_temple_brat	0	8	,	_	_	_	_	_	_	_	_	
+1993	171_charlotte_temple_brat	0	9	addressing	_	_	_	_	_	_	_	_	
+1994	171_charlotte_temple_brat	0	10	the	_	_	_	_	_	_	_	_	
+1995	171_charlotte_temple_brat	0	11	old	_	_	_	_	_	_	_	_	
+1996	171_charlotte_temple_brat	0	12	man	_	_	_	_	_	_	_	_	
+1997	171_charlotte_temple_brat	0	13	,	_	_	_	_	_	_	_	_	
+1998	171_charlotte_temple_brat	0	14	“	_	_	_	_	_	_	_	_	
+1999	171_charlotte_temple_brat	0	15	told	_	_	_	_	_	_	_	_	
+2000	171_charlotte_temple_brat	0	16	me	_	_	_	_	_	_	_	_	(28)
+2001	171_charlotte_temple_brat	0	17	I	_	_	_	_	_	_	_	_	(28)
+2002	171_charlotte_temple_brat	0	18	could	_	_	_	_	_	_	_	_	
+2003	171_charlotte_temple_brat	0	19	be	_	_	_	_	_	_	_	_	
+2004	171_charlotte_temple_brat	0	20	of	_	_	_	_	_	_	_	_	
+2005	171_charlotte_temple_brat	0	21	service	_	_	_	_	_	_	_	_	
+2006	171_charlotte_temple_brat	0	22	to	_	_	_	_	_	_	_	_	
+2007	171_charlotte_temple_brat	0	23	you	_	_	_	_	_	_	_	_	
+2008	171_charlotte_temple_brat	0	24	:	_	_	_	_	_	_	_	_	
+2009	171_charlotte_temple_brat	0	25	be	_	_	_	_	_	_	_	_	
+2010	171_charlotte_temple_brat	0	26	so	_	_	_	_	_	_	_	_	
+2011	171_charlotte_temple_brat	0	27	kind	_	_	_	_	_	_	_	_	
+2012	171_charlotte_temple_brat	0	28	then	_	_	_	_	_	_	_	_	
+2013	171_charlotte_temple_brat	0	29	,	_	_	_	_	_	_	_	_	
+2014	171_charlotte_temple_brat	0	30	dear	_	_	_	_	_	_	_	_	
+2015	171_charlotte_temple_brat	0	31	Sir	_	_	_	_	_	_	_	_	
+2016	171_charlotte_temple_brat	0	32	,	_	_	_	_	_	_	_	_	
+2017	171_charlotte_temple_brat	0	33	as	_	_	_	_	_	_	_	_	
+2018	171_charlotte_temple_brat	0	34	to	_	_	_	_	_	_	_	_	
+2019	171_charlotte_temple_brat	0	35	point	_	_	_	_	_	_	_	_	
+2020	171_charlotte_temple_brat	0	36	out	_	_	_	_	_	_	_	_	
+2021	171_charlotte_temple_brat	0	37	some	_	_	_	_	_	_	_	_	
+2022	171_charlotte_temple_brat	0	38	way	_	_	_	_	_	_	_	_	
+2023	171_charlotte_temple_brat	0	39	in	_	_	_	_	_	_	_	_	
+2024	171_charlotte_temple_brat	0	40	which	_	_	_	_	_	_	_	_	
+2025	171_charlotte_temple_brat	0	41	I	_	_	_	_	_	_	_	_	(28)
+2026	171_charlotte_temple_brat	0	42	can	_	_	_	_	_	_	_	_	
+2027	171_charlotte_temple_brat	0	43	relieve	_	_	_	_	_	_	_	_	
+2028	171_charlotte_temple_brat	0	44	the	_	_	_	_	_	_	_	_	
+2029	171_charlotte_temple_brat	0	45	anxiety	_	_	_	_	_	_	_	_	
+2030	171_charlotte_temple_brat	0	46	of	_	_	_	_	_	_	_	_	
+2031	171_charlotte_temple_brat	0	47	your	_	_	_	_	_	_	_	_	
+2032	171_charlotte_temple_brat	0	48	heart	_	_	_	_	_	_	_	_	
+2033	171_charlotte_temple_brat	0	49	and	_	_	_	_	_	_	_	_	
+2034	171_charlotte_temple_brat	0	50	increase	_	_	_	_	_	_	_	_	
+2035	171_charlotte_temple_brat	0	51	the	_	_	_	_	_	_	_	_	
+2036	171_charlotte_temple_brat	0	52	pleasures	_	_	_	_	_	_	_	_	
+2037	171_charlotte_temple_brat	0	53	of	_	_	_	_	_	_	_	_	
+2038	171_charlotte_temple_brat	0	54	my	_	_	_	_	_	_	_	_	(28)
+2039	171_charlotte_temple_brat	0	55	own	_	_	_	_	_	_	_	_	
+2040	171_charlotte_temple_brat	0	56	.	_	_	_	_	_	_	_	_	
+2041	171_charlotte_temple_brat	0	57	”	_	_	_	_	_	_	_	_	
+2042	#end document												
