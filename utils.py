@@ -139,7 +139,8 @@ def list_to_doc(text):
   string = string.replace(' :', ':')
   string = string.replace('[ ', '[')
   string = string.replace(' ]', ']')
-  string = string.replace(" ' ", "'")
+  string = string.replace(" '", "'")
+  string = string.replace("' ", "'")
   string = string.replace("s'", "s' ")
   return string
 
@@ -269,8 +270,6 @@ indices as string indices
 def convert_dict(dic, document):
   for i in dic:
     for n in  range(len(dic[i])):
-      print(dic[i][n][0][0])
-      print(dic[i][n][0][1])
       list_text = document[dic[i][n][0][0]: dic[i][n][0][1]]
       text = list_to_doc(list_text)
       
@@ -290,16 +289,82 @@ def dict_ind_to_sentence(dictionary, document):
   return dictionary
 
 
-def total_function(clusters, characters_dict, characters_list, list_text):
+"""
+removes all pairs from dictionary that have no shared sentences
+"""
+def remove_empty(dic):
+  return {k:v for k,v in dic.items() if v}
+
+
+"""
+Input: sentence, list of indices of portion to replace with what to replace with
+       character id dictionary {key = id : value = character name}
+output: sentence with mentions replaced by corresponding entity
+"""
+def replace(cluster, char_id_dic):
+  sort = cluster[1]
+  sentence = cluster[0]
+  sort.sort(key=lambda i:i[1][0],reverse=False)
+  sentences = [sentence[:sort[0][1][0]]]
+  for i in range(len(sort)-1):
+    sentences.append(char_id_dic[sort[i][0]])
+    sentences.append(sentence[sort[i][1][1]:sort[i+1][1][0]])
+  sentences.append(char_id_dic[sort[-1][0]])
+  sentences.append(sentence[sort[-1][1][1]:]) 
+
+  return ''.join(sentences)
+
+
+"""
+Input: dictionary of pairs, with shared sentences and corresponding mentions/entities/indices
+Output: dictionary of pairs, with shared sentences where mention is replaced by entity 
+"""
+def alter_dict(dic, char_id_dic):
+  id_dic = dict((v,k) for k,v in char_id_dic.items())
+  for i in dic:
+    total = []
+    for n in dic[i]:
+      total.append(replace(n,id_dic) + '\n')
+    dic[i] = ''.join(total)
+  return dic
+
+
+"""
+put all together to output pairs with shared sentences with mentions replaced
+by entity
+"""
+def bigfunc_with_replace(clusters, characters_dict, characters_list, list_text):
   augmented_clusters = augment_clusters(clusters, characters_dict)
-  punctuation_indices = punctuation_indices(list_text)
-  augmented_indices = add_entity_indices(punctuation_indices, augmented_clusters)
+  punc_indices = punctuation_indices(list_text)
+  augmented_indices = add_entity_indices(punc_indices, augmented_clusters)
   shared = shared_sentences(augmented_indices)
   cleaned_shared = remove_same(shared)
 
   encoding_dict, shared_sentence_dict = character_pair_encoder(characters_list)
   pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
+  pair_dict = remove_empty(pair_dict)
   pair_dict = convert_dict(pair_dict, list_text)
+  pair_dict = alter_dict(pair_dict, characters_dict)
+
 
   return encoding_dict, pair_dict
 
+
+"""
+same as above, but doesn't replace mentions with entity, and keeps
+information of where the mentions are within the shared sentences
+and also what the mentions are
+"""
+def bigfunc_no_replace(clusters, characters_dict, characters_list, list_text):
+  augmented_clusters = augment_clusters(clusters, characters_dict)
+  punc_indices = punctuation_indices(list_text)
+  augmented_indices = add_entity_indices(punc_indices, augmented_clusters)
+  shared = shared_sentences(augmented_indices)
+  cleaned_shared = remove_same(shared)
+
+  encoding_dict, shared_sentence_dict = character_pair_encoder(characters_list)
+  pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
+  pair_dict = remove_empty(pair_dict)
+  pair_dict = convert_dict(pair_dict, list_text)
+
+  return encoding_dict, pair_dict
