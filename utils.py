@@ -116,7 +116,7 @@ def remove_same(sentences):
     if len(i[1]) == 2 and i[1][0][0] == i[1][1][0]:
       remove.append(count)
     count += 1
-  remove = remove.reverse()
+  remove.reverse()
   for i in remove:
     sentences.pop(i)
   return sentences
