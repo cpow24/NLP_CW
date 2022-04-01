@@ -71,7 +71,7 @@ def add_entity_indices(punc_indices, clusters):
   for cluster in clusters:
     starting_index = 0
     for i in range(len(cluster)-1):
-      for j in range(len(punc_indices[starting_index:])):
+      for j in range(len(punc_indices[starting_index:])-1):
         if cluster[i][0] > punc_indices[starting_index + j] and cluster[i][0] < punc_indices[starting_index + j+1]:
           index_additives[starting_index + j:] += 1
           augmented_list.insert(starting_index + j + int(index_additives.item(starting_index + j)), [cluster[i][0],[cluster[-1], cluster[i]]])
