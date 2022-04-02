@@ -6,6 +6,7 @@
 
 import numpy as np
 import itertools
+import json
 
 
 # In[2]:
@@ -39,7 +40,7 @@ Can easily be adapted to include ','
 """
 
 def punctuation_indices(document):
-  indices = [i for i, x in enumerate(document) if x == '.' or x == '?' or x == '!']
+  indices = [i for i, x in enumerate(document) if x == '.' or x == '?' or x == '!' or x == ';']
   prenames = ['Dr', 'Mr', 'Mrs', 'Miss', 'Ms']
   false_indices = []
   for i in range(len(document)):
@@ -139,9 +140,11 @@ def list_to_doc(text):
   string = string.replace(' :', ':')
   string = string.replace('[ ', '[')
   string = string.replace(' ]', ']')
-  string = string.replace(" '", "'")
-  string = string.replace("' ", "'")
-  string = string.replace("s'", "s' ")
+  string = string.replace(" ’ ", "’")
+  string = string.replace(" - ", "-")
+  string = string.replace("s’", "s’ ")
+  string = string.replace("\u201c ", "\u201c")
+  string = string.replace(" \u201d ", "\u201d")
   return string
 
 # In[9]:
@@ -330,6 +333,18 @@ def alter_dict(dic, char_id_dic):
 
 
 """
+given the shared sentences, returns dictionary with just the unaltered shared sentences
+"""
+def alter_dict_noreplace(dic):
+  for i in dic:
+    total = []
+    for n in dic[i]:
+      total.append(n[0])
+    dic[i] = total
+  return dic
+
+
+"""
 put all together to output pairs with shared sentences with mentions replaced
 by entity
 """
@@ -366,5 +381,8 @@ def bigfunc_no_replace(clusters, characters_dict, characters_list, list_text):
   pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
   pair_dict = remove_empty(pair_dict)
   pair_dict = convert_dict(pair_dict, list_text)
+  pair_dict = alter_dict_noreplace(pair_dict)
 
   return encoding_dict, pair_dict
+
+
