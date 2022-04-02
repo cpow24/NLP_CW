@@ -361,8 +361,10 @@ def bigfunc_with_replace(clusters, characters_dict, characters_list, list_text):
   pair_dict = convert_dict(pair_dict, list_text)
   pair_dict = alter_dict(pair_dict, characters_dict)
 
+  encoding_json = json.dumps(encoding_dict, indent = 4)
+  pair_json = json.dumps(pair_dict, indent = 4)
 
-  return encoding_dict, pair_dict
+  return encoding_json, pair_json
 
 
 """
@@ -383,6 +385,9 @@ def bigfunc_no_replace(clusters, characters_dict, characters_list, list_text):
   pair_dict = convert_dict(pair_dict, list_text)
   pair_dict = alter_dict_noreplace(pair_dict)
 
-  return encoding_dict, pair_dict
+  encoding_json = json.dumps(encoding_dict, indent = 4)
+  pair_json = json.dumps(pair_dict, indent = 4)
+
+  return encoding_json, pair_json
 
 
