@@ -277,7 +277,7 @@ def convert_dict(dic, document):
       text = list_to_doc(list_text)
       
       dic[i][n] = [text, [[a[0], list_to_str_index(list_text, rel_indices(dic[i][n][0], a[1])), 
-                           text[list_to_str_index(list_text, rel_indices(dic[i][n][0], a[1]))[0]:list_to_str_index(list_text, rel_indices(dic[i][n][0], a[1]))[1]]] for a in dic[i][n][1]]]
+                           text[list_to_str_index(list_text, rel_indices(dic[i][n][0], a[1]))[0]:list_to_str_index(list_text, rel_indices(dic[i][n][0], a[1]))[1]]] for a in dic[i][n][1]], dic[i][n][0][0]]
   return dic
 
 
@@ -333,13 +333,26 @@ def alter_dict(dic, char_id_dic):
 
 
 """
+same as above, but keeps sentence start index, and doesn't return block of text, but list 
+"""
+def new_alter_dict(dic, char_id_dic):
+  id_dic = dict((v,k) for k,v in char_id_dic.items())
+  for i in dic:
+    total = []
+    for n in dic[i]:
+      total.append(replace(n,id_dic) + '\n')
+    dic[i] = total
+  return dic
+
+
+"""
 given the shared sentences, returns dictionary with just the unaltered shared sentences
 """
 def alter_dict_noreplace(dic):
   for i in dic:
     total = []
     for n in dic[i]:
-      total.append(n[0])
+      total.append([n[1], n[0]])
     dic[i] = total
   return dic
 
