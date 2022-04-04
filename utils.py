@@ -372,7 +372,7 @@ def bigfunc_with_replace(clusters, characters_dict, characters_list, list_text):
   pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
   pair_dict = remove_empty(pair_dict)
   pair_dict = convert_dict(pair_dict, list_text)
-  pair_dict = alter_dict(pair_dict, characters_dict)
+  pair_dict = new_alter_dict(pair_dict, characters_dict)
 
   encoding_json = json.dumps(encoding_dict, indent = 4)
   pair_json = json.dumps(pair_dict, indent = 4)
