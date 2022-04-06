@@ -104,6 +104,24 @@ def shared_sentences(indices):
 
 
 """
+removes mentions contained in other mentions
+"""
+def clean_1(share):
+  for i in range(len(share)):
+    sort = share[i][1]
+    sort.sort(key=lambda j: (j[1][0], -j[1][1]),reverse=False)
+    output = [sort[0]]
+    #sort = np.asarray(sort)[:,1]
+    for num, r in sort[1:]:
+      prevL, prevR = output[-1][1]
+      if prevL <= r[0] and prevR >= r[1]:
+        continue
+      output.append([num,(r[0],r[1])])
+    share[i][1] = output
+  return share
+
+
+"""
 Input: List of 'shared' sentence beginning and end indices, with corresponding
 numbers representing the characters involved in the sentence
 Output: Removes all entries where the same character appears more than once
@@ -114,7 +132,7 @@ def remove_same(sentences):
   remove = []
   count = 0
   for i in sentences:
-    if len(i[1]) == 2 and i[1][0][0] == i[1][1][0]:
+    if len(list(set(np.asarray(i[1])[:,0]))) == 1:
       remove.append(count)
     count += 1
   remove.reverse()
@@ -168,7 +186,7 @@ def augment_clusters(clusters, characters):
         check_in = True
         number = characters[i[1]]
         #character = i[1]
-        if i[1] not in augmented_clusters:
+        if number not in augmented_clusters:
           check_first = True
         break
     if check_in:
@@ -177,22 +195,33 @@ def augment_clusters(clusters, characters):
       else:
         augmented_clusters[number].extend([i[0] for i in cluster])
 
+  for i in augmented_clusters:
+    augmented_clusters[i] = list(set(augmented_clusters[i]))
+    augmented_clusters[i].sort(key=lambda j: (j[0], -j[1]),reverse=False)
+    output = [augmented_clusters[i][0]]
+    for l, r in augmented_clusters[i][1:]:
+      prevL, prevR = output[-1]
+      if prevL <= l and prevR >= r:
+        continue
+      output.append((l,r))
+    augmented_clusters[i] = output
+
   list_augmented_clusters = list(augmented_clusters.items())
 
   def tuple_to_list(tupl):
     new_list = [i for i in tupl]
     return new_list
 
-  def sort_tuples(key_value):
-    key_value[1].sort(key=lambda i:i[0],reverse=False)
-    return key_value
+  """def sort_tuples(key_value):
+          key_value[1].sort(key=lambda i:i[0],reverse=False)
+          return key_value"""
 
   def start_to_end(some_list):
     new_list = some_list[1]
     new_list.append(some_list[0])
     return new_list
 
-  augmented_list = [start_to_end(sort_tuples(tuple_to_list(i))) for i in list_augmented_clusters]
+  augmented_list = [start_to_end(tuple_to_list(i)) for i in list_augmented_clusters]
   
   return augmented_list
 
@@ -308,6 +337,7 @@ def replace(cluster, char_id_dic):
   sort = cluster[1]
   sentence = cluster[0]
   sort.sort(key=lambda i:i[1][0],reverse=False)
+
   sentences = [sentence[:sort[0][1][0]]]
   for i in range(len(sort)-1):
     sentences.append(char_id_dic[sort[i][0]])
@@ -340,7 +370,7 @@ def new_alter_dict(dic, char_id_dic):
   for i in dic:
     total = []
     for n in dic[i]:
-      total.append(replace(n,id_dic))
+      total.append([n[-1],replace(n,id_dic)])
     dic[i] = total
   return dic
 
@@ -352,7 +382,7 @@ def alter_dict_noreplace(dic):
   for i in dic:
     total = []
     for n in dic[i]:
-      total.append([n[1], n[0]])
+      total.append([n[-1], n[0]])
     dic[i] = total
   return dic
 
@@ -369,11 +399,12 @@ def bigfunc_with_replace(clusters, characters_dict, characters_list, list_text, 
   punc_indices = punctuation_indices(list_text)
   augmented_indices = add_entity_indices(punc_indices, augmented_clusters)
   shared = shared_sentences(augmented_indices)
+  shared = clean_1(shared)
   cleaned_shared = remove_same(shared)
 
   encoding_dict, shared_sentence_dict = character_pair_encoder(characters_list)
   pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
-  pair_dict = remove_empty(pair_dict)
+  #pair_dict = remove_empty(pair_dict)
   pair_dict = convert_dict(pair_dict, list_text, additor)
   pair_dict = new_alter_dict(pair_dict, characters_dict)
 
@@ -393,11 +424,12 @@ def bigfunc_no_replace(clusters, characters_dict, characters_list, list_text, ad
   punc_indices = punctuation_indices(list_text)
   augmented_indices = add_entity_indices(punc_indices, augmented_clusters)
   shared = shared_sentences(augmented_indices)
+  shared = clean_1(shared)
   cleaned_shared = remove_same(shared)
 
   encoding_dict, shared_sentence_dict = character_pair_encoder(characters_list)
   pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
-  pair_dict = remove_empty(pair_dict)
+  #pair_dict = remove_empty(pair_dict)
   pair_dict = convert_dict(pair_dict, list_text, additor)
   pair_dict = alter_dict_noreplace(pair_dict)
 
