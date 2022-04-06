@@ -409,9 +409,9 @@ def bigfunc_with_replace(clusters, characters_dict, characters_list, list_text, 
   pair_dict = new_alter_dict(pair_dict, characters_dict)
 
   encoding_json = json.dumps(encoding_dict, indent = 4)
-  pair_json = json.dumps(pair_dict, indent = 4)
+  #pair_json = json.dumps(pair_dict, indent = 4)
 
-  return encoding_json, pair_json
+  return encoding_json, pair_dict
 
 
 """
@@ -434,8 +434,36 @@ def bigfunc_no_replace(clusters, characters_dict, characters_list, list_text, ad
   pair_dict = alter_dict_noreplace(pair_dict)
 
   encoding_json = json.dumps(encoding_dict, indent = 4)
-  pair_json = json.dumps(pair_dict, indent = 4)
+  #pair_json = json.dumps(pair_dict, indent = 4)
 
-  return encoding_json, pair_json
+  return encoding_json, pair_dict
 
+
+"""
+Function that given list of dictionaries with same keys, amalgamates values chronologically,
+and doesn't including extra overlapping sentences
+"""
+def amalgamate(dics):
+  for i in range(len(dics)-1):
+    for j in dics[i]:
+      if dics[i][j] == []:
+        continue
+      if dics[i+1][j] == []:
+        continue
+      value = dics[i][j][-1][0]
+      for k in range(len(dics[i+1][j])):
+        if dics[i+1][j][k][0] > value:
+          dics[i+1][j] = dics[i+1][j][k+1:]
+          break
+        if k == len(dics[i+1][j]):
+          dics[i+1][j] = []
+          break
+
+  for j in dics[0]:
+    for i in range(len(dics)-1):
+      dics[0][j].extend(dics[i+1][j])
+  
+  pair_json = json.dumps(remove_empty(dics[0]), indent = 4)
+
+  return pair_json  
 
