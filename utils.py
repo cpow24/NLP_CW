@@ -229,6 +229,51 @@ def augment_clusters(clusters, characters):
   return augmented_list
 
 
+"""
+same as above, but assigns clusters to most occuring character
+"""
+def augment_clusters_new(clusters, characters):
+  augmented_clusters = {}
+  for cluster in clusters:
+    tallies = dict.fromkeys(characters.keys(),0)
+    for i in cluster:
+      if i[1] in characters:
+        tallies[i[1]] += 1
+    char = max(tallies, key = tallies.get)
+    number = characters[char]
+    if number in augmented_clusters:
+      augmented_clusters[number].extend([i[0] for i in cluster])
+    else:
+      augmented_clusters[number] = [i[0] for i in cluster]
+
+  for i in augmented_clusters:
+    augmented_clusters[i] = list(set(augmented_clusters[i]))
+    augmented_clusters[i].sort(key=lambda j: (j[0], -j[1]),reverse=False)
+    output = [augmented_clusters[i][0]]
+    for l, r in augmented_clusters[i][1:]:
+      prevL, prevR = output[-1]
+      if prevL <= l and prevR >= r:
+        continue
+      output.append((l,r))
+    augmented_clusters[i] = output
+
+  list_augmented_clusters = list(augmented_clusters.items())
+
+  def tuple_to_list(tupl):
+    new_list = [i for i in tupl]
+    return new_list
+
+
+  def start_to_end(some_list):
+    new_list = some_list[1]
+    new_list.append(some_list[0])
+    return new_list
+
+  augmented_list = [start_to_end(tuple_to_list(i)) for i in list_augmented_clusters]
+  
+  return augmented_list
+
+
 # In[10]:
 
 
@@ -398,7 +443,7 @@ put all together to output pairs with shared sentences with mentions replaced
 by entity
 """
 def bigfunc_with_replace(clusters, characters_dict, characters_list, list_text, additor):
-  augmented_clusters = augment_clusters(clusters, characters_dict)
+  augmented_clusters = augment_clusters_new(clusters, characters_dict)
   punc_indices = punctuation_indices(list_text)
   augmented_indices = add_entity_indices(punc_indices, augmented_clusters)
   shared = shared_sentences(augmented_indices)
@@ -423,7 +468,7 @@ information of where the mentions are within the shared sentences
 and also what the mentions are
 """
 def bigfunc_no_replace(clusters, characters_dict, characters_list, list_text, additor):
-  augmented_clusters = augment_clusters(clusters, characters_dict)
+  augmented_clusters = augment_clusters_new(clusters, characters_dict)
   punc_indices = punctuation_indices(list_text)
   augmented_indices = add_entity_indices(punc_indices, augmented_clusters)
   shared = shared_sentences(augmented_indices)
