@@ -300,6 +300,22 @@ def character_pair_encoder(characters):
   return dictionary_1, dictionary_2
 
 
+def character_pair_encoder_new(characters):
+  n = len(characters)
+  numbers = list(range(n+1))
+  numbers.remove(0)
+
+  dictionary_1 = {}
+  dictionary_2 = {}
+
+  for i in numbers:
+    for j in numbers[i:]:
+      dictionary_1[str(set([i,j]))] = (characters[i-1][1], characters[j-1][1])
+      dictionary_2[str(set([i,j]))] = []
+
+  return dictionary_1, dictionary_2
+
+
 # In[11]:
 
 
@@ -317,6 +333,16 @@ def assign_to_dict(shared, pair_dict):
     else:
       for a in list(itertools.combinations(set(np.asarray(i[1])[:,0]), 2)):
         pair_dict[a[0]**2 + a[1]**2].extend([i])
+  return pair_dict
+
+
+def assign_to_dict_new(shared, pair_dict):
+  for i in shared:
+    if len(i[1]) == 2:
+      pair_dict[str(set([i[1][0][0], i[1][1][0]]))].extend([i])
+    else:
+      for a in list(itertools.combinations(set(np.asarray(i[1])[:,0]), 2)):
+        pair_dict[str(set([a[0], a[1]]))].extend([i])
   return pair_dict
 
 
@@ -450,8 +476,8 @@ def bigfunc_with_replace(clusters, characters_dict, characters_list, list_text, 
   shared = clean_1(shared)
   cleaned_shared = remove_same(shared)
 
-  encoding_dict, shared_sentence_dict = character_pair_encoder(characters_list)
-  pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
+  encoding_dict, shared_sentence_dict = character_pair_encoder_new(characters_list)
+  pair_dict = assign_to_dict_new(cleaned_shared, shared_sentence_dict)
   #pair_dict = remove_empty(pair_dict)
   pair_dict = convert_dict(pair_dict, list_text, additor)
   pair_dict = new_alter_dict(pair_dict, characters_dict)
@@ -475,8 +501,8 @@ def bigfunc_no_replace(clusters, characters_dict, characters_list, list_text, ad
   shared = clean_1(shared)
   cleaned_shared = remove_same(shared)
 
-  encoding_dict, shared_sentence_dict = character_pair_encoder(characters_list)
-  pair_dict = assign_to_dict(cleaned_shared, shared_sentence_dict)
+  encoding_dict, shared_sentence_dict = character_pair_encoder_new(characters_list)
+  pair_dict = assign_to_dict_new(cleaned_shared, shared_sentence_dict)
   #pair_dict = remove_empty(pair_dict)
   pair_dict = convert_dict(pair_dict, list_text, additor)
   pair_dict = alter_dict_noreplace(pair_dict)
