@@ -310,8 +310,8 @@ def character_pair_encoder_new(characters):
 
   for i in numbers:
     for j in numbers[i:]:
-      dictionary_1[str(set([i,j]))] = (characters[i-1][1], characters[j-1][1])
-      dictionary_2[str(set([i,j]))] = []
+      dictionary_1[sorted([i,j])] = (characters[i-1][1], characters[j-1][1])
+      dictionary_2[sorted([i,j])] = []
 
   return dictionary_1, dictionary_2
 
@@ -339,10 +339,10 @@ def assign_to_dict(shared, pair_dict):
 def assign_to_dict_new(shared, pair_dict):
   for i in shared:
     if len(i[1]) == 2:
-      pair_dict[str(set([i[1][0][0], i[1][1][0]]))].extend([i])
+      pair_dict[sorted([i[1][0][0], i[1][1][0]])].extend([i])
     else:
       for a in list(itertools.combinations(set(np.asarray(i[1])[:,0]), 2)):
-        pair_dict[str(set([a[0], a[1]]))].extend([i])
+        pair_dict[sorted([a[0], a[1]])].extend([i])
   return pair_dict
 
 
