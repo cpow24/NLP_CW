@@ -7,6 +7,9 @@
 import numpy as np
 import itertools
 import json
+import sys
+import pickle
+import re
 
 
 # In[2]:
@@ -541,3 +544,140 @@ def amalgamate(dics):
 
   return pair_json  
 
+
+
+def get_char_ids(char_list):
+
+  #Dictionary of character IDs
+  char_dict = {}
+
+  for id, char in enumerate(char_list):
+    char_dict[char] = id + 1
+  
+  return char_dict
+
+def char_id_list(char_list):
+    char_list = [0] + char_list
+    char_list = [[i,a] for i,a in enumerate(char_list)]
+    char_list.pop(0)
+    return char_list
+
+
+
+
+def do_coreference(book, doc):
+
+  doc = re.sub('\n', ' ', doc)
+  doc = re.sub('\'', '’', doc)
+  doc = re.sub(' \"', ' \u201c', doc)
+  doc = re.sub('\" ', '\u201d ', doc)
+
+  inference_model = Inference("character_relationship_analysis/char_coref/model.pth")
+
+  if book == 1:
+    portion_1 = doc[:200000]
+    output = inference_model.perform_coreference(portion)
+    output_1 = output["clusters"]
+
+    portion_2 = doc[199900:]
+    output = inference_model.perform_coreference(portion)
+    output_2 = output["clusters"]
+
+    clusters = [output_1,output_2]
+    
+  elif book == 3:
+    portion_1 = doc[:200000]
+    output = inference_model.perform_coreference(portion)
+    output_1 = output["clusters"]
+
+    portion_2 = doc[199900:400000]
+    output = inference_model.perform_coreference(portion)
+    output_2 = output["clusters"]
+
+    portion_3 = doc[399900:600000]
+    output = inference_model.perform_coreference(portion)
+    output_3 = output["clusters"]
+
+    portion_4 = doc[699900:]
+    output = inference_model.perform_coreference(portion)
+    output_4 = output["clusters"]
+
+    clusters = [output_1,output_2,output_3,output_4]
+  
+  else:
+    portion = doc
+    output = inference_model.perform_coreference(portion)
+    output = output["clusters"]
+
+    clusters = [output]
+
+  return clusters
+
+
+
+
+def get_shared_sentences(book, doc, chars, use_own = False, cluster_list = []):
+  if book == 1:
+    files = ['Book_1_new[_200000]', 'Book_1_new[199900_]']
+    ranges = [(0,200000), (199900,-1)]
+    char_list = list(chars[chars['book']=="Harry Potter Book 1"]['character'])
+    char_dict = get_char_ids(char_list)
+    char_list = char_id_list(char_list)
+
+  if book == 3:
+    files = ['dracula[_200000]', 'dracula[199900_400000]','dracula[399900_600000]', 'dracula[599900_]']
+    ranges = [(0,200000), (199900,400000), (399900,600000), (599900,-1)]
+    char_list = list(chars[chars['book']=="Dracula"]['character'])
+    char_dict = get_char_ids(char_list)
+    char_list = char_id_list(char_list)
+
+  if book == 4:
+    files = ['chocolate_factory']
+    ranges = [(0,-1)]
+    char_list = list(chars[chars['book']=="Chocolate Factory"]['character'])
+    char_dict = get_char_ids(char_list)
+    char_list = char_id_list(char_list)
+
+  if book == 2:
+    files = ['peter_pan']
+    ranges = [(0,-1)]
+    char_list = list(chars[chars['book']=="Peter Pan"]['character'])
+    char_dict = get_char_ids(char_list)
+    char_list = char_id_list(char_list)
+
+  if book == 5:
+    files = ['winnie_the_pooh']
+    ranges = [(0,-1)]
+    char_list = list(chars[chars['book']=="Winnie the Pooh"]['character'])
+    char_dict = get_char_ids(char_list)
+    char_list = char_id_list(char_list)
+  
+  doc = re.sub('\n', ' ', doc)
+  doc = re.sub('\'', '’', doc)
+  doc = re.sub(' \"', ' \u201c', doc)
+  doc = re.sub('\" ', '\u201d ', doc)
+
+  dics = []
+  for i in range(len(ranges)):
+    portion = doc[ranges[i][0]:ranges[i][1]]
+    pre_portion = doc[:ranges[i][0]]
+    
+    tokens = get_tokenized_doc(portion, tokenizer)
+    doc_tokens = flatten(tokens['sentences'])
+    pre_tokens = get_tokenized_doc(pre_portion, tokenizer)
+    pre_doc_tokens = flatten(pre_tokens['sentences'])
+    
+    document = inv_map(doc_tokens)
+
+    additive = calculate_additor(ranges[i][0], pre_doc_tokens)
+
+    if use_own:
+      clusters = cluster_list[i]
+    else:
+      with open(f"character_relationship_analysis/data/newest clusters/{files[i]}", "rb") as fp:
+        clusters = [j for j in pickle.load(fp)]
+    
+    encoding_dict, sentences = bigfunc_with_replace(clusters, char_dict, char_list, document, additive)
+    dics.append(sentences)
+
+  return encoding_dict, amalgamate(dics)
